@@ -61,29 +61,13 @@ User Information:
 
 In scripts/main.py: you do not need to change the booleans below, all models and data files are included in the repository
 
-#---------------------------------------------------------------------------------
-fetch_new_data = False #retrieves new data from the pokemon go database api
-recalculate_pokemon_data_files = False #will remove datafiles from the masterleague dataset
-rewrite_internal_data = False #rewrites all csv files in /internal from scraped data
-EDA = False #runs the EDA on pokemon specified and stored in /data/cache
+![image](https://github.com/user-attachments/assets/9ed4d4e4-47fc-4956-8c4a-4ac5311f956d)
 
-GEN_BATTLE_DB = False #only do this when the meta changes (for each new MasterLeague_Threats.csv) - updates database for model training
-TRAIN_MODELS = True # make new classification and regression models- only run if a model does not exist or parameters are changed
-model_dir = 'data/models/'
-threshold = 0.25 #has a threshold*100% chance of winning in the current ML meta
-#---------------------------------------------------------------------------------
 
 To run a prediction from the models, run main.py updating these lines with the data of your pokemon. The machine learning models should be pre-loaded in data/models
 the default entry of:
-#------------------------
-PREDICT_USING_MODEL = True
-pokemon_name = 'Melmetal'
-form_pokemon = 'Normal'
-moveset = 'best' #or specific moveset ['Psystrike','Shadow Claw','Ominous Wind'] (not optimized)
-is_shadow = False
-IVs = [14,14,14]
-LEVEL = 40
-#------------------------
+![image](https://github.com/user-attachments/assets/92c5ac6c-3ea0-481e-95bf-d6764160e535)
+
 
 should yield this output:
 Asking the machine if a [14, 14, 14] Melmetal at lvl 40 is viable in Master League...
