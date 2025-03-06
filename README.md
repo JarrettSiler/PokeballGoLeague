@@ -79,3 +79,9 @@ Asking the machine if a [14, 14, 14] Melmetal at lvl 40 is viable in Master Leag
        Acording to my calculations a Melmetal at or above level 33.5
                  should stand a chance in the Master League
        -----------------------------------------------------------------
+
+Sources:
+https://pokemongolive.com/?hl=en - game website
+https://pvpoke.com/ -battle outcome validation
+https://pogoapi.net/documentation/ -data used
+https://db.pokemongohub.net/ -pokemon reference
