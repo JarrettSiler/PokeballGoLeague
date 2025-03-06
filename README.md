@@ -84,4 +84,5 @@ Sources:
 https://pokemongolive.com/?hl=en - game website
 https://pvpoke.com/ -battle outcome validation
 https://pogoapi.net/documentation/ -data used
-https://db.pokemongohub.net/ -pokemon reference
+https://db.pokemongohub.net/ -pokemon reference and move effects
+https://pokemongo.gamepress.gg/c/tier-lists/master-league-pvp-tier-list - meta pokemon
