@@ -1,0 +1,296 @@
+energy_delta,name,power,turn_duration,type,move_type,is_elite
+4,Fury Cutter,2,1,Bug,fast,False
+3,Bug Bite,3,1,Bug,fast,False
+2,Bite,4,1,Dark,fast,False
+7,Sucker Punch,8,2,Dark,fast,False
+3,Dragon Breath,4,1,Dragon,fast,False
+9,Thunder Shock,3,2,Electric,fast,False
+7,Spark,5,2,Electric,fast,False
+5,Low Kick,4,2,Fighting,fast,False
+9,Karate Chop,5,2,Fighting,fast,False
+6,Ember,7,2,Fire,fast,False
+7,Wing Attack,5,2,Flying,fast,False
+5,Peck,6,2,Flying,fast,False
+3,Lick,3,1,Ghost,fast,False
+8,Shadow Claw,6,2,Ghost,fast,False
+8,Vine Whip,5,2,Grass,fast,False
+4,Razor Leaf,9,2,Grass,fast,False
+8,Mud Shot,4,2,Ground,fast,False
+10,Ice Shard,9,3,Ice,fast,False
+5,Frost Breath,7,2,Ice,fast,False
+8,Quick Attack,5,2,Normal,fast,False
+2,Scratch,4,1,Normal,fast,False
+3,Tackle,3,1,Normal,fast,False
+4,Pound,4,2,Normal,fast,False
+2,Cut,3,1,Normal,fast,False
+7,Poison Jab,7,2,Poison,fast,False
+5,Acid,6,2,Poison,fast,False
+9,Psycho Cut,3,2,Psychic,fast,False
+5,Rock Throw,8,2,Rock,fast,False
+7,Metal Claw,5,2,Steel,fast,False
+7,Bullet Punch,6,2,Steel,fast,False
+3,Water Gun,3,1,Water,fast,False
+12,Splash,0,4,Water,fast,False
+10,Mud Slap,12,3,Ground,fast,False
+6,Zen Headbutt,8,3,Psychic,fast,False
+12,Confusion,16,4,Psychic,fast,False
+9,Poison Sting,4,2,Poison,fast,False
+11,Bubble,8,3,Water,fast,False
+6,Feint Attack,6,2,Dark,fast,False
+6,Steel Wing,7,2,Steel,fast,False
+5,Fire Fang,8,2,Fire,fast,False
+7,Rock Smash,9,3,Fighting,fast,False
+0,Transform,0,3,Normal,fast,False
+6,Counter,8,2,Fighting,fast,False
+8,Powder Snow,5,2,Ice,fast,False
+11,Charge Beam,5,3,Electric,fast,False
+16,Volt Switch,12,4,Electric,fast,False
+9,Dragon Tail,13,3,Dragon,fast,False
+9,Air Slash,9,3,Flying,fast,False
+12,Infestation,6,3,Bug,fast,False
+8,Struggle Bug,9,3,Bug,fast,False
+10,Astonish,12,3,Ghost,fast,False
+12,Hex,6,3,Ghost,fast,False
+7,Iron Tail,10,3,Steel,fast,False
+10,Fire Spin,11,3,Fire,fast,False
+13,Bullet Seed,5,3,Grass,fast,False
+10,Extrasensory,8,3,Psychic,fast,False
+13,Snarl,5,3,Dark,fast,False
+8,Hidden Power,9,3,Normal,fast,False
+8,Take Down,5,3,Normal,fast,False
+8,Waterfall,12,3,Water,fast,False
+12,Yawn,0,4,Normal,fast,False
+12,Present,3,3,Normal,fast,False
+8,Smack Down,11,3,Rock,fast,False
+6,Charm,15,3,Fairy,fast,False
+5,Lock On,1,1,Normal,fast,False
+5,Thunder Fang,8,2,Electric,fast,False
+5,Ice Fang,8,2,Ice,fast,False
+12,Gust,16,4,Flying,fast,False
+20,Incinerate,20,5,Fire,fast,False
+9,Fairy Wind,4,2,Fairy,fast,False
+12,Double Kick,8,3,Fighting,fast,False
+10,Magical Leaf,10,3,Grass,fast,False
+13,Rollout,8,3,Rock,fast,False
+14,Water Shuriken,6,3,Water,fast,False
+7,Leafage,6,2,Grass,fast,False
+13,Geomancy,4,3,Fairy,fast,False
+4,Psywave,3,1,Psychic,fast,False
+8,Metal Sound,3,2,Steel,fast,False
+4,Sand Attack,2,1,Ground,fast,False
+10,Force Palm,13,3,Fighting,fast,False
+-45,Wrap,60,,Normal,charged,False
+-80,Hyper Beam,150,,Normal,charged,False
+-50,Dark Pulse,80,,Dark,charged,False
+-40,Sludge,50,,Poison,charged,False
+-40,Vice Grip,40,,Normal,charged,False
+-55,Flame Wheel,60,,Fire,charged,False
+-55,Megahorn,110,,Bug,charged,False
+-55,Flamethrower,90,,Fire,charged,False
+-50,Dig,70,,Ground,charged,False
+-35,Cross Chop,55,,Fighting,charged,False
+-60,Psybeam,70,,Psychic,charged,False
+-65,Earthquake,110,,Ground,charged,False
+-55,Stone Edge,100,,Rock,charged,False
+-40,Ice Punch,55,,Ice,charged,False
+-40,Heart Stamp,40,,Psychic,charged,False
+-45,Discharge,65,,Electric,charged,False
+-70,Flash Cannon,110,,Steel,charged,False
+-40,Drill Peck,65,,Flying,charged,False
+-55,Ice Beam,90,,Ice,charged,False
+-75,Blizzard,140,,Ice,charged,False
+-75,Heat Wave,95,,Fire,charged,False
+-40,Aerial Ace,55,,Flying,charged,False
+-45,Drill Run,80,,Ground,charged,False
+-65,Petal Blizzard,110,,Grass,charged,False
+-55,Mega Drain,25,,Grass,charged,False
+-60,Bug Buzz,100,,Bug,charged,False
+-40,Poison Fang,45,,Poison,charged,False
+-35,Night Slash,50,,Dark,charged,False
+-40,Bubble Beam,25,,Water,charged,False
+-50,Submission,60,,Fighting,charged,False
+-40,Low Sweep,40,,Fighting,charged,False
+-45,Aqua Jet,45,,Water,charged,False
+-35,Aqua Tail,55,,Water,charged,False
+-45,Seed Bomb,65,,Grass,charged,False
+-45,Psyshock,70,,Psychic,charged,False
+-45,Ancient Power,60,,Rock,charged,False
+-60,Rock Tomb,70,,Rock,charged,False
+-45,Rock Slide,65,,Rock,charged,False
+-50,Power Gem,85,,Rock,charged,False
+-45,Shadow Sneak,50,,Ghost,charged,False
+-35,Shadow Punch,55,,Ghost,charged,False
+-45,Ominous Wind,45,,Ghost,charged,False
+-55,Shadow Ball,100,,Ghost,charged,False
+-45,Magnet Bomb,70,,Steel,charged,False
+-50,Iron Head,70,,Steel,charged,False
+-50,Parabolic Charge,70,,Electric,charged,False
+-40,Thunder Punch,55,,Electric,charged,False
+-60,Thunder,100,,Electric,charged,False
+-55,Thunderbolt,90,,Electric,charged,False
+-45,Twister,45,,Dragon,charged,False
+-60,Dragon Pulse,90,,Dragon,charged,False
+-35,Dragon Claw,50,,Dragon,charged,False
+-45,Disarming Voice,70,,Fairy,charged,False
+-55,Draining Kiss,60,,Fairy,charged,False
+-70,Dazzling Gleam,110,,Fairy,charged,False
+-60,Moonblast,110,,Fairy,charged,False
+-60,Play Rough,90,,Fairy,charged,False
+-35,Cross Poison,50,,Poison,charged,False
+-50,Sludge Bomb,80,,Poison,charged,False
+-65,Sludge Wave,110,,Poison,charged,False
+-75,Gunk Shot,130,,Poison,charged,False
+-35,Bone Club,55,,Ground,charged,False
+-60,Bulldoze,80,,Ground,charged,False
+-40,Mud Bomb,60,,Ground,charged,False
+-55,Signal Beam,75,,Bug,charged,False
+-40,X Scissor,65,,Bug,charged,False
+-50,Flame Charge,65,,Fire,charged,False
+-55,Flame Burst,70,,Fire,charged,False
+-80,Fire Blast,140,,Fire,charged,False
+-50,Brine,60,,Water,charged,False
+-55,Water Pulse,80,,Water,charged,False
+-50,Scald,85,,Water,charged,False
+-75,Hydro Pump,130,,Water,charged,False
+-55,Psychic,75,,Psychic,charged,False
+-45,Psystrike,90,,Psychic,charged,False
+-45,Icy Wind,60,,Ice,charged,False
+-80,Giga Drain,50,,Grass,charged,False
+-40,Fire Punch,55,,Fire,charged,False
+-80,Solar Beam,150,,Grass,charged,False
+-35,Leaf Blade,70,,Grass,charged,False
+-50,Power Whip,90,,Grass,charged,False
+-55,Air Cutter,60,,Flying,charged,False
+-65,Hurricane,110,,Flying,charged,False
+-40,Brick Break,40,,Fighting,charged,False
+-35,Swift,55,,Normal,charged,False
+-35,Horn Attack,40,,Normal,charged,False
+-40,Stomp,55,,Normal,charged,False
+-50,Hyper Fang,80,,Normal,charged,False
+-35,Body Slam,50,,Normal,charged,False
+-35,Rest,50,,Normal,charged,False
+-100,Struggle,35,,Normal,charged,False
+-80,Scald Blastoise,50,,Water,charged,False
+-80,Hydro Pump Blastoise,90,,Water,charged,False
+-45,Wrap Green,25,,Normal,charged,False
+-45,Wrap Pink,25,,Normal,charged,False
+4,Water Gun Blastoise,6,,Water,charged,False
+-45,Close Combat,100,,Fighting,charged,False
+-50,Dynamic Punch,90,,Fighting,charged,False
+-75,Focus Blast,150,,Fighting,charged,False
+-60,Aurora Beam,80,,Ice,charged,False
+-45,Wild Charge,100,,Electric,charged,False
+-80,Zap Cannon,150,,Electric,charged,False
+-45,Avalanche,90,,Ice,charged,False
+-55,Brave Bird,130,,Flying,charged,False
+-55,Sky Attack,85,,Flying,charged,False
+-40,Sand Tomb,25,,Ground,charged,False
+-40,Rock Blast,50,,Rock,charged,False
+-45,Silver Wind,60,,Bug,charged,False
+-45,Night Shade,80,,Ghost,charged,False
+-60,Gyro Ball,80,,Steel,charged,False
+-50,Heavy Slam,70,,Steel,charged,False
+-55,Overheat,130,,Fire,charged,False
+-50,Grass Knot,90,,Grass,charged,False
+-55,Energy Ball,90,,Grass,charged,False
+-65,Futuresight,110,,Psychic,charged,False
+-55,Mirror Coat,60,,Psychic,charged,False
+-60,Outrage,110,,Dragon,charged,False
+-45,Crunch,70,,Dark,charged,False
+-45,Foul Play,70,,Dark,charged,False
+-45,Surf,75,,Water,charged,False
+-65,Draco Meteor,150,,Dragon,charged,False
+-40,Doom Desire,75,,Steel,charged,False
+-35,Psycho Boost,70,,Psychic,charged,False
+-60,Origin Pulse,130,,Water,charged,False
+-60,Precipice Blades,130,,Ground,charged,False
+-35,Weather Ball Fire,55,,Fire,charged,False
+-35,Weather Ball Ice,55,,Ice,charged,False
+-35,Weather Ball Rock,55,,Rock,charged,False
+-35,Weather Ball Water,55,,Water,charged,False
+-45,Frenzy Plant,100,,Grass,charged,False
+-50,Blast Burn,110,,Fire,charged,False
+-40,Hydro Cannon,80,,Water,charged,False
+-55,Last Resort,90,,Normal,charged,False
+-50,Meteor Mash,100,,Steel,charged,False
+-75,Skull Bash,130,,Normal,charged,False
+-45,Acid Spray,20,,Poison,charged,False
+-55,Earth Power,90,,Ground,charged,False
+-50,Crabhammer,85,,Water,charged,False
+-45,Lunge,60,,Bug,charged,False
+-50,Octazooka,50,,Water,charged,False
+-35,Mirror Shot,35,,Steel,charged,False
+-40,Super Power,85,,Fighting,charged,False
+-35,Fell Stinger,20,,Bug,charged,False
+-40,Leaf Tornado,45,,Grass,charged,False
+-40,Drain Punch,20,,Fighting,charged,False
+-45,Shadow Bone,80,,Ghost,charged,False
+-35,Muddy Water,35,,Water,charged,False
+-40,Blaze Kick,60,,Fire,charged,False
+-35,Razor Shell,35,,Water,charged,False
+-35,Power Up Punch,20,,Fighting,charged,False
+-80,Giga Impact,150,,Normal,charged,False
+-70,Frustration,10,,Normal,charged,False
+-70,Return,130,,Normal,charged,False
+-50,Synchronoise,80,,Psychic,charged,False
+-35,Sacred Sword,60,,Fighting,charged,False
+-40,Flying Press,90,,Fighting,charged,False
+-55,Aura Sphere,100,,Fighting,charged,False
+-60,Payback,110,,Dark,charged,False
+-50,Rock Wrecker,110,,Rock,charged,False
+-75,Aeroblast,170,,Flying,charged,False
+-55,Techno Blast Normal,120,,Normal,charged,False
+-55,Techno Blast Burn,120,,Fire,charged,False
+-55,Techno Blast Chill,120,,Ice,charged,False
+-55,Techno Blast Water,120,,Water,charged,False
+-55,Techno Blast Shock,120,,Electric,charged,False
+-45,Fly,80,,Flying,charged,False
+-40,V Create,95,,Fire,charged,False
+-55,Leaf Storm,130,,Grass,charged,False
+-50,Tri Attack,65,,Normal,charged,False
+-50,Feather Dance,35,,Flying,charged,False
+-35,Weather Ball Normal,55,,Normal,charged,False
+-35,Psychic Fangs,40,,Psychic,charged,False
+-65,Sacred Fire,130,,Fire,charged,False
+-40,Icicle Spear,65,,Ice,charged,False
+-75,Aeroblast Plus,170,,Flying,charged,False
+-75,Aeroblast Plus Plus,170,,Flying,charged,False
+-65,Sacred Fire Plus,130,,Fire,charged,False
+-65,Sacred Fire Plus Plus,130,,Fire,charged,False
+-60,Acrobatics,110,,Flying,charged,False
+-60,Luster Purge,120,,Psychic,charged,False
+-60,Mist Ball,120,,Psychic,charged,False
+-35,Brutal Swing,55,,Dark,charged,False
+-75,Seed Flare,130,,Grass,charged,False
+-40,Obstruct,15,,Dark,charged,False
+-90,Shadow Force,120,,Ghost,charged,False
+-60,Meteor Beam,120,,Rock,charged,False
+-45,Fusion Bolt,90,,Electric,charged,False
+-45,Fusion Flare,90,,Fire,charged,False
+-75,Poltergeist,150,,Ghost,charged,False
+-60,High Horsepower,100,,Ground,charged,False
+-40,Glaciate,60,,Ice,charged,False
+-35,Breaking Swipe,50,,Dragon,charged,False
+-70,Boomburst,150,,Normal,charged,False
+-35,Double Iron Bash,50,,Steel,charged,False
+-45,Mystical Fire,60,,Fire,charged,False
+-45,Liquidation,70,,Water,charged,False
+-70,Dragon Ascent,150,,Flying,charged,False
+-40,Magma Storm,65,,Fire,charged,False
+-50,Spacial Rend,95,,Dragon,charged,False
+-50,Oblivion Wing,85,,Flying,charged,False
+-50,Natures Madness,80,,Fairy,charged,False
+-45,Triple Axel,60,,Ice,charged,False
+-45,Trailblaze,65,,Grass,charged,False
+-50,Scorching Sands,80,,Ground,charged,False
+-65,Roar Of Time,150,,Dragon,charged,False
+-45,Bleakwind Storm,60,,Flying,charged,False
+-45,Sandsear Storm,60,,Ground,charged,False
+-45,Wildbolt Storm,60,,Electric,charged,False
+-40,Spirit Shackle,50,,Ghost,charged,False
+-50,Volt Tackle,90,,Electric,charged,False
+-60,Darkest Lariat,120,,Dark,charged,False
+-65,Sunsteel Strike,135,,Steel,charged,False
+-65,Moongeist Beam,135,,Ghost,charged,False
+-55,High Jump Kick,110,,Fighting,charged,False
+-45,Sparkling Aria,80,,Water,charged,False

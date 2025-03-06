@@ -1,0 +1,2 @@
+is_shadow,form,pokemon_name,level,IV_atk,IV_def,IV_sta,CP,HP,TDO,DPT,DPE,fast_move,first_charged_move,second_charged_move
+False,Normal,Latios,50,15,15,15,4311,172,170.38,11.02,1.9,Dragon Breath,Solar Beam,Luster Purge

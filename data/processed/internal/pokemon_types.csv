@@ -1,0 +1,1377 @@
+form,pokemon_name,type
+Fall_2019,Bulbasaur,"['Grass', 'Poison']"
+Normal,Bulbasaur,"['Grass', 'Poison']"
+Normal,Ivysaur,"['Grass', 'Poison']"
+Copy_2019,Venusaur,"['Grass', 'Poison']"
+Normal,Venusaur,"['Grass', 'Poison']"
+Fall_2019,Charmander,['Fire']
+Normal,Charmander,['Fire']
+Normal,Charmeleon,['Fire']
+Copy_2019,Charizard,"['Fire', 'Flying']"
+Normal,Charizard,"['Fire', 'Flying']"
+Fall_2019,Squirtle,['Water']
+Normal,Squirtle,['Water']
+Normal,Wartortle,['Water']
+Copy_2019,Blastoise,['Water']
+Normal,Blastoise,['Water']
+Normal,Caterpie,['Bug']
+Normal,Metapod,['Bug']
+Normal,Butterfree,"['Bug', 'Flying']"
+Normal,Weedle,"['Bug', 'Poison']"
+Normal,Kakuna,"['Bug', 'Poison']"
+Normal,Beedrill,"['Bug', 'Poison']"
+Normal,Pidgey,"['Normal', 'Flying']"
+Normal,Pidgeotto,"['Normal', 'Flying']"
+Normal,Pidgeot,"['Normal', 'Flying']"
+Alola,Rattata,"['Dark', 'Normal']"
+Normal,Rattata,['Normal']
+Alola,Raticate,"['Dark', 'Normal']"
+Normal,Raticate,['Normal']
+Normal,Spearow,"['Normal', 'Flying']"
+Normal,Fearow,"['Normal', 'Flying']"
+Normal,Ekans,['Poison']
+Normal,Arbok,['Poison']
+Adventure_hat_2020,Pikachu,['Electric']
+Copy_2019,Pikachu,['Electric']
+Costume_2020,Pikachu,['Electric']
+Doctor,Pikachu,['Electric']
+Fall_2019,Pikachu,['Electric']
+Flying_01,Pikachu,['Electric']
+Flying_02,Pikachu,['Electric']
+Flying_03,Pikachu,['Electric']
+Flying_04,Pikachu,['Electric']
+Flying_5th_anniv,Pikachu,['Electric']
+Flying_okinawa,Pikachu,['Electric']
+Gofest_2022,Pikachu,['Electric']
+Gofest_2024_mtiara,Pikachu,['Electric']
+Gofest_2024_stiara,Pikachu,['Electric']
+Gotour_2024_a,Pikachu,['Electric']
+Gotour_2024_a_02,Pikachu,['Electric']
+Gotour_2024_b,Pikachu,['Electric']
+Gotour_2024_b_02,Pikachu,['Electric']
+Horizons,Pikachu,['Electric']
+Jeju,Pikachu,['Electric']
+Kariyushi,Pikachu,['Electric']
+Normal,Pikachu,['Electric']
+Pop_star,Pikachu,['Electric']
+Rock_star,Pikachu,['Electric']
+Summer_2023_a,Pikachu,['Electric']
+Summer_2023_b,Pikachu,['Electric']
+Summer_2023_c,Pikachu,['Electric']
+Summer_2023_d,Pikachu,['Electric']
+Summer_2023_e,Pikachu,['Electric']
+Tshirt_01,Pikachu,['Electric']
+Tshirt_02,Pikachu,['Electric']
+Tshirt_03,Pikachu,['Electric']
+Vs_2019,Pikachu,['Electric']
+Wcs_2022,Pikachu,['Electric']
+Wcs_2023,Pikachu,['Electric']
+Wcs_2024,Pikachu,['Electric']
+Winter_2020,Pikachu,['Electric']
+Alola,Raichu,"['Electric', 'Psychic']"
+Normal,Raichu,['Electric']
+Alola,Sandshrew,"['Ice', 'Steel']"
+Normal,Sandshrew,['Ground']
+Alola,Sandslash,"['Ice', 'Steel']"
+Normal,Sandslash,['Ground']
+Normal,Nidoran♀,['Poison']
+Normal,Nidorina,['Poison']
+Normal,Nidoqueen,"['Poison', 'Ground']"
+Normal,Nidoran♂,['Poison']
+Normal,Nidorino,['Poison']
+Normal,Nidoking,"['Poison', 'Ground']"
+Normal,Clefairy,['Fairy']
+Normal,Clefable,['Fairy']
+Alola,Vulpix,['Ice']
+Normal,Vulpix,['Fire']
+Alola,Ninetales,"['Ice', 'Fairy']"
+Normal,Ninetales,['Fire']
+Normal,Jigglypuff,"['Normal', 'Fairy']"
+Normal,Wigglytuff,"['Normal', 'Fairy']"
+Normal,Zubat,"['Poison', 'Flying']"
+Normal,Golbat,"['Poison', 'Flying']"
+Normal,Oddish,"['Grass', 'Poison']"
+Normal,Gloom,"['Grass', 'Poison']"
+Normal,Vileplume,"['Grass', 'Poison']"
+Normal,Paras,"['Bug', 'Grass']"
+Normal,Parasect,"['Bug', 'Grass']"
+Normal,Venonat,"['Bug', 'Poison']"
+Normal,Venomoth,"['Bug', 'Poison']"
+Alola,Diglett,"['Ground', 'Steel']"
+Normal,Diglett,['Ground']
+Alola,Dugtrio,"['Ground', 'Steel']"
+Normal,Dugtrio,['Ground']
+Alola,Meowth,['Dark']
+Galarian,Meowth,['Steel']
+Normal,Meowth,['Normal']
+Alola,Persian,['Dark']
+Normal,Persian,['Normal']
+Normal,Psyduck,['Water']
+Normal,Golduck,['Water']
+Normal,Mankey,['Fighting']
+Normal,Primeape,['Fighting']
+Hisuian,Growlithe,"['Fire', 'Rock']"
+Normal,Growlithe,['Fire']
+Hisuian,Arcanine,"['Fire', 'Rock']"
+Normal,Arcanine,['Fire']
+Normal,Poliwag,['Water']
+Normal,Poliwhirl,['Water']
+Normal,Poliwrath,"['Water', 'Fighting']"
+Normal,Abra,['Psychic']
+Normal,Kadabra,['Psychic']
+Normal,Alakazam,['Psychic']
+Normal,Machop,['Fighting']
+Normal,Machoke,['Fighting']
+Normal,Machamp,['Fighting']
+Normal,Bellsprout,"['Grass', 'Poison']"
+Normal,Weepinbell,"['Grass', 'Poison']"
+Normal,Victreebel,"['Grass', 'Poison']"
+Normal,Tentacool,"['Water', 'Poison']"
+Normal,Tentacruel,"['Water', 'Poison']"
+Alola,Geodude,"['Rock', 'Electric']"
+Normal,Geodude,"['Rock', 'Ground']"
+Alola,Graveler,"['Rock', 'Electric']"
+Normal,Graveler,"['Rock', 'Ground']"
+Alola,Golem,"['Rock', 'Electric']"
+Normal,Golem,"['Rock', 'Ground']"
+Galarian,Ponyta,['Psychic']
+Normal,Ponyta,['Fire']
+Galarian,Rapidash,"['Psychic', 'Fairy']"
+Normal,Rapidash,['Fire']
+2020,Slowpoke,"['Water', 'Psychic']"
+Galarian,Slowpoke,['Psychic']
+Normal,Slowpoke,"['Water', 'Psychic']"
+2021,Slowbro,"['Water', 'Psychic']"
+Galarian,Slowbro,"['Poison', 'Psychic']"
+Normal,Slowbro,"['Water', 'Psychic']"
+Normal,Magnemite,"['Electric', 'Steel']"
+Normal,Magneton,"['Electric', 'Steel']"
+Galarian,Farfetch’d,['Fighting']
+Normal,Farfetch’d,"['Normal', 'Flying']"
+Normal,Doduo,"['Normal', 'Flying']"
+Normal,Dodrio,"['Normal', 'Flying']"
+Normal,Seel,['Water']
+Normal,Dewgong,"['Water', 'Ice']"
+Alola,Grimer,"['Poison', 'Dark']"
+Normal,Grimer,['Poison']
+Alola,Muk,"['Poison', 'Dark']"
+Normal,Muk,['Poison']
+Normal,Shellder,['Water']
+Normal,Cloyster,"['Water', 'Ice']"
+Normal,Gastly,"['Ghost', 'Poison']"
+Normal,Haunter,"['Ghost', 'Poison']"
+Costume_2020,Gengar,"['Ghost', 'Poison']"
+Normal,Gengar,"['Ghost', 'Poison']"
+Normal,Onix,"['Rock', 'Ground']"
+Normal,Drowzee,['Psychic']
+Normal,Hypno,['Psychic']
+Normal,Krabby,['Water']
+Normal,Kingler,['Water']
+Hisuian,Voltorb,"['Electric', 'Grass']"
+Normal,Voltorb,['Electric']
+Hisuian,Electrode,"['Electric', 'Grass']"
+Normal,Electrode,['Electric']
+Normal,Exeggcute,"['Grass', 'Psychic']"
+Alola,Exeggutor,"['Grass', 'Dragon']"
+Normal,Exeggutor,"['Grass', 'Psychic']"
+Normal,Cubone,['Ground']
+Alola,Marowak,"['Fire', 'Ghost']"
+Normal,Marowak,['Ground']
+Normal,Hitmonlee,['Fighting']
+Normal,Hitmonchan,['Fighting']
+Normal,Lickitung,['Normal']
+Normal,Koffing,['Poison']
+Galarian,Weezing,"['Poison', 'Fairy']"
+Normal,Weezing,['Poison']
+Normal,Rhyhorn,"['Ground', 'Rock']"
+Normal,Rhydon,"['Ground', 'Rock']"
+Normal,Chansey,['Normal']
+Normal,Tangela,['Grass']
+Normal,Kangaskhan,['Normal']
+Normal,Horsea,['Water']
+Normal,Seadra,['Water']
+Normal,Goldeen,['Water']
+Normal,Seaking,['Water']
+Normal,Staryu,['Water']
+Normal,Starmie,"['Water', 'Psychic']"
+Galarian,Mr. Mime,"['Ice', 'Psychic']"
+Normal,Mr. Mime,"['Psychic', 'Fairy']"
+Normal,Scyther,"['Bug', 'Flying']"
+Normal,Jynx,"['Ice', 'Psychic']"
+Normal,Electabuzz,['Electric']
+Normal,Magmar,['Fire']
+Normal,Pinsir,['Bug']
+Normal,Tauros,['Normal']
+Normal,Magikarp,['Water']
+Normal,Gyarados,"['Water', 'Flying']"
+Costume_2020,Lapras,"['Water', 'Ice']"
+Normal,Lapras,"['Water', 'Ice']"
+Normal,Ditto,['Normal']
+Gofest_2024_mtiara,Eevee,['Normal']
+Gofest_2024_stiara,Eevee,['Normal']
+Normal,Eevee,['Normal']
+Normal,Vaporeon,['Water']
+Normal,Jolteon,['Electric']
+Normal,Flareon,['Fire']
+Normal,Porygon,['Normal']
+Normal,Omanyte,"['Rock', 'Water']"
+Normal,Omastar,"['Rock', 'Water']"
+Normal,Kabuto,"['Rock', 'Water']"
+Normal,Kabutops,"['Rock', 'Water']"
+Normal,Aerodactyl,"['Rock', 'Flying']"
+Summer_2023,Aerodactyl,"['Rock', 'Flying']"
+Normal,Snorlax,['Normal']
+Galarian,Articuno,"['Psychic', 'Flying']"
+Normal,Articuno,"['Ice', 'Flying']"
+Galarian,Zapdos,"['Fighting', 'Flying']"
+Normal,Zapdos,"['Electric', 'Flying']"
+Galarian,Moltres,"['Dark', 'Flying']"
+Normal,Moltres,"['Fire', 'Flying']"
+Normal,Dratini,['Dragon']
+Normal,Dragonair,['Dragon']
+Normal,Dragonite,"['Dragon', 'Flying']"
+A,Mewtwo,['Psychic']
+Normal,Mewtwo,['Psychic']
+Normal,Mew,['Psychic']
+Normal,Chikorita,['Grass']
+Normal,Bayleef,['Grass']
+Normal,Meganium,['Grass']
+Normal,Cyndaquil,['Fire']
+Normal,Quilava,['Fire']
+Hisuian,Typhlosion,"['Fire', 'Ghost']"
+Normal,Typhlosion,['Fire']
+Normal,Totodile,['Water']
+Normal,Croconaw,['Water']
+Normal,Feraligatr,['Water']
+Normal,Sentret,['Normal']
+Normal,Furret,['Normal']
+Normal,Hoothoot,"['Normal', 'Flying']"
+Normal,Noctowl,"['Normal', 'Flying']"
+Normal,Ledyba,"['Bug', 'Flying']"
+Normal,Ledian,"['Bug', 'Flying']"
+Normal,Spinarak,"['Bug', 'Poison']"
+Normal,Ariados,"['Bug', 'Poison']"
+Normal,Crobat,"['Poison', 'Flying']"
+Normal,Chinchou,"['Water', 'Electric']"
+Normal,Lanturn,"['Water', 'Electric']"
+Normal,Pichu,['Electric']
+Normal,Cleffa,['Fairy']
+Normal,Igglybuff,"['Normal', 'Fairy']"
+Normal,Togepi,['Fairy']
+Normal,Togetic,"['Fairy', 'Flying']"
+Normal,Natu,"['Psychic', 'Flying']"
+Normal,Xatu,"['Psychic', 'Flying']"
+Normal,Mareep,['Electric']
+Normal,Flaaffy,['Electric']
+Normal,Ampharos,['Electric']
+Normal,Bellossom,['Grass']
+Normal,Marill,"['Water', 'Fairy']"
+Normal,Azumarill,"['Water', 'Fairy']"
+Normal,Sudowoodo,['Rock']
+Normal,Politoed,['Water']
+Normal,Hoppip,"['Grass', 'Flying']"
+Normal,Skiploom,"['Grass', 'Flying']"
+Normal,Jumpluff,"['Grass', 'Flying']"
+Normal,Aipom,['Normal']
+Normal,Sunkern,['Grass']
+Normal,Sunflora,['Grass']
+Normal,Yanma,"['Bug', 'Flying']"
+Normal,Wooper,"['Water', 'Ground']"
+Paldea,Wooper,"['Poison', 'Ground']"
+Normal,Quagsire,"['Water', 'Ground']"
+Gofest_2024_sscarf,Espeon,['Psychic']
+Normal,Espeon,['Psychic']
+Gofest_2024_mscarf,Umbreon,['Dark']
+Normal,Umbreon,['Dark']
+Normal,Murkrow,"['Dark', 'Flying']"
+2022,Slowking,"['Water', 'Psychic']"
+Galarian,Slowking,"['Poison', 'Psychic']"
+Normal,Slowking,"['Water', 'Psychic']"
+Normal,Misdreavus,['Ghost']
+A,Unown,['Psychic']
+B,Unown,['Psychic']
+C,Unown,['Psychic']
+D,Unown,['Psychic']
+E,Unown,['Psychic']
+Exclamation_point,Unown,['Psychic']
+F,Unown,['Psychic']
+G,Unown,['Psychic']
+H,Unown,['Psychic']
+I,Unown,['Psychic']
+J,Unown,['Psychic']
+K,Unown,['Psychic']
+L,Unown,['Psychic']
+M,Unown,['Psychic']
+N,Unown,['Psychic']
+O,Unown,['Psychic']
+P,Unown,['Psychic']
+Q,Unown,['Psychic']
+Question_mark,Unown,['Psychic']
+R,Unown,['Psychic']
+S,Unown,['Psychic']
+T,Unown,['Psychic']
+U,Unown,['Psychic']
+V,Unown,['Psychic']
+W,Unown,['Psychic']
+X,Unown,['Psychic']
+Y,Unown,['Psychic']
+Z,Unown,['Psychic']
+Normal,Wobbuffet,['Psychic']
+Normal,Girafarig,"['Normal', 'Psychic']"
+Normal,Pineco,['Bug']
+Normal,Forretress,"['Bug', 'Steel']"
+Normal,Dunsparce,['Normal']
+Normal,Gligar,"['Ground', 'Flying']"
+Normal,Steelix,"['Steel', 'Ground']"
+Normal,Snubbull,['Fairy']
+Normal,Granbull,['Fairy']
+Hisuian,Qwilfish,"['Dark', 'Poison']"
+Normal,Qwilfish,"['Water', 'Poison']"
+Normal,Scizor,"['Bug', 'Steel']"
+Normal,Shuckle,"['Bug', 'Rock']"
+Normal,Heracross,"['Bug', 'Fighting']"
+Hisuian,Sneasel,"['Fighting', 'Poison']"
+Normal,Sneasel,"['Dark', 'Ice']"
+Normal,Teddiursa,['Normal']
+Normal,Ursaring,['Normal']
+Normal,Slugma,['Fire']
+Normal,Magcargo,"['Fire', 'Rock']"
+Normal,Swinub,"['Ice', 'Ground']"
+Normal,Piloswine,"['Ice', 'Ground']"
+Galarian,Corsola,['Ghost']
+Normal,Corsola,"['Water', 'Rock']"
+Normal,Remoraid,['Water']
+Normal,Octillery,['Water']
+Normal,Delibird,"['Ice', 'Flying']"
+Winter_2020,Delibird,"['Ice', 'Flying']"
+Normal,Mantine,"['Water', 'Flying']"
+Normal,Skarmory,"['Steel', 'Flying']"
+Normal,Houndour,"['Dark', 'Fire']"
+Normal,Houndoom,"['Dark', 'Fire']"
+Normal,Kingdra,"['Water', 'Dragon']"
+Normal,Phanpy,['Ground']
+Normal,Donphan,['Ground']
+Normal,Porygon2,['Normal']
+Normal,Stantler,['Normal']
+Normal,Smeargle,['Normal']
+Normal,Tyrogue,['Fighting']
+Normal,Hitmontop,['Fighting']
+Normal,Smoochum,"['Ice', 'Psychic']"
+Normal,Elekid,['Electric']
+Normal,Magby,['Fire']
+Normal,Miltank,['Normal']
+Normal,Blissey,['Normal']
+Normal,Raikou,['Electric']
+S,Raikou,['Electric']
+Normal,Entei,['Fire']
+S,Entei,['Fire']
+Normal,Suicune,['Water']
+S,Suicune,['Water']
+Normal,Larvitar,"['Rock', 'Ground']"
+Normal,Pupitar,"['Rock', 'Ground']"
+Normal,Tyranitar,"['Rock', 'Dark']"
+Normal,Lugia,"['Psychic', 'Flying']"
+S,Lugia,"['Psychic', 'Flying']"
+Normal,Ho-Oh,"['Fire', 'Flying']"
+S,Ho-Oh,"['Fire', 'Flying']"
+Normal,Celebi,"['Psychic', 'Grass']"
+Normal,Treecko,['Grass']
+Normal,Grovyle,['Grass']
+Normal,Sceptile,['Grass']
+Normal,Torchic,['Fire']
+Normal,Combusken,"['Fire', 'Fighting']"
+Normal,Blaziken,"['Fire', 'Fighting']"
+Normal,Mudkip,['Water']
+Normal,Marshtomp,"['Water', 'Ground']"
+Normal,Swampert,"['Water', 'Ground']"
+Normal,Poochyena,['Dark']
+Normal,Mightyena,['Dark']
+Galarian,Zigzagoon,"['Dark', 'Normal']"
+Normal,Zigzagoon,['Normal']
+Galarian,Linoone,"['Dark', 'Normal']"
+Normal,Linoone,['Normal']
+Normal,Wurmple,['Bug']
+Normal,Silcoon,['Bug']
+Normal,Beautifly,"['Bug', 'Flying']"
+Normal,Cascoon,['Bug']
+Normal,Dustox,"['Bug', 'Poison']"
+Normal,Lotad,"['Water', 'Grass']"
+Normal,Lombre,"['Water', 'Grass']"
+Normal,Ludicolo,"['Water', 'Grass']"
+Normal,Seedot,['Grass']
+Normal,Nuzleaf,"['Grass', 'Dark']"
+Normal,Shiftry,"['Grass', 'Dark']"
+Normal,Taillow,"['Normal', 'Flying']"
+Normal,Swellow,"['Normal', 'Flying']"
+Normal,Wingull,"['Water', 'Flying']"
+Normal,Pelipper,"['Water', 'Flying']"
+Normal,Ralts,"['Psychic', 'Fairy']"
+Normal,Kirlia,"['Psychic', 'Fairy']"
+Normal,Gardevoir,"['Psychic', 'Fairy']"
+Normal,Surskit,"['Bug', 'Water']"
+Normal,Masquerain,"['Bug', 'Flying']"
+Normal,Shroomish,['Grass']
+Normal,Breloom,"['Grass', 'Fighting']"
+Normal,Slakoth,['Normal']
+Normal,Vigoroth,['Normal']
+Normal,Slaking,['Normal']
+Normal,Nincada,"['Bug', 'Ground']"
+Normal,Ninjask,"['Bug', 'Flying']"
+Normal,Shedinja,"['Bug', 'Ghost']"
+Normal,Whismur,['Normal']
+Normal,Loudred,['Normal']
+Normal,Exploud,['Normal']
+Normal,Makuhita,['Fighting']
+Normal,Hariyama,['Fighting']
+Normal,Azurill,"['Normal', 'Fairy']"
+Normal,Nosepass,['Rock']
+Normal,Skitty,['Normal']
+Normal,Delcatty,['Normal']
+Costume_2020,Sableye,"['Dark', 'Ghost']"
+Normal,Sableye,"['Dark', 'Ghost']"
+Normal,Mawile,"['Steel', 'Fairy']"
+Normal,Aron,"['Steel', 'Rock']"
+Normal,Lairon,"['Steel', 'Rock']"
+Normal,Aggron,"['Steel', 'Rock']"
+Normal,Meditite,"['Fighting', 'Psychic']"
+Normal,Medicham,"['Fighting', 'Psychic']"
+Normal,Electrike,['Electric']
+Normal,Manectric,['Electric']
+Normal,Plusle,['Electric']
+Normal,Minun,['Electric']
+Normal,Volbeat,['Bug']
+Normal,Illumise,['Bug']
+Normal,Roselia,"['Grass', 'Poison']"
+Normal,Gulpin,['Poison']
+Normal,Swalot,['Poison']
+Normal,Carvanha,"['Water', 'Dark']"
+Normal,Sharpedo,"['Water', 'Dark']"
+Normal,Wailmer,['Water']
+Normal,Wailord,['Water']
+Normal,Numel,"['Fire', 'Ground']"
+Normal,Camerupt,"['Fire', 'Ground']"
+Normal,Torkoal,['Fire']
+Normal,Spoink,['Psychic']
+Normal,Grumpig,['Psychic']
+00,Spinda,['Normal']
+01,Spinda,['Normal']
+02,Spinda,['Normal']
+03,Spinda,['Normal']
+04,Spinda,['Normal']
+05,Spinda,['Normal']
+06,Spinda,['Normal']
+07,Spinda,['Normal']
+08,Spinda,['Normal']
+09,Spinda,['Normal']
+10,Spinda,['Normal']
+11,Spinda,['Normal']
+12,Spinda,['Normal']
+13,Spinda,['Normal']
+14,Spinda,['Normal']
+15,Spinda,['Normal']
+16,Spinda,['Normal']
+17,Spinda,['Normal']
+18,Spinda,['Normal']
+19,Spinda,['Normal']
+Normal,Trapinch,['Ground']
+Normal,Vibrava,"['Ground', 'Dragon']"
+Normal,Flygon,"['Ground', 'Dragon']"
+Normal,Cacnea,['Grass']
+Normal,Cacturne,"['Grass', 'Dark']"
+Normal,Swablu,"['Normal', 'Flying']"
+Normal,Altaria,"['Dragon', 'Flying']"
+Normal,Zangoose,['Normal']
+Normal,Seviper,['Poison']
+Normal,Lunatone,"['Rock', 'Psychic']"
+Normal,Solrock,"['Rock', 'Psychic']"
+Normal,Barboach,"['Water', 'Ground']"
+Normal,Whiscash,"['Water', 'Ground']"
+Normal,Corphish,['Water']
+Normal,Crawdaunt,"['Water', 'Dark']"
+Normal,Baltoy,"['Ground', 'Psychic']"
+Normal,Claydol,"['Ground', 'Psychic']"
+Normal,Lileep,"['Rock', 'Grass']"
+Normal,Cradily,"['Rock', 'Grass']"
+Normal,Anorith,"['Rock', 'Bug']"
+Normal,Armaldo,"['Rock', 'Bug']"
+Normal,Feebas,['Water']
+Normal,Milotic,['Water']
+Normal,Castform,['Normal']
+Rainy,Castform,['Water']
+Snowy,Castform,['Ice']
+Sunny,Castform,['Fire']
+Normal,Kecleon,['Normal']
+Normal,Shuppet,['Ghost']
+Normal,Banette,['Ghost']
+Normal,Duskull,['Ghost']
+Normal,Dusclops,['Ghost']
+Normal,Tropius,"['Grass', 'Flying']"
+Normal,Chimecho,['Psychic']
+Normal,Absol,['Dark']
+Normal,Wynaut,['Psychic']
+Normal,Snorunt,['Ice']
+Normal,Glalie,['Ice']
+Normal,Spheal,"['Ice', 'Water']"
+Normal,Sealeo,"['Ice', 'Water']"
+Normal,Walrein,"['Ice', 'Water']"
+Normal,Clamperl,['Water']
+Normal,Huntail,['Water']
+Normal,Gorebyss,['Water']
+Normal,Relicanth,"['Water', 'Rock']"
+Normal,Luvdisc,['Water']
+Normal,Bagon,['Dragon']
+Normal,Shelgon,['Dragon']
+Normal,Salamence,"['Dragon', 'Flying']"
+Normal,Beldum,"['Steel', 'Psychic']"
+Normal,Metang,"['Steel', 'Psychic']"
+Normal,Metagross,"['Steel', 'Psychic']"
+Normal,Regirock,['Rock']
+Normal,Regice,['Ice']
+Normal,Registeel,['Steel']
+Normal,Latias,"['Dragon', 'Psychic']"
+S,Latias,"['Dragon', 'Psychic']"
+Normal,Latios,"['Dragon', 'Psychic']"
+S,Latios,"['Dragon', 'Psychic']"
+Normal,Kyogre,['Water']
+Normal,Groudon,['Ground']
+Normal,Rayquaza,"['Dragon', 'Flying']"
+Normal,Jirachi,"['Steel', 'Psychic']"
+Attack,Deoxys,['Psychic']
+Defense,Deoxys,['Psychic']
+Normal,Deoxys,['Psychic']
+Speed,Deoxys,['Psychic']
+Normal,Turtwig,['Grass']
+Normal,Grotle,['Grass']
+Normal,Torterra,"['Grass', 'Ground']"
+Normal,Chimchar,['Fire']
+Normal,Monferno,"['Fire', 'Fighting']"
+Normal,Infernape,"['Fire', 'Fighting']"
+Normal,Piplup,['Water']
+Normal,Prinplup,['Water']
+Normal,Empoleon,"['Water', 'Steel']"
+Normal,Starly,"['Normal', 'Flying']"
+Normal,Staravia,"['Normal', 'Flying']"
+Normal,Staraptor,"['Normal', 'Flying']"
+Normal,Bidoof,['Normal']
+Normal,Bibarel,"['Normal', 'Water']"
+Normal,Kricketot,['Bug']
+Normal,Kricketune,['Bug']
+Normal,Shinx,['Electric']
+Normal,Luxio,['Electric']
+Normal,Luxray,['Electric']
+Normal,Budew,"['Grass', 'Poison']"
+Normal,Roserade,"['Grass', 'Poison']"
+Normal,Cranidos,['Rock']
+Normal,Rampardos,['Rock']
+Normal,Shieldon,"['Rock', 'Steel']"
+Normal,Bastiodon,"['Rock', 'Steel']"
+Plant,Burmy,['Bug']
+Sandy,Burmy,['Bug']
+Trash,Burmy,['Bug']
+Plant,Wormadam,"['Bug', 'Grass']"
+Sandy,Wormadam,"['Bug', 'Ground']"
+Trash,Wormadam,"['Bug', 'Steel']"
+Normal,Mothim,"['Bug', 'Flying']"
+Normal,Combee,"['Bug', 'Flying']"
+Normal,Vespiquen,"['Bug', 'Flying']"
+Normal,Pachirisu,['Electric']
+Normal,Buizel,['Water']
+Normal,Floatzel,['Water']
+Normal,Cherubi,['Grass']
+Overcast,Cherrim,['Grass']
+Sunny,Cherrim,['Grass']
+East_sea,Shellos,['Water']
+West_sea,Shellos,['Water']
+East_sea,Gastrodon,"['Water', 'Ground']"
+West_sea,Gastrodon,"['Water', 'Ground']"
+Normal,Ambipom,['Normal']
+Normal,Drifloon,"['Ghost', 'Flying']"
+Normal,Drifblim,"['Ghost', 'Flying']"
+Normal,Buneary,['Normal']
+Normal,Lopunny,['Normal']
+Normal,Mismagius,['Ghost']
+Normal,Honchkrow,"['Dark', 'Flying']"
+Normal,Glameow,['Normal']
+Normal,Purugly,['Normal']
+Normal,Chingling,['Psychic']
+Normal,Stunky,"['Poison', 'Dark']"
+Normal,Skuntank,"['Poison', 'Dark']"
+Normal,Bronzor,"['Steel', 'Psychic']"
+Normal,Bronzong,"['Steel', 'Psychic']"
+Normal,Bonsly,['Rock']
+Normal,Mime Jr.,"['Psychic', 'Fairy']"
+Normal,Happiny,['Normal']
+Normal,Chatot,"['Normal', 'Flying']"
+Normal,Spiritomb,"['Ghost', 'Dark']"
+Normal,Gible,"['Dragon', 'Ground']"
+Normal,Gabite,"['Dragon', 'Ground']"
+Normal,Garchomp,"['Dragon', 'Ground']"
+Normal,Munchlax,['Normal']
+Normal,Riolu,['Fighting']
+Normal,Lucario,"['Fighting', 'Steel']"
+Normal,Hippopotas,['Ground']
+Normal,Hippowdon,['Ground']
+Normal,Skorupi,"['Poison', 'Bug']"
+Normal,Drapion,"['Poison', 'Dark']"
+Normal,Croagunk,"['Poison', 'Fighting']"
+Normal,Toxicroak,"['Poison', 'Fighting']"
+Normal,Carnivine,['Grass']
+Normal,Finneon,['Water']
+Normal,Lumineon,['Water']
+Normal,Mantyke,"['Water', 'Flying']"
+Normal,Snover,"['Grass', 'Ice']"
+Normal,Abomasnow,"['Grass', 'Ice']"
+Normal,Weavile,"['Dark', 'Ice']"
+Normal,Magnezone,"['Electric', 'Steel']"
+Normal,Lickilicky,['Normal']
+Normal,Rhyperior,"['Ground', 'Rock']"
+Normal,Tangrowth,['Grass']
+Normal,Electivire,['Electric']
+Normal,Magmortar,['Fire']
+Normal,Togekiss,"['Fairy', 'Flying']"
+Normal,Yanmega,"['Bug', 'Flying']"
+Normal,Leafeon,['Grass']
+Normal,Glaceon,['Ice']
+Normal,Gliscor,"['Ground', 'Flying']"
+Normal,Mamoswine,"['Ice', 'Ground']"
+Normal,Porygon-Z,['Normal']
+Normal,Gallade,"['Psychic', 'Fighting']"
+Normal,Probopass,"['Rock', 'Steel']"
+Normal,Dusknoir,['Ghost']
+Normal,Froslass,"['Ice', 'Ghost']"
+Fan,Rotom,"['Electric', 'Flying']"
+Frost,Rotom,"['Electric', 'Ice']"
+Heat,Rotom,"['Electric', 'Fire']"
+Mow,Rotom,"['Electric', 'Grass']"
+Normal,Rotom,"['Electric', 'Ghost']"
+Wash,Rotom,"['Electric', 'Water']"
+Normal,Uxie,['Psychic']
+Normal,Mesprit,['Psychic']
+Normal,Azelf,['Psychic']
+Normal,Dialga,"['Steel', 'Dragon']"
+Origin,Dialga,"['Steel', 'Dragon']"
+Normal,Palkia,"['Water', 'Dragon']"
+Origin,Palkia,"['Water', 'Dragon']"
+Normal,Heatran,"['Fire', 'Steel']"
+Normal,Regigigas,['Normal']
+Altered,Giratina,"['Ghost', 'Dragon']"
+Origin,Giratina,"['Ghost', 'Dragon']"
+Normal,Cresselia,['Psychic']
+Normal,Phione,['Water']
+Normal,Manaphy,['Water']
+Normal,Darkrai,['Dark']
+Land,Shaymin,['Grass']
+Sky,Shaymin,"['Grass', 'Flying']"
+Bug,Arceus,['Bug']
+Dark,Arceus,['Dark']
+Dragon,Arceus,['Dragon']
+Electric,Arceus,['Electric']
+Fairy,Arceus,['Fairy']
+Fighting,Arceus,['Fighting']
+Fire,Arceus,['Fire']
+Flying,Arceus,['Flying']
+Ghost,Arceus,['Ghost']
+Grass,Arceus,['Grass']
+Ground,Arceus,['Ground']
+Ice,Arceus,['Ice']
+Normal,Arceus,['Normal']
+Poison,Arceus,['Poison']
+Psychic,Arceus,['Psychic']
+Rock,Arceus,['Rock']
+Steel,Arceus,['Steel']
+Water,Arceus,['Water']
+Normal,Victini,"['Psychic', 'Fire']"
+Normal,Snivy,['Grass']
+Normal,Servine,['Grass']
+Normal,Serperior,['Grass']
+Normal,Tepig,['Fire']
+Normal,Pignite,"['Fire', 'Fighting']"
+Normal,Emboar,"['Fire', 'Fighting']"
+Normal,Oshawott,['Water']
+Normal,Dewott,['Water']
+Hisuian,Samurott,"['Water', 'Dark']"
+Normal,Samurott,['Water']
+Normal,Patrat,['Normal']
+Normal,Watchog,['Normal']
+Normal,Lillipup,['Normal']
+Normal,Herdier,['Normal']
+Normal,Stoutland,['Normal']
+Normal,Purrloin,['Dark']
+Normal,Liepard,['Dark']
+Normal,Pansage,['Grass']
+Normal,Simisage,['Grass']
+Normal,Pansear,['Fire']
+Normal,Simisear,['Fire']
+Normal,Panpour,['Water']
+Normal,Simipour,['Water']
+Normal,Munna,['Psychic']
+Normal,Musharna,['Psychic']
+Normal,Pidove,"['Normal', 'Flying']"
+Normal,Tranquill,"['Normal', 'Flying']"
+Normal,Unfezant,"['Normal', 'Flying']"
+Normal,Blitzle,['Electric']
+Normal,Zebstrika,['Electric']
+Normal,Roggenrola,['Rock']
+Normal,Boldore,['Rock']
+Normal,Gigalith,['Rock']
+Normal,Woobat,"['Psychic', 'Flying']"
+Normal,Swoobat,"['Psychic', 'Flying']"
+Normal,Drilbur,['Ground']
+Normal,Excadrill,"['Ground', 'Steel']"
+Normal,Audino,['Normal']
+Normal,Timburr,['Fighting']
+Normal,Gurdurr,['Fighting']
+Normal,Conkeldurr,['Fighting']
+Normal,Tympole,['Water']
+Normal,Palpitoad,"['Water', 'Ground']"
+Normal,Seismitoad,"['Water', 'Ground']"
+Normal,Throh,['Fighting']
+Normal,Sawk,['Fighting']
+Normal,Sewaddle,"['Bug', 'Grass']"
+Normal,Swadloon,"['Bug', 'Grass']"
+Normal,Leavanny,"['Bug', 'Grass']"
+Normal,Venipede,"['Bug', 'Poison']"
+Normal,Whirlipede,"['Bug', 'Poison']"
+Normal,Scolipede,"['Bug', 'Poison']"
+Normal,Cottonee,"['Grass', 'Fairy']"
+Normal,Whimsicott,"['Grass', 'Fairy']"
+Normal,Petilil,['Grass']
+Normal,Lilligant,['Grass']
+Blue_striped,Basculin,['Water']
+Red_striped,Basculin,['Water']
+White_striped,Basculin,['Water']
+Normal,Sandile,"['Ground', 'Dark']"
+Normal,Krokorok,"['Ground', 'Dark']"
+Normal,Krookodile,"['Ground', 'Dark']"
+Galarian,Darumaka,['Ice']
+Normal,Darumaka,['Fire']
+Galarian_standard,Darmanitan,['Ice']
+Galarian_zen,Darmanitan,"['Ice', 'Fire']"
+Standard,Darmanitan,['Fire']
+Zen,Darmanitan,"['Fire', 'Psychic']"
+Normal,Maractus,['Grass']
+Normal,Dwebble,"['Bug', 'Rock']"
+Normal,Crustle,"['Bug', 'Rock']"
+Normal,Scraggy,"['Dark', 'Fighting']"
+Normal,Scrafty,"['Dark', 'Fighting']"
+Normal,Sigilyph,"['Psychic', 'Flying']"
+Galarian,Yamask,"['Ground', 'Ghost']"
+Normal,Yamask,['Ghost']
+Normal,Cofagrigus,['Ghost']
+Normal,Tirtouga,"['Water', 'Rock']"
+Normal,Carracosta,"['Water', 'Rock']"
+Normal,Archen,"['Rock', 'Flying']"
+Normal,Archeops,"['Rock', 'Flying']"
+Normal,Trubbish,['Poison']
+Normal,Garbodor,['Poison']
+Normal,Zorua,['Dark']
+Normal,Zoroark,['Dark']
+Normal,Minccino,['Normal']
+Normal,Cinccino,['Normal']
+Normal,Gothita,['Psychic']
+Normal,Gothorita,['Psychic']
+Normal,Gothitelle,['Psychic']
+Normal,Solosis,['Psychic']
+Normal,Duosion,['Psychic']
+Normal,Reuniclus,['Psychic']
+Normal,Ducklett,"['Water', 'Flying']"
+Normal,Swanna,"['Water', 'Flying']"
+Normal,Vanillite,['Ice']
+Normal,Vanillish,['Ice']
+Normal,Vanilluxe,['Ice']
+Autumn,Deerling,"['Normal', 'Grass']"
+Spring,Deerling,"['Normal', 'Grass']"
+Summer,Deerling,"['Normal', 'Grass']"
+Winter,Deerling,"['Normal', 'Grass']"
+Autumn,Sawsbuck,"['Normal', 'Grass']"
+Spring,Sawsbuck,"['Normal', 'Grass']"
+Summer,Sawsbuck,"['Normal', 'Grass']"
+Winter,Sawsbuck,"['Normal', 'Grass']"
+Normal,Emolga,"['Electric', 'Flying']"
+Normal,Karrablast,['Bug']
+Normal,Escavalier,"['Bug', 'Steel']"
+Normal,Foongus,"['Grass', 'Poison']"
+Normal,Amoonguss,"['Grass', 'Poison']"
+Female,Frillish,"['Water', 'Ghost']"
+Normal,Frillish,"['Water', 'Ghost']"
+Female,Jellicent,"['Water', 'Ghost']"
+Normal,Jellicent,"['Water', 'Ghost']"
+Normal,Alomomola,['Water']
+Normal,Joltik,"['Bug', 'Electric']"
+Normal,Galvantula,"['Bug', 'Electric']"
+Normal,Ferroseed,"['Grass', 'Steel']"
+Normal,Ferrothorn,"['Grass', 'Steel']"
+Normal,Klink,['Steel']
+Normal,Klang,['Steel']
+Normal,Klinklang,['Steel']
+Normal,Tynamo,['Electric']
+Normal,Eelektrik,['Electric']
+Normal,Eelektross,['Electric']
+Normal,Elgyem,['Psychic']
+Normal,Beheeyem,['Psychic']
+Normal,Litwick,"['Ghost', 'Fire']"
+Normal,Lampent,"['Ghost', 'Fire']"
+Normal,Chandelure,"['Ghost', 'Fire']"
+Normal,Axew,['Dragon']
+Normal,Fraxure,['Dragon']
+Normal,Haxorus,['Dragon']
+Normal,Cubchoo,['Ice']
+Winter_2020,Cubchoo,['Ice']
+Normal,Beartic,['Ice']
+Winter_2020,Beartic,['Ice']
+Normal,Cryogonal,['Ice']
+Normal,Shelmet,['Bug']
+Normal,Accelgor,['Bug']
+Galarian,Stunfisk,"['Ground', 'Steel']"
+Normal,Stunfisk,"['Ground', 'Electric']"
+Normal,Mienfoo,['Fighting']
+Normal,Mienshao,['Fighting']
+Normal,Druddigon,['Dragon']
+Normal,Golett,"['Ground', 'Ghost']"
+Normal,Golurk,"['Ground', 'Ghost']"
+Normal,Pawniard,"['Dark', 'Steel']"
+Normal,Bisharp,"['Dark', 'Steel']"
+Normal,Bouffalant,['Normal']
+Normal,Rufflet,"['Normal', 'Flying']"
+Hisuian,Braviary,"['Psychic', 'Flying']"
+Normal,Braviary,"['Normal', 'Flying']"
+Normal,Vullaby,"['Dark', 'Flying']"
+Normal,Mandibuzz,"['Dark', 'Flying']"
+Normal,Heatmor,['Fire']
+Normal,Durant,"['Bug', 'Steel']"
+Normal,Deino,"['Dark', 'Dragon']"
+Normal,Zweilous,"['Dark', 'Dragon']"
+Normal,Hydreigon,"['Dark', 'Dragon']"
+Normal,Larvesta,"['Bug', 'Fire']"
+Normal,Volcarona,"['Bug', 'Fire']"
+Normal,Cobalion,"['Steel', 'Fighting']"
+Normal,Terrakion,"['Rock', 'Fighting']"
+Normal,Virizion,"['Grass', 'Fighting']"
+Incarnate,Tornadus,['Flying']
+Therian,Tornadus,['Flying']
+Incarnate,Thundurus,"['Electric', 'Flying']"
+Therian,Thundurus,"['Electric', 'Flying']"
+Normal,Reshiram,"['Dragon', 'Fire']"
+Normal,Zekrom,"['Dragon', 'Electric']"
+Incarnate,Landorus,"['Ground', 'Flying']"
+Therian,Landorus,"['Ground', 'Flying']"
+Black,Kyurem,"['Dragon', 'Ice']"
+Normal,Kyurem,"['Dragon', 'Ice']"
+White,Kyurem,"['Dragon', 'Ice']"
+Ordinary,Keldeo,"['Water', 'Fighting']"
+Resolute,Keldeo,"['Water', 'Fighting']"
+Aria,Meloetta,"['Normal', 'Psychic']"
+Pirouette,Meloetta,"['Normal', 'Fighting']"
+Burn,Genesect,"['Bug', 'Steel']"
+Chill,Genesect,"['Bug', 'Steel']"
+Douse,Genesect,"['Bug', 'Steel']"
+Normal,Genesect,"['Bug', 'Steel']"
+Shock,Genesect,"['Bug', 'Steel']"
+Normal,Chespin,['Grass']
+Normal,Quilladin,['Grass']
+Normal,Chesnaught,"['Grass', 'Fighting']"
+Normal,Fennekin,['Fire']
+Normal,Braixen,['Fire']
+Normal,Delphox,"['Fire', 'Psychic']"
+Normal,Froakie,['Water']
+Normal,Frogadier,['Water']
+Normal,Greninja,"['Water', 'Dark']"
+Normal,Bunnelby,['Normal']
+Normal,Diggersby,"['Normal', 'Ground']"
+Normal,Fletchling,"['Normal', 'Flying']"
+Normal,Fletchinder,"['Fire', 'Flying']"
+Normal,Talonflame,"['Fire', 'Flying']"
+Archipelago,Scatterbug,['Bug']
+Continental,Scatterbug,['Bug']
+Elegant,Scatterbug,['Bug']
+Fancy,Scatterbug,['Bug']
+Garden,Scatterbug,['Bug']
+High_plains,Scatterbug,['Bug']
+Icy_snow,Scatterbug,['Bug']
+Jungle,Scatterbug,['Bug']
+Marine,Scatterbug,['Bug']
+Meadow,Scatterbug,['Bug']
+Modern,Scatterbug,['Bug']
+Monsoon,Scatterbug,['Bug']
+Ocean,Scatterbug,['Bug']
+Pokeball,Scatterbug,['Bug']
+Polar,Scatterbug,['Bug']
+River,Scatterbug,['Bug']
+Sandstorm,Scatterbug,['Bug']
+Savanna,Scatterbug,['Bug']
+Sun,Scatterbug,['Bug']
+Tundra,Scatterbug,['Bug']
+Archipelago,Spewpa,['Bug']
+Continental,Spewpa,['Bug']
+Elegant,Spewpa,['Bug']
+Fancy,Spewpa,['Bug']
+Garden,Spewpa,['Bug']
+High_plains,Spewpa,['Bug']
+Icy_snow,Spewpa,['Bug']
+Jungle,Spewpa,['Bug']
+Marine,Spewpa,['Bug']
+Meadow,Spewpa,['Bug']
+Modern,Spewpa,['Bug']
+Monsoon,Spewpa,['Bug']
+Ocean,Spewpa,['Bug']
+Pokeball,Spewpa,['Bug']
+Polar,Spewpa,['Bug']
+River,Spewpa,['Bug']
+Sandstorm,Spewpa,['Bug']
+Savanna,Spewpa,['Bug']
+Sun,Spewpa,['Bug']
+Tundra,Spewpa,['Bug']
+Archipelago,Vivillon,"['Bug', 'Flying']"
+Continental,Vivillon,"['Bug', 'Flying']"
+Elegant,Vivillon,"['Bug', 'Flying']"
+Fancy,Vivillon,"['Bug', 'Flying']"
+Garden,Vivillon,"['Bug', 'Flying']"
+High_plains,Vivillon,"['Bug', 'Flying']"
+Icy_snow,Vivillon,"['Bug', 'Flying']"
+Jungle,Vivillon,"['Bug', 'Flying']"
+Marine,Vivillon,"['Bug', 'Flying']"
+Meadow,Vivillon,"['Bug', 'Flying']"
+Modern,Vivillon,"['Bug', 'Flying']"
+Monsoon,Vivillon,"['Bug', 'Flying']"
+Ocean,Vivillon,"['Bug', 'Flying']"
+Pokeball,Vivillon,"['Bug', 'Flying']"
+Polar,Vivillon,"['Bug', 'Flying']"
+River,Vivillon,"['Bug', 'Flying']"
+Sandstorm,Vivillon,"['Bug', 'Flying']"
+Savanna,Vivillon,"['Bug', 'Flying']"
+Sun,Vivillon,"['Bug', 'Flying']"
+Tundra,Vivillon,"['Bug', 'Flying']"
+Normal,Litleo,"['Fire', 'Normal']"
+Female,Pyroar,"['Fire', 'Normal']"
+Normal,Pyroar,"['Fire', 'Normal']"
+Blue,Flabebe,['Fairy']
+Orange,Flabebe,['Fairy']
+Red,Flabebe,['Fairy']
+White,Flabebe,['Fairy']
+Yellow,Flabebe,['Fairy']
+Blue,Floette,['Fairy']
+Orange,Floette,['Fairy']
+Red,Floette,['Fairy']
+White,Floette,['Fairy']
+Yellow,Floette,['Fairy']
+Blue,Florges,['Fairy']
+Orange,Florges,['Fairy']
+Red,Florges,['Fairy']
+White,Florges,['Fairy']
+Yellow,Florges,['Fairy']
+Normal,Skiddo,['Grass']
+Normal,Gogoat,['Grass']
+Normal,Pancham,['Fighting']
+Normal,Pangoro,"['Fighting', 'Dark']"
+Dandy,Furfrou,['Normal']
+Debutante,Furfrou,['Normal']
+Diamond,Furfrou,['Normal']
+Heart,Furfrou,['Normal']
+Kabuki,Furfrou,['Normal']
+La_reine,Furfrou,['Normal']
+Matron,Furfrou,['Normal']
+Natural,Furfrou,['Normal']
+Pharaoh,Furfrou,['Normal']
+Star,Furfrou,['Normal']
+Normal,Espurr,['Psychic']
+Female,Meowstic,['Psychic']
+Normal,Meowstic,['Psychic']
+Normal,Honedge,"['Steel', 'Ghost']"
+Normal,Doublade,"['Steel', 'Ghost']"
+Normal,Aegislash,"['Steel', 'Ghost']"
+Normal,Spritzee,['Fairy']
+Normal,Aromatisse,['Fairy']
+Normal,Swirlix,['Fairy']
+Normal,Slurpuff,['Fairy']
+Normal,Inkay,"['Dark', 'Psychic']"
+Normal,Malamar,"['Dark', 'Psychic']"
+Normal,Binacle,"['Rock', 'Water']"
+Normal,Barbaracle,"['Rock', 'Water']"
+Normal,Skrelp,"['Poison', 'Water']"
+Normal,Dragalge,"['Poison', 'Dragon']"
+Normal,Clauncher,['Water']
+Normal,Clawitzer,['Water']
+Normal,Helioptile,"['Electric', 'Normal']"
+Normal,Heliolisk,"['Electric', 'Normal']"
+Normal,Tyrunt,"['Rock', 'Dragon']"
+Normal,Tyrantrum,"['Rock', 'Dragon']"
+Normal,Amaura,"['Rock', 'Ice']"
+Normal,Aurorus,"['Rock', 'Ice']"
+Normal,Sylveon,['Fairy']
+Normal,Hawlucha,"['Fighting', 'Flying']"
+Normal,Dedenne,"['Electric', 'Fairy']"
+Normal,Carbink,"['Rock', 'Fairy']"
+Normal,Goomy,['Dragon']
+Normal,Sliggoo,['Dragon']
+Normal,Goodra,['Dragon']
+Normal,Klefki,"['Steel', 'Fairy']"
+Normal,Phantump,"['Ghost', 'Grass']"
+Normal,Trevenant,"['Ghost', 'Grass']"
+Average,Pumpkaboo,"['Ghost', 'Grass']"
+Large,Pumpkaboo,"['Ghost', 'Grass']"
+Small,Pumpkaboo,"['Ghost', 'Grass']"
+Super,Pumpkaboo,"['Ghost', 'Grass']"
+Average,Gourgeist,"['Ghost', 'Grass']"
+Large,Gourgeist,"['Ghost', 'Grass']"
+Small,Gourgeist,"['Ghost', 'Grass']"
+Super,Gourgeist,"['Ghost', 'Grass']"
+Normal,Bergmite,['Ice']
+Hisuian,Avalugg,"['Ice', 'Rock']"
+Normal,Avalugg,['Ice']
+Normal,Noibat,"['Flying', 'Dragon']"
+Normal,Noivern,"['Flying', 'Dragon']"
+Normal,Xerneas,['Fairy']
+Normal,Yveltal,"['Dark', 'Flying']"
+Complete,Zygarde,"['Dragon', 'Ground']"
+Complete_fifty_percent,Zygarde,"['Dragon', 'Ground']"
+Complete_ten_percent,Zygarde,"['Dragon', 'Ground']"
+Fifty_percent,Zygarde,"['Dragon', 'Ground']"
+Ten_percent,Zygarde,"['Dragon', 'Ground']"
+Normal,Diancie,"['Rock', 'Fairy']"
+Confined,Hoopa,"['Psychic', 'Ghost']"
+Unbound,Hoopa,"['Psychic', 'Dark']"
+Normal,Volcanion,"['Fire', 'Water']"
+Normal,Rowlet,"['Grass', 'Flying']"
+Normal,Dartrix,"['Grass', 'Flying']"
+Hisuian,Decidueye,"['Grass', 'Fighting']"
+Normal,Decidueye,"['Grass', 'Ghost']"
+Normal,Litten,['Fire']
+Normal,Torracat,['Fire']
+Normal,Incineroar,"['Fire', 'Dark']"
+Normal,Popplio,['Water']
+Normal,Brionne,['Water']
+Normal,Primarina,"['Water', 'Fairy']"
+Normal,Pikipek,"['Normal', 'Flying']"
+Normal,Trumbeak,"['Normal', 'Flying']"
+Normal,Toucannon,"['Normal', 'Flying']"
+Normal,Yungoos,['Normal']
+Normal,Gumshoos,['Normal']
+Normal,Grubbin,['Bug']
+Normal,Charjabug,"['Bug', 'Electric']"
+Normal,Vikavolt,"['Bug', 'Electric']"
+Normal,Crabrawler,['Fighting']
+Normal,Crabominable,"['Fighting', 'Ice']"
+Baile,Oricorio,"['Fire', 'Flying']"
+Pau,Oricorio,"['Psychic', 'Flying']"
+Pompom,Oricorio,"['Electric', 'Flying']"
+Sensu,Oricorio,"['Ghost', 'Flying']"
+Normal,Cutiefly,"['Bug', 'Fairy']"
+Normal,Ribombee,"['Bug', 'Fairy']"
+Dusk,Rockruff,['Rock']
+Normal,Rockruff,['Rock']
+Dusk,Lycanroc,['Rock']
+Midday,Lycanroc,['Rock']
+Midnight,Lycanroc,['Rock']
+School,Wishiwashi,['Water']
+Solo,Wishiwashi,['Water']
+Normal,Mareanie,"['Poison', 'Water']"
+Normal,Toxapex,"['Poison', 'Water']"
+Normal,Mudbray,['Ground']
+Normal,Mudsdale,['Ground']
+Normal,Dewpider,"['Water', 'Bug']"
+Normal,Araquanid,"['Water', 'Bug']"
+Normal,Fomantis,['Grass']
+Normal,Lurantis,['Grass']
+Normal,Morelull,"['Grass', 'Fairy']"
+Normal,Shiinotic,"['Grass', 'Fairy']"
+Normal,Salandit,"['Poison', 'Fire']"
+Normal,Salazzle,"['Poison', 'Fire']"
+Normal,Stufful,"['Normal', 'Fighting']"
+Normal,Bewear,"['Normal', 'Fighting']"
+Normal,Bounsweet,['Grass']
+Normal,Steenee,['Grass']
+Normal,Tsareena,['Grass']
+Normal,Comfey,['Fairy']
+Normal,Oranguru,"['Normal', 'Psychic']"
+Normal,Passimian,['Fighting']
+Normal,Wimpod,"['Bug', 'Water']"
+Normal,Golisopod,"['Bug', 'Water']"
+Normal,Sandygast,"['Ghost', 'Ground']"
+Normal,Palossand,"['Ghost', 'Ground']"
+Normal,Pyukumuku,['Water']
+Normal,Type: Null,['Normal']
+Bug,Silvally,['Bug']
+Dark,Silvally,['Dark']
+Dragon,Silvally,['Dragon']
+Electric,Silvally,['Electric']
+Fairy,Silvally,['Fairy']
+Fighting,Silvally,['Fighting']
+Fire,Silvally,['Fire']
+Flying,Silvally,['Flying']
+Ghost,Silvally,['Ghost']
+Grass,Silvally,['Grass']
+Ground,Silvally,['Ground']
+Ice,Silvally,['Ice']
+Normal,Silvally,['Normal']
+Poison,Silvally,['Poison']
+Psychic,Silvally,['Psychic']
+Rock,Silvally,['Rock']
+Steel,Silvally,['Steel']
+Water,Silvally,['Water']
+Blue,Minior,"['Rock', 'Flying']"
+Green,Minior,"['Rock', 'Flying']"
+Indigo,Minior,"['Rock', 'Flying']"
+Orange,Minior,"['Rock', 'Flying']"
+Red,Minior,"['Rock', 'Flying']"
+Violet,Minior,"['Rock', 'Flying']"
+Yellow,Minior,"['Rock', 'Flying']"
+Normal,Komala,['Normal']
+Normal,Turtonator,"['Fire', 'Dragon']"
+Normal,Togedemaru,"['Electric', 'Steel']"
+Busted,Mimikyu,"['Ghost', 'Fairy']"
+Disguised,Mimikyu,"['Ghost', 'Fairy']"
+Normal,Bruxish,"['Water', 'Psychic']"
+Normal,Drampa,"['Normal', 'Dragon']"
+Normal,Dhelmise,"['Ghost', 'Grass']"
+Normal,Jangmo-o,['Dragon']
+Normal,Hakamo-o,"['Dragon', 'Fighting']"
+Normal,Kommo-o,"['Dragon', 'Fighting']"
+Normal,Tapu Koko,"['Electric', 'Fairy']"
+Normal,Tapu Lele,"['Psychic', 'Fairy']"
+Normal,Tapu Bulu,"['Grass', 'Fairy']"
+Normal,Tapu Fini,"['Water', 'Fairy']"
+Normal,Cosmog,['Psychic']
+Normal,Cosmoem,['Psychic']
+Normal,Solgaleo,"['Psychic', 'Steel']"
+Normal,Lunala,"['Psychic', 'Ghost']"
+Normal,Nihilego,"['Rock', 'Poison']"
+Normal,Buzzwole,"['Bug', 'Fighting']"
+Normal,Pheromosa,"['Bug', 'Fighting']"
+Normal,Xurkitree,['Electric']
+Normal,Celesteela,"['Steel', 'Flying']"
+Normal,Kartana,"['Grass', 'Steel']"
+Normal,Guzzlord,"['Dark', 'Dragon']"
+Dawn_wings,Necrozma,"['Psychic', 'Ghost']"
+Dusk_mane,Necrozma,"['Psychic', 'Steel']"
+Normal,Necrozma,['Psychic']
+Ultra,Necrozma,"['Psychic', 'Dragon']"
+Normal,Magearna,"['Steel', 'Fairy']"
+Original_color,Magearna,"['Steel', 'Fairy']"
+Normal,Marshadow,"['Fighting', 'Ghost']"
+Normal,Poipole,['Poison']
+Normal,Naganadel,"['Poison', 'Dragon']"
+Normal,Stakataka,"['Rock', 'Steel']"
+Normal,Blacephalon,"['Fire', 'Ghost']"
+Normal,Zeraora,['Electric']
+Normal,Meltan,['Steel']
+Normal,Melmetal,['Steel']
+Normal,Grookey,['Grass']
+Normal,Thwackey,['Grass']
+Normal,Rillaboom,['Grass']
+Normal,Scorbunny,['Fire']
+Normal,Raboot,['Fire']
+Normal,Cinderace,['Fire']
+Normal,Sobble,['Water']
+Normal,Drizzile,['Water']
+Normal,Inteleon,['Water']
+Normal,Skwovet,['Normal']
+Normal,Greedent,['Normal']
+Normal,Rookidee,['Flying']
+Normal,Corvisquire,['Flying']
+Normal,Corviknight,"['Flying', 'Steel']"
+Normal,Blipbug,['Bug']
+Normal,Dottler,"['Bug', 'Psychic']"
+Normal,Orbeetle,"['Bug', 'Psychic']"
+Normal,Nickit,['Dark']
+Normal,Thievul,['Dark']
+Normal,Gossifleur,['Grass']
+Normal,Eldegoss,['Grass']
+Normal,Wooloo,['Normal']
+Normal,Dubwool,['Normal']
+Normal,Chewtle,['Water']
+Normal,Drednaw,"['Water', 'Rock']"
+Normal,Yamper,['Electric']
+Normal,Boltund,['Electric']
+Normal,Rolycoly,['Rock']
+Normal,Carkol,"['Rock', 'Fire']"
+Normal,Coalossal,"['Rock', 'Fire']"
+Normal,Applin,"['Grass', 'Dragon']"
+Normal,Flapple,"['Grass', 'Dragon']"
+Normal,Appletun,"['Grass', 'Dragon']"
+Normal,Silicobra,['Ground']
+Normal,Sandaconda,['Ground']
+Normal,Cramorant,"['Flying', 'Water']"
+Normal,Arrokuda,['Water']
+Normal,Barraskewda,['Water']
+Normal,Toxel,"['Electric', 'Poison']"
+Amped,Toxtricity,"['Electric', 'Poison']"
+Low_key,Toxtricity,"['Electric', 'Poison']"
+Normal,Sizzlipede,"['Fire', 'Bug']"
+Normal,Centiskorch,"['Fire', 'Bug']"
+Normal,Clobbopus,['Fighting']
+Normal,Grapploct,['Fighting']
+Antique,Sinistea,['Ghost']
+Phony,Sinistea,['Ghost']
+Antique,Polteageist,['Ghost']
+Phony,Polteageist,['Ghost']
+Normal,Hatenna,['Psychic']
+Normal,Hattrem,['Psychic']
+Normal,Hatterene,"['Psychic', 'Fairy']"
+Normal,Impidimp,"['Dark', 'Fairy']"
+Normal,Morgrem,"['Dark', 'Fairy']"
+Normal,Grimmsnarl,"['Dark', 'Fairy']"
+Galarian,Obstagoon,"['Dark', 'Normal']"
+Galarian,Perrserker,['Steel']
+Normal,Cursola,['Ghost']
+Galarian,Sirfetch’d,['Fighting']
+Galarian,Mr. Rime,"['Ice', 'Psychic']"
+Galarian,Runerigus,"['Ground', 'Ghost']"
+Normal,Milcery,['Fairy']
+Normal,Alcremie,['Fairy']
+Normal,Falinks,['Fighting']
+Normal,Pincurchin,['Electric']
+Normal,Snom,"['Ice', 'Bug']"
+Normal,Frosmoth,"['Ice', 'Bug']"
+Normal,Stonjourner,['Rock']
+Ice,Eiscue,['Ice']
+Noice,Eiscue,['Ice']
+Female,Indeedee,"['Psychic', 'Normal']"
+Male,Indeedee,"['Psychic', 'Normal']"
+Full_belly,Morpeko,"['Electric', 'Dark']"
+Hangry,Morpeko,"['Electric', 'Dark']"
+Normal,Cufant,['Steel']
+Normal,Copperajah,['Steel']
+Normal,Dracozolt,"['Electric', 'Dragon']"
+Normal,Arctozolt,"['Electric', 'Ice']"
+Normal,Dracovish,"['Water', 'Dragon']"
+Normal,Arctovish,"['Water', 'Ice']"
+Normal,Duraludon,"['Steel', 'Dragon']"
+Normal,Dreepy,"['Dragon', 'Ghost']"
+Normal,Drakloak,"['Dragon', 'Ghost']"
+Normal,Dragapult,"['Dragon', 'Ghost']"
+Crowned_sword,Zacian,"['Fairy', 'Steel']"
+Hero,Zacian,['Fairy']
+Crowned_shield,Zamazenta,"['Fighting', 'Steel']"
+Hero,Zamazenta,['Fighting']
+Eternamax,Eternatus,"['Poison', 'Dragon']"
+Normal,Eternatus,"['Poison', 'Dragon']"
+Normal,Kubfu,['Fighting']
+Rapid_strike,Urshifu,"['Fighting', 'Water']"
+Single_strike,Urshifu,"['Fighting', 'Dark']"
+Normal,Zarude,"['Dark', 'Grass']"
+Normal,Regieleki,['Electric']
+Normal,Regidrago,['Dragon']
+Normal,Glastrier,['Ice']
+Normal,Spectrier,['Ghost']
+Ice_rider,Calyrex,"['Psychic', 'Ice']"
+Normal,Calyrex,"['Psychic', 'Grass']"
+Shadow_rider,Calyrex,"['Psychic', 'Ghost']"
+Normal,Wyrdeer,"['Normal', 'Psychic']"
+Normal,Kleavor,"['Bug', 'Rock']"
+Normal,Ursaluna,"['Ground', 'Normal']"
+Normal,Sneasler,"['Fighting', 'Poison']"
+Normal,Overqwil,"['Dark', 'Poison']"
+Incarnate,Enamorus,"['Fairy', 'Flying']"
+Therian,Enamorus,"['Fairy', 'Flying']"
+Normal,Sprigatito,['Grass']
+Normal,Floragato,['Grass']
+Normal,Meowscarada,"['Grass', 'Dark']"
+Normal,Fuecoco,['Fire']
+Normal,Crocalor,['Fire']
+Normal,Skeledirge,"['Fire', 'Ghost']"
+Normal,Quaxly,['Water']
+Normal,Quaxwell,['Water']
+Normal,Quaquaval,"['Water', 'Fighting']"
+Normal,Lechonk,['Normal']
+Female,Oinkologne,['Normal']
+Normal,Oinkologne,['Normal']
+Normal,Tarountula,['Bug']
+Normal,Spidops,['Bug']
+Normal,Nymble,['Bug']
+Normal,Lokix,"['Bug', 'Dark']"
+Normal,Pawmi,['Electric']
+Normal,Pawmo,"['Electric', 'Fighting']"
+Normal,Pawmot,"['Electric', 'Fighting']"
+Normal,Tandemaus,['Normal']
+Family_of_four,Maushold,['Normal']
+Family_of_three,Maushold,['Normal']
+Normal,Fidough,['Fairy']
+Normal,Dachsbun,['Fairy']
+Normal,Smoliv,"['Grass', 'Normal']"
+Normal,Dolliv,"['Grass', 'Normal']"
+Normal,Arboliva,"['Grass', 'Normal']"
+Blue,Squawkabilly,"['Normal', 'Flying']"
+Green,Squawkabilly,"['Normal', 'Flying']"
+White,Squawkabilly,"['Normal', 'Flying']"
+Yellow,Squawkabilly,"['Normal', 'Flying']"
+Normal,Nacli,['Rock']
+Normal,Naclstack,['Rock']
+Normal,Garganacl,['Rock']
+Normal,Charcadet,['Fire']
+Normal,Armarouge,"['Fire', 'Psychic']"
+Normal,Ceruledge,"['Fire', 'Ghost']"
+Normal,Tadbulb,['Electric']
+Normal,Bellibolt,['Electric']
+Normal,Wattrel,"['Electric', 'Flying']"
+Normal,Kilowattrel,"['Electric', 'Flying']"
+Normal,Maschiff,['Dark']
+Normal,Mabosstiff,['Dark']
+Normal,Shroodle,"['Poison', 'Normal']"
+Normal,Grafaiai,"['Poison', 'Normal']"
+Normal,Bramblin,"['Grass', 'Ghost']"
+Normal,Brambleghast,"['Grass', 'Ghost']"
+Normal,Toedscool,"['Ground', 'Grass']"
+Normal,Toedscruel,"['Ground', 'Grass']"
+Normal,Klawf,['Rock']
+Normal,Capsakid,['Grass']
+Normal,Scovillain,"['Grass', 'Fire']"
+Normal,Rellor,['Bug']
+Normal,Rabsca,"['Bug', 'Psychic']"
+Normal,Flittle,['Psychic']
+Normal,Espathra,['Psychic']
+Normal,Tinkatink,"['Fairy', 'Steel']"
+Normal,Tinkatuff,"['Fairy', 'Steel']"
+Normal,Tinkaton,"['Fairy', 'Steel']"
+Normal,Wiglett,['Water']
+Normal,Wugtrio,['Water']
+Normal,Bombirdier,"['Flying', 'Dark']"
+Normal,Finizen,['Water']
+Hero,Palafin,['Water']
+Zero,Palafin,['Water']
+Normal,Varoom,"['Steel', 'Poison']"
+Normal,Revavroom,"['Steel', 'Poison']"
+Normal,Cyclizar,"['Dragon', 'Normal']"
+Normal,Orthworm,['Steel']
+Normal,Glimmet,"['Rock', 'Poison']"
+Normal,Glimmora,"['Rock', 'Poison']"
+Normal,Greavard,['Ghost']
+Normal,Houndstone,['Ghost']
+Normal,Flamigo,"['Flying', 'Fighting']"
+Normal,Cetoddle,['Ice']
+Normal,Cetitan,['Ice']
+Normal,Veluza,"['Water', 'Psychic']"
+Normal,Dondozo,['Water']
+Curly,Tatsugiri,"['Dragon', 'Water']"
+Droopy,Tatsugiri,"['Dragon', 'Water']"
+Stretchy,Tatsugiri,"['Dragon', 'Water']"
+Normal,Annihilape,"['Fighting', 'Ghost']"
+Normal,Clodsire,"['Poison', 'Ground']"
+Normal,Farigiraf,"['Normal', 'Psychic']"
+Three,Dudunsparce,['Normal']
+Two,Dudunsparce,['Normal']
+Normal,Kingambit,"['Dark', 'Steel']"
+Normal,Great Tusk,"['Ground', 'Fighting']"
+Normal,Scream Tail,"['Fairy', 'Psychic']"
+Normal,Brute Bonnet,"['Grass', 'Dark']"
+Normal,Flutter Mane,"['Ghost', 'Fairy']"
+Normal,Slither Wing,"['Bug', 'Fighting']"
+Normal,Sandy Shocks,"['Electric', 'Ground']"
+Normal,Iron Treads,"['Ground', 'Steel']"
+Normal,Iron Bundle,"['Ice', 'Water']"
+Normal,Iron Hands,"['Fighting', 'Electric']"
+Normal,Iron Jugulis,"['Dark', 'Flying']"
+Normal,Iron Moth,"['Fire', 'Poison']"
+Normal,Iron Thorns,"['Rock', 'Electric']"
+Normal,Frigibax,"['Dragon', 'Ice']"
+Normal,Arctibax,"['Dragon', 'Ice']"
+Normal,Baxcalibur,"['Dragon', 'Ice']"
+Normal,Gimmighoul,['Ghost']
+Normal,Gholdengo,"['Steel', 'Ghost']"
+Normal,Wo-Chien,"['Dark', 'Grass']"
+Normal,Chien-Pao,"['Dark', 'Ice']"
+Normal,Ting-Lu,"['Dark', 'Ground']"
+Normal,Chi-Yu,"['Dark', 'Fire']"
+Normal,Roaring Moon,"['Dragon', 'Dark']"
+Normal,Iron Valiant,"['Fairy', 'Fighting']"
+Apex,Koraidon,"['Fighting', 'Dragon']"
+Ultimate,Miraidon,"['Electric', 'Dragon']"

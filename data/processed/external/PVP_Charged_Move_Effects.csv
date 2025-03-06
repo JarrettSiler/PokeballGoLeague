@@ -1,0 +1,216 @@
+name,effect_chance,target,stat_changed,amount
+Acid Spray,100,enemy,def,-2
+Acrobatics,,,,
+Aerial Ace,,,,
+Aeroblast,12.5,self,atk,2
+Air Cutter,,,,
+Ancient Power,10,self,atk/def,1
+Aqua Jet,,,,
+Aqua Tail,,,,
+Aura Sphere,,,,
+Aura Wheel (Electric),100,self,atk,1
+Aura Wheel (Dark),100,self,atk,1
+Aurora Beam,,,,
+Avalanche,,,,
+Blast Burn,,,,
+Blaze Kick,,,,
+Bleakwind Storm,100,enemy,atk,-1
+Blizzard,,,,
+Body Slam,,,,
+Bone Club,,,,
+Boomburst,,,,
+Brave Bird,100,self,def,-3
+Breaking Swipe,50,enemy,atk,-1
+Brick Break,100,enemy,def,-1
+Brine,,,,
+Brutal Swing,,,,
+Bubble Beam,100,enemy,atk,-1
+Bug Buzz,30,enemy,def,-1
+Bulldoze,50,enemy,def,-1
+Close Combat,100,self,def,-2
+Crabhammer,12.5,self,atk,2
+Cross Chop,,,,
+Cross Poison,12.5,self,atk,2
+Crunch,30,enemy,def,-1
+Dark Pulse,,,,
+Darkest Lariat,,,,
+Dazzling Gleam,,,,
+Dig,,,,
+Disarming Voice,,,,
+Discharge,,,,
+Doom Desire,,,,
+Double Iron Bash,,,,
+Draco Meteor,100,self,atk,-2
+Dragon Ascent,100,self,def,-1
+Dragon Claw,,,,
+Dragon Pulse,,,,
+Drain Punch,100,self,def,1
+Draining Kiss,,,,
+Drill Peck,,,,
+Drill Run,,,,
+Dynamic Punch,100,enemy,atk,-1
+Earth Power,10,enemy,def,-1
+Earthquake,,,,
+Energy Ball,10,enemy,def,-1
+Feather Dance,100,enemy,atk,-2
+Fell Stinger,100,self,atk,1
+Fire Blast,,,,
+Fire Punch,,,,
+Flame Burst,,,,
+Flame Charge,100,self,atk,1
+Flame Wheel,,,,
+Flamethrower,,,,
+Flash Cannon,,,,
+Flower Trick,100,self,atk,1
+Fly,,,,
+Flying Press,,,,
+Focus Blast,,,,
+Foul Play,,,,
+Freeze Shock,30,enemy,atk,-1
+Frenzy Plant,,,,
+Frustration,,,,
+Fusion Bolt,,,,
+Fusion Flare,,,,
+Future Sight,,,,
+Giga Drain,,,,
+Giga Impact,,,,
+Glaciate,100,enemy,atk,-1
+Grass Knot,,,,
+Gunk Shot,,,,
+Gyro Ball,,,,
+Heart Stamp,,,,
+Heat Wave,,,,
+Heavy Slam,,,,
+High Horsepower,,,,
+High Jump Kick,10,self,def,-4
+Horn Attack,,,,
+Hurricane,,,,
+Hydro Cannon,,,,
+Hydro Pump,,,,
+Hyper Beam,,,,
+Hyper Fang,,,,
+Ice Beam,,,,
+Ice Burn,30,enemy,def,-1
+Ice Punch,,,,
+Icicle Spear,,,,
+Icy Wind,100,enemy,atk,-1
+Iron Head,,,,
+Last Resort,,,,
+Leaf Blade,,,,
+Leaf Storm,100,self,atk,-2
+Leaf Tornado,50,enemy,atk,-2
+Liquidation,30,enemy,def,-1
+Low Sweep,,,,
+Lunge,100,enemy,atk,-1
+Luster Purge,50,enemy,def,-1
+Magma Storm,,,,
+Magnet Bomb,,,,
+Mega Drain,,,,
+Megahorn,,,,
+Meteor Beam,100,self,atk,1
+Meteor Mash,,,,
+Mirror Coat,,,,
+Mirror Shot,30,enemy,atk,-1
+Mist Ball,50,enemy,atk,-1
+Moonblast,10,enemy,atk,-1
+Moongeist Beam,,,,
+Mud Bomb,,,,
+Muddy Water,30,enemy,atk,-1
+Mystical Fire,100,enemy,atk,-1
+Nature's Madness,100,enemy,def,-1
+Night Shade,,,,
+Night Slash,12.5,self,atk,2
+Oblivion Wing,,,,
+Obstruct,100,self/enemy,def,-1
+Octazooka,50,enemy,atk,-2
+Ominous Wind,10,self,atk/def,1
+Origin Pulse,,,,
+Outrage,,,,
+Overheat,100,self,atk,-2
+Parabolic Charge,66,self,def,1
+Payback,,,,
+Petal Blizzard,,,,
+Play Rough,,,,
+Poison Fang,100,enemy,def,-1
+Poltergeist,,,,
+Power Gem,,,,
+Power Whip,,,,
+Power-Up Punch,100,self,atk,1
+Precipice Blades,,,,
+Psybeam,,,,
+Psychic,10,enemy,def,-1
+Psychic Fangs,100,enemy,def,-1
+Psycho Boost,100,self,atk,-2
+Psyshock,,,,
+Psystrike,,,,
+Rage Fist,100,self,atk,1
+Razor Shell,50,enemy,def,-1
+Rest,,,,
+Return,,,,
+Roar of Time,,,,
+Rock Blast,,,,
+Rock Slide,,,,
+Rock Tomb,100,enemy,atk,-1
+Rock Wrecker,,,,
+Sacred Fire,50,enemy,atk,-1
+Sacred Sword,,,,
+Sand Tomb,100,enemy,def,-1
+Sandsear Storm,100,enemy,atk,-1
+Scald,30,enemy,atk,-1
+Scorching Sands,30,enemy,atk,-1
+Seed Bomb,,,,
+Seed Flare,40,enemy,def,-2
+Shadow Ball,,,,
+Shadow Bone,20,enemy,def,-1
+Shadow Force,,,,
+Shadow Punch,,,,
+Shadow Sneak,,,,
+Signal Beam,20,enemy,atk/def,-1/-1
+Silver Wind,10,self,atk/def,1
+Skull Bash,100,self,def,1
+Sky Attack,,,,
+Sludge,,,,
+Sludge Bomb,,,,
+Sludge Wave,,,,
+Solar Beam,,,,
+Spacial Rend,,,,
+Sparkling Aria,,,,
+Spirit Shackle,33,enemy,def,-1
+Springtide Storm,100,enemy,atk,-1
+Stomp,,,,
+Stone Edge,,,,
+Struggle,,,,
+Submission,,,,
+Sunsteel Strike,,,,
+Superpower,100,self,atk/def,-1/-1
+Surf,,,,
+Swift,,,,
+Synchronoise,,,,
+Techno Blast (Burn),,,,
+Techno Blast (Chill),,,,
+Techno Blast (Douse),,,,
+Techno Blast (Normal),,,,
+Techno Blast (Shock),,,,
+Thunder,,,,
+Thunder Punch,,,,
+Thunderbolt,,,,
+Trailblaze,100,self,atk,1
+Tri Attack,50,enemy,atk/def,-1/-1
+Triple Axel,100,self,atk,1
+Twister,,,,
+V-Create,100,self,def,-3
+Vise Grip,,,,
+Volt Tackle,100,self,def,-1
+Water Pulse,,,,
+Weather Ball (Fire),,,,
+Weather Ball (Ice),,,,
+Weather Ball (Normal),,,,
+Weather Ball (Rock),,,,
+Weather Ball (Water),,,,
+Wild Charge,100,self,def,-2
+Wildbolt Storm,100,enemy,atk,-1
+Wrap,,,,
+Wrap Green,,,,
+Wrap Pink,,,,
+X-Scissor,,,,
+Zap Cannon,33,enemy,atk,-1

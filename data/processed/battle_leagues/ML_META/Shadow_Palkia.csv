@@ -1,0 +1,2 @@
+is_shadow,form,pokemon_name,level,IV_atk,IV_def,IV_sta,CP,HP,TDO,DPT,DPE,fast_move,first_charged_move,second_charged_move
+True,Normal,Palkia,50,15,15,15,4512,171,153.49,11.82,2.58,Dragon Tail,Draco Meteor,Hydro Pump

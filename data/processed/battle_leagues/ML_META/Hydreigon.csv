@@ -1,0 +1,2 @@
+is_shadow,form,pokemon_name,level,IV_atk,IV_def,IV_sta,CP,HP,TDO,DPT,DPE,fast_move,first_charged_move,second_charged_move
+False,Normal,Hydreigon,50,15,15,15,4099,189,140.75,9.23,1.66,Dragon Breath,Dragon Pulse,Dark Pulse

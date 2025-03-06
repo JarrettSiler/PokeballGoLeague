@@ -1,0 +1,2 @@
+is_shadow,form,pokemon_name,level,IV_atk,IV_def,IV_sta,CP,HP,TDO,DPT,DPE,fast_move,first_charged_move,second_charged_move
+False,Normal,Kommo-o,50,15,15,15,3741,164,165.32,11.14,2.16,Dragon Tail,Close Combat,Boomburst

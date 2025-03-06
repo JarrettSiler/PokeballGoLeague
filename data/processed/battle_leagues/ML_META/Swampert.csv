@@ -1,0 +1,2 @@
+is_shadow,form,pokemon_name,level,IV_atk,IV_def,IV_sta,CP,HP,TDO,DPT,DPE,fast_move,first_charged_move,second_charged_move
+False,Normal,Swampert,50,15,15,15,3362,201,153.77,10.14,2.0,Mud Shot,Earthquake,Hydro Cannon

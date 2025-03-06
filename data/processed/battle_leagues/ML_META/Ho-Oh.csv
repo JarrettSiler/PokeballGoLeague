@@ -1,0 +1,2 @@
+is_shadow,form,pokemon_name,level,IV_atk,IV_def,IV_sta,CP,HP,TDO,DPT,DPE,fast_move,first_charged_move,second_charged_move
+False,Normal,Ho-Oh,50,15,15,15,4368,192,265.82,13.64,2.34,Incinerate,Brave Bird,Sacred Fire

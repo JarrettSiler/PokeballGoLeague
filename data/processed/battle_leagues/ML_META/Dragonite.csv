@@ -1,0 +1,2 @@
+is_shadow,form,pokemon_name,level,IV_atk,IV_def,IV_sta,CP,HP,TDO,DPT,DPE,fast_move,first_charged_move,second_charged_move
+False,Normal,Dragonite,50,15,15,15,4288,188,164.62,10.38,1.92,Dragon Tail,Outrage,Super Power

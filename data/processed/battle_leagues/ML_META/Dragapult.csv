@@ -1,0 +1,2 @@
+is_shadow,form,pokemon_name,level,IV_atk,IV_def,IV_sta,CP,HP,TDO,DPT,DPE,fast_move,first_charged_move,second_charged_move
+False,Normal,Dragapult,50,15,15,15,3994,184,147.56,10.02,1.73,Astonish,Shadow Ball,Breaking Swipe

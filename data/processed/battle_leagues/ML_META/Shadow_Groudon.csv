@@ -1,0 +1,2 @@
+is_shadow,form,pokemon_name,level,IV_atk,IV_def,IV_sta,CP,HP,TDO,DPT,DPE,fast_move,first_charged_move,second_charged_move
+True,Normal,Groudon,50,15,15,15,4653,184,178.8,12.08,2.38,Mud Shot,Solar Beam,Precipice Blades

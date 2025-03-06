@@ -1,0 +1,2 @@
+is_shadow,form,pokemon_name,level,IV_atk,IV_def,IV_sta,CP,HP,TDO,DPT,DPE,fast_move,first_charged_move,second_charged_move
+False,Normal,Nihilego,50,15,15,15,4465,214,193.86,10.16,1.84,Poison Jab,Power Gem,Gunk Shot

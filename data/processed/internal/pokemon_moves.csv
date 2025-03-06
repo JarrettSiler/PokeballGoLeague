@@ -1,0 +1,1377 @@
+charged_moves,elite_charged_moves,elite_fast_moves,fast_moves,form,pokemon_name
+"['Sludge Bomb', 'Seed Bomb', 'Power Whip']",[],[],"['Vine Whip', 'Tackle']",Fall_2019,Bulbasaur
+"['Sludge Bomb', 'Seed Bomb', 'Power Whip']",[],[],"['Vine Whip', 'Tackle']",Normal,Bulbasaur
+"['Sludge Bomb', 'Solar Beam', 'Power Whip']",[],[],"['Razor Leaf', 'Vine Whip']",Normal,Ivysaur
+"['Sludge Bomb', 'Petal Blizzard', 'Solar Beam']",['Frenzy Plant'],[],"['Razor Leaf', 'Vine Whip']",Copy_2019,Venusaur
+"['Sludge Bomb', 'Petal Blizzard', 'Solar Beam']",['Frenzy Plant'],[],"['Razor Leaf', 'Vine Whip']",Normal,Venusaur
+"['Flame Charge', 'Flame Burst', 'Flamethrower']",[],[],"['Ember', 'Scratch']",Fall_2019,Charmander
+"['Flame Charge', 'Flame Burst', 'Flamethrower']",[],[],"['Ember', 'Scratch']",Normal,Charmander
+"['Fire Punch', 'Flame Burst', 'Flamethrower']",[],['Scratch'],"['Ember', 'Fire Fang']",Normal,Charmeleon
+"['Fire Blast', 'Dragon Claw', 'Overheat']","['Blast Burn', 'Flamethrower']","['Ember', 'Wing Attack', 'Dragon Breath']","['Fire Spin', 'Air Slash']",Copy_2019,Charizard
+"['Fire Blast', 'Dragon Claw', 'Overheat']","['Blast Burn', 'Flamethrower']","['Ember', 'Wing Attack', 'Dragon Breath']","['Fire Spin', 'Air Slash']",Normal,Charizard
+"['Aqua Jet', 'Aqua Tail', 'Water Pulse']",[],[],"['Bubble', 'Tackle']",Fall_2019,Squirtle
+"['Aqua Jet', 'Aqua Tail', 'Water Pulse']",[],[],"['Bubble', 'Tackle']",Normal,Squirtle
+"['Aqua Jet', 'Ice Beam', 'Hydro Pump']",[],[],"['Water Gun', 'Bite']",Normal,Wartortle
+"['Flash Cannon', 'Ice Beam', 'Hydro Pump', 'Skull Bash']",['Hydro Cannon'],[],"['Water Gun', 'Bite']",Copy_2019,Blastoise
+"['Flash Cannon', 'Ice Beam', 'Hydro Pump', 'Skull Bash']",['Hydro Cannon'],[],"['Water Gun', 'Bite']",Normal,Blastoise
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Normal,Caterpie
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Normal,Metapod
+"['Bug Buzz', 'Psychic', 'Signal Beam']",[],['Bug Bite'],"['Struggle Bug', 'Confusion']",Normal,Butterfree
+['Struggle'],[],[],"['Bug Bite', 'Poison Sting']",Normal,Weedle
+['Struggle'],[],[],"['Bug Bite', 'Poison Sting']",Normal,Kakuna
+"['Sludge Bomb', 'Aerial Ace', 'X Scissor', 'Fell Stinger']",['Drill Run'],['Bug Bite'],"['Infestation', 'Poison Jab']",Normal,Beedrill
+"['Twister', 'Aerial Ace', 'Air Cutter']",[],[],"['Quick Attack', 'Tackle']",Normal,Pidgey
+"['Twister', 'Aerial Ace', 'Air Cutter']",[],[],"['Wing Attack', 'Steel Wing']",Normal,Pidgeotto
+"['Hurricane', 'Aerial Ace', 'Brave Bird', 'Feather Dance']",['Air Cutter'],"['Wing Attack', 'Gust']","['Air Slash', 'Steel Wing']",Normal,Pidgeot
+"['Crunch', 'Hyper Fang', 'Shadow Ball']",[],[],"['Tackle', 'Quick Attack']",Alola,Rattata
+"['Dig', 'Hyper Fang', 'Body Slam']",[],[],"['Tackle', 'Quick Attack']",Normal,Rattata
+"['Crunch', 'Hyper Fang', 'Hyper Beam']",[],[],"['Bite', 'Quick Attack']",Alola,Raticate
+"['Dig', 'Hyper Fang', 'Hyper Beam']",[],[],"['Bite', 'Quick Attack']",Normal,Raticate
+"['Aerial Ace', 'Drill Peck', 'Sky Attack']",['Twister'],[],"['Peck', 'Quick Attack']",Normal,Spearow
+"['Aerial Ace', 'Drill Run', 'Sky Attack', 'Fly']",['Twister'],[],"['Peck', 'Steel Wing']",Normal,Fearow
+"['Wrap', 'Poison Fang', 'Sludge Bomb']",['Gunk Shot'],[],"['Poison Sting', 'Acid']",Normal,Ekans
+"['Dark Pulse', 'Sludge Wave', 'Gunk Shot', 'Acid Spray']",[],[],"['Bite', 'Acid', 'Dragon Tail']",Normal,Arbok
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Adventure_hat_2020,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Copy_2019,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge', 'Fly']",[],[],"['Thunder Shock', 'Quick Attack']",Costume_2020,Pikachu
+"['Thunder Punch', 'Play Rough']",[],['Present'],"['Thunder Shock', 'Charm']",Doctor,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Fall_2019,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge', 'Fly']",[],['Present'],"['Thunder Shock', 'Quick Attack']",Flying_01,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge', 'Fly']",[],['Present'],"['Thunder Shock', 'Quick Attack']",Flying_02,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge', 'Fly']",[],['Present'],"['Thunder Shock', 'Quick Attack']",Flying_03,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge', 'Fly']",[],['Present'],"['Thunder Shock', 'Quick Attack']",Flying_04,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge', 'Fly']",[],['Present'],"['Thunder Shock', 'Quick Attack']",Flying_5th_anniv,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge', 'Fly']",[],[],"['Thunder Shock', 'Quick Attack']",Flying_okinawa,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Gofest_2022,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Quick Attack']",Gofest_2024_mtiara,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Quick Attack']",Gofest_2024_stiara,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Quick Attack']",Gotour_2024_a,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Quick Attack']",Gotour_2024_a_02,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Quick Attack']",Gotour_2024_b,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Quick Attack']",Gotour_2024_b_02,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']",['Volt Tackle'],[],"['Thunder Shock', 'Quick Attack']",Horizons,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Quick Attack']",Jeju,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Quick Attack']",Kariyushi,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Normal,Pikachu
+"['Draining Kiss', 'Thunder Punch', 'Play Rough']",[],[],"['Thunder Shock', 'Charm']",Pop_star,Pikachu
+"['Meteor Mash', 'Thunder Punch', 'Play Rough']",[],[],"['Thunder Shock', 'Charm']",Rock_star,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Summer_2023_a,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Summer_2023_b,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Summer_2023_c,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Summer_2023_d,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Summer_2023_e,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Quick Attack']",Tshirt_01,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Quick Attack']",Tshirt_02,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Quick Attack']",Tshirt_03,Pikachu
+"['Flying Press', 'Thunder Punch', 'Play Rough']",[],[],"['Thunder Shock', 'Charm']",Vs_2019,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Wcs_2022,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Wcs_2023,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Wcs_2024,Pikachu
+"['Discharge', 'Thunderbolt', 'Wild Charge']","['Surf', 'Thunder']",['Present'],"['Thunder Shock', 'Quick Attack']",Winter_2020,Pikachu
+"['Psychic', 'Thunder Punch', 'Wild Charge', 'Grass Knot', 'Trailblaze']",[],[],"['Volt Switch', 'Spark', 'Thunder Shock']",Alola,Raichu
+"['Brick Break', 'Thunder Punch', 'Wild Charge', 'Skull Bash', 'Trailblaze']",['Thunder'],[],"['Volt Switch', 'Spark', 'Charm', 'Thunder Shock']",Normal,Raichu
+"['Blizzard', 'Gyro Ball', 'Night Slash']",[],[],"['Metal Claw', 'Powder Snow']",Alola,Sandshrew
+"['Dig', 'Rock Slide', 'Sand Tomb']",['Rock Tomb'],[],"['Scratch', 'Mud Shot', 'Sand Attack']",Normal,Sandshrew
+"['Blizzard', 'Gyro Ball', 'Bulldoze', 'Ice Punch', 'Drill Run', 'Aerial Ace']",[],['Shadow Claw'],"['Metal Claw', 'Powder Snow']",Alola,Sandslash
+"['Earthquake', 'Rock Tomb', 'Bulldoze', 'Scorching Sands']",['Night Slash'],[],"['Metal Claw', 'Mud Shot', 'Sand Attack']",Normal,Sandslash
+"['Poison Fang', 'Body Slam', 'Sludge Bomb']",[],[],"['Bite', 'Poison Sting']",Normal,Nidoran♀
+"['Poison Fang', 'Dig', 'Sludge Bomb', 'Thunderbolt']",[],[],"['Bite', 'Poison Sting']",Normal,Nidorina
+"['Earthquake', 'Sludge Wave', 'Stone Edge', 'Earth Power', 'Poison Fang']",[],[],"['Poison Jab', 'Bite']",Normal,Nidoqueen
+"['Horn Attack', 'Body Slam', 'Sludge Bomb']",[],[],"['Peck', 'Poison Sting']",Normal,Nidoran♂
+"['Horn Attack', 'Dig', 'Sludge Bomb', 'Ice Beam']",[],[],"['Poison Jab', 'Poison Sting']",Normal,Nidorino
+"['Earthquake', 'Sludge Wave', 'Megahorn', 'Earth Power', 'Sand Tomb']",[],['Fury Cutter'],"['Poison Jab', 'Iron Tail', 'Double Kick']",Normal,Nidoking
+"['Disarming Voice', 'Body Slam', 'Moonblast', 'Swift']",[],[],"['Pound', 'Zen Headbutt']",Normal,Clefairy
+"['Dazzling Gleam', 'Psychic', 'Moonblast', 'Meteor Mash', 'Swift', 'Draining Kiss']",[],['Pound'],"['Charge Beam', 'Zen Headbutt', 'Charm', 'Fairy Wind']",Normal,Clefable
+"['Dark Pulse', 'Ice Beam', 'Blizzard', 'Weather Ball Ice']",[],[],"['Zen Headbutt', 'Powder Snow']",Alola,Vulpix
+"['Body Slam', 'Flamethrower', 'Flame Charge', 'Weather Ball Fire']",[],[],"['Quick Attack', 'Ember']",Normal,Vulpix
+"['Dazzling Gleam', 'Ice Beam', 'Blizzard', 'Psyshock', 'Weather Ball Ice']",[],[],"['Feint Attack', 'Powder Snow', 'Charm']",Alola,Ninetales
+"['Heat Wave', 'Overheat', 'Solar Beam', 'Psyshock', 'Weather Ball Fire', 'Scorching Sands']","['Fire Blast', 'Flamethrower']",['Ember'],"['Feint Attack', 'Fire Spin']",Normal,Ninetales
+"['Disarming Voice', 'Gyro Ball', 'Dazzling Gleam', 'Swift']","['Play Rough', 'Body Slam']",[],"['Pound', 'Feint Attack']",Normal,Jigglypuff
+"['Dazzling Gleam', 'Hyper Beam', 'Play Rough', 'Ice Beam', 'Disarming Voice', 'Icy Wind', 'Swift']",[],[],"['Pound', 'Feint Attack', 'Charm']",Normal,Wigglytuff
+"['Poison Fang', 'Air Cutter', 'Swift']",['Sludge Bomb'],[],"['Quick Attack', 'Bite']",Normal,Zubat
+"['Shadow Ball', 'Air Cutter', 'Poison Fang']",['Ominous Wind'],[],"['Wing Attack', 'Bite']",Normal,Golbat
+"['Seed Bomb', 'Sludge Bomb', 'Moonblast']",[],[],"['Razor Leaf', 'Acid']",Normal,Oddish
+"['Petal Blizzard', 'Sludge Bomb', 'Moonblast']",[],[],"['Razor Leaf', 'Acid']",Normal,Gloom
+"['Petal Blizzard', 'Solar Beam', 'Moonblast', 'Sludge Bomb']",[],[],"['Razor Leaf', 'Acid']",Normal,Vileplume
+"['Cross Poison', 'X Scissor', 'Seed Bomb']",[],[],"['Scratch', 'Bug Bite']",Normal,Paras
+"['Cross Poison', 'X Scissor', 'Solar Beam']",[],['Bug Bite'],"['Struggle Bug', 'Fury Cutter']",Normal,Parasect
+"['Poison Fang', 'Psybeam', 'Signal Beam']",[],[],"['Bug Bite', 'Confusion']",Normal,Venonat
+"['Silver Wind', 'Psychic', 'Bug Buzz', 'Poison Fang']",[],['Bug Bite'],"['Infestation', 'Confusion']",Normal,Venomoth
+"['Dig', 'Mud Bomb', 'Rock Tomb']",[],[],"['Mud Slap', 'Metal Claw', 'Sand Attack']",Alola,Diglett
+"['Dig', 'Mud Bomb', 'Rock Tomb']",[],[],"['Mud Slap', 'Scratch', 'Mud Shot']",Normal,Diglett
+"['Earthquake', 'Mud Bomb', 'Iron Head']",[],[],"['Metal Claw', 'Mud Slap', 'Sand Attack']",Alola,Dugtrio
+"['Earthquake', 'Mud Bomb', 'Stone Edge']",[],[],"['Sucker Punch', 'Mud Slap', 'Mud Shot']",Normal,Dugtrio
+"['Night Slash', 'Dark Pulse', 'Foul Play', 'Trailblaze']",[],[],"['Scratch', 'Bite']",Alola,Meowth
+"['Night Slash', 'Gyro Ball', 'Dig', 'Trailblaze']",[],[],"['Scratch', 'Metal Claw']",Galarian,Meowth
+"['Night Slash', 'Dark Pulse', 'Foul Play']",['Body Slam'],[],"['Scratch', 'Bite']",Normal,Meowth
+"['Foul Play', 'Dark Pulse', 'Play Rough', 'Payback', 'Trailblaze']",[],[],"['Scratch', 'Feint Attack']",Alola,Persian
+"['Foul Play', 'Power Gem', 'Play Rough', 'Payback']",['Night Slash'],[],"['Scratch', 'Feint Attack']",Normal,Persian
+"['Psybeam', 'Aqua Tail', 'Cross Chop']",[],[],"['Water Gun', 'Zen Headbutt']",Normal,Psyduck
+"['Psychic', 'Hydro Pump', 'Ice Beam', 'Bubble Beam', 'Synchronoise', 'Cross Chop', 'Liquidation']",[],[],"['Water Gun', 'Confusion']",Normal,Golduck
+"['Cross Chop', 'Low Sweep', 'Brick Break']",[],[],"['Karate Chop', 'Scratch']",Normal,Mankey
+"['Close Combat', 'Low Sweep', 'Night Slash', 'Ice Punch']",['Cross Chop'],['Karate Chop'],"['Low Kick', 'Counter']",Normal,Primeape
+"['Rock Slide', 'Crunch', 'Flamethrower']",[],[],"['Ember', 'Bite']",Hisuian,Growlithe
+"['Flame Wheel', 'Body Slam', 'Flamethrower']",[],[],"['Ember', 'Bite']",Normal,Growlithe
+"['Rock Slide', 'Wild Charge', 'Crunch', 'Flamethrower']",[],[],"['Fire Fang', 'Snarl', 'Rock Smash']",Hisuian,Arcanine
+"['Fire Blast', 'Wild Charge', 'Crunch', 'Flamethrower', 'Psychic Fangs', 'Scorching Sands']",['Bulldoze'],['Bite'],"['Fire Fang', 'Snarl', 'Thunder Fang']",Normal,Arcanine
+"['Bubble Beam', 'Mud Bomb', 'Body Slam']",[],[],"['Bubble', 'Mud Shot']",Normal,Poliwag
+"['Water Pulse', 'Mud Bomb', 'Bubble Beam']",['Scald'],[],"['Bubble', 'Mud Shot']",Normal,Poliwhirl
+"['Hydro Pump', 'Dynamic Punch', 'Ice Punch', 'Power Up Punch', 'Scald', 'Icy Wind']",['Submission'],['Counter'],"['Bubble', 'Rock Smash', 'Mud Shot']",Normal,Poliwrath
+"['Psyshock', 'Signal Beam', 'Shadow Ball']",[],[],"['Zen Headbutt', 'Charge Beam']",Normal,Abra
+"['Psybeam', 'Dazzling Gleam', 'Shadow Ball']",[],[],"['Psycho Cut', 'Confusion']",Normal,Kadabra
+"['Futuresight', 'Focus Blast', 'Shadow Ball', 'Fire Punch']","['Dazzling Gleam', 'Psychic']",['Counter'],"['Psycho Cut', 'Confusion']",Normal,Alakazam
+"['Low Sweep', 'Brick Break', 'Cross Chop']",[],['Low Kick'],"['Rock Smash', 'Karate Chop']",Normal,Machop
+"['Submission', 'Brick Break', 'Dynamic Punch']",['Cross Chop'],[],"['Low Kick', 'Karate Chop']",Normal,Machoke
+"['Heavy Slam', 'Dynamic Punch', 'Close Combat', 'Rock Slide', 'Cross Chop']","['Stone Edge', 'Submission', 'Payback']",['Karate Chop'],"['Bullet Punch', 'Counter']",Normal,Machamp
+"['Power Whip', 'Sludge Bomb', 'Wrap']",[],[],"['Vine Whip', 'Acid']",Normal,Bellsprout
+"['Power Whip', 'Sludge Bomb', 'Seed Bomb']",[],['Razor Leaf'],"['Bullet Seed', 'Acid']",Normal,Weepinbell
+"['Leaf Blade', 'Sludge Bomb', 'Solar Beam', 'Leaf Tornado', 'Acid Spray']",[],['Magical Leaf'],"['Razor Leaf', 'Acid']",Normal,Victreebel
+"['Bubble Beam', 'Water Pulse', 'Wrap']",[],[],"['Bubble', 'Poison Sting']",Normal,Tentacool
+"['Hydro Pump', 'Sludge Wave', 'Blizzard', 'Acid Spray', 'Scald']",[],[],"['Acid', 'Poison Jab']",Normal,Tentacruel
+"['Rock Slide', 'Rock Tomb', 'Thunderbolt']",[],[],"['Rock Throw', 'Volt Switch']",Alola,Geodude
+"['Rock Slide', 'Rock Tomb', 'Dig']",[],[],"['Rock Throw', 'Tackle']",Normal,Geodude
+"['Thunderbolt', 'Stone Edge', 'Rock Blast']",[],[],"['Rock Throw', 'Volt Switch']",Alola,Graveler
+"['Dig', 'Stone Edge', 'Rock Blast']",['Rock Slide'],[],"['Rock Throw', 'Mud Slap', 'Mud Shot']",Normal,Graveler
+"['Stone Edge', 'Rock Blast', 'Wild Charge']",[],['Rollout'],"['Rock Throw', 'Volt Switch']",Alola,Golem
+"['Stone Edge', 'Rock Blast', 'Earthquake', 'Ancient Power']",[],[],"['Rock Throw', 'Mud Slap', 'Mud Shot']",Normal,Golem
+"['Play Rough', 'Psybeam', 'Swift']",[],[],"['Low Kick', 'Psycho Cut']",Galarian,Ponyta
+"['Flame Charge', 'Flame Wheel', 'Stomp']",['Fire Blast'],[],"['Tackle', 'Ember']",Normal,Ponyta
+"['Play Rough', 'Psychic', 'Body Slam', 'Megahorn', 'High Horsepower']",[],[],"['Low Kick', 'Psycho Cut', 'Fairy Wind']",Galarian,Rapidash
+"['Fire Blast', 'Drill Run', 'Heat Wave', 'Flame Charge', 'Scorching Sands']",[],['Ember'],"['Low Kick', 'Fire Spin', 'Incinerate']",Normal,Rapidash
+"['Water Pulse', 'Psyshock', 'Psychic']",[],[],"['Water Gun', 'Confusion']",2020,Slowpoke
+"['Surf', 'Psyshock', 'Psychic']",[],[],"['Confusion', 'Iron Tail']",Galarian,Slowpoke
+"['Water Pulse', 'Psyshock', 'Psychic']",[],[],"['Water Gun', 'Confusion']",Normal,Slowpoke
+"['Water Pulse', 'Psychic', 'Ice Beam', 'Scald']",['Surf'],[],"['Water Gun', 'Confusion']",2021,Slowbro
+"['Focus Blast', 'Psychic', 'Sludge Bomb', 'Scald', 'Brutal Swing']",['Surf'],[],"['Confusion', 'Poison Jab']",Galarian,Slowbro
+"['Water Pulse', 'Psychic', 'Ice Beam', 'Scald']",['Surf'],[],"['Water Gun', 'Confusion']",Normal,Slowbro
+"['Discharge', 'Magnet Bomb', 'Thunderbolt']",[],[],"['Spark', 'Thunder Shock', 'Volt Switch', 'Metal Sound']",Normal,Magnemite
+"['Zap Cannon', 'Magnet Bomb', 'Flash Cannon', 'Discharge']",[],[],"['Spark', 'Charge Beam', 'Thunder Shock', 'Volt Switch', 'Metal Sound']",Normal,Magneton
+"['Brick Break', 'Brave Bird', 'Leaf Blade']",[],[],"['Rock Smash', 'Fury Cutter']",Galarian,Farfetch’d
+"['Aerial Ace', 'Air Cutter', 'Leaf Blade']",[],['Cut'],"['Air Slash', 'Fury Cutter']",Normal,Farfetch’d
+"['Drill Peck', 'Aerial Ace', 'Brave Bird']",['Swift'],[],"['Peck', 'Quick Attack']",Normal,Doduo
+"['Drill Peck', 'Aerial Ace', 'Brave Bird']",['Air Cutter'],[],"['Feint Attack', 'Steel Wing']",Normal,Dodrio
+"['Aurora Beam', 'Icy Wind', 'Aqua Tail']",['Aqua Jet'],['Water Gun'],"['Ice Shard', 'Lick']",Normal,Seel
+"['Aurora Beam', 'Water Pulse', 'Blizzard', 'Drill Run', 'Liquidation']","['Aqua Jet', 'Icy Wind']",['Ice Shard'],"['Frost Breath', 'Iron Tail']",Normal,Dewgong
+"['Crunch', 'Gunk Shot', 'Sludge Bomb']",[],[],"['Poison Jab', 'Bite']",Alola,Grimer
+"['Sludge', 'Mud Bomb', 'Sludge Bomb']",[],[],"['Poison Jab', 'Mud Slap']",Normal,Grimer
+"['Dark Pulse', 'Gunk Shot', 'Sludge Wave', 'Acid Spray']",[],[],"['Bite', 'Poison Jab', 'Snarl']",Alola,Muk
+"['Dark Pulse', 'Gunk Shot', 'Sludge Wave', 'Thunder Punch', 'Acid Spray']",[],['Lick'],"['Infestation', 'Poison Jab']",Normal,Muk
+"['Bubble Beam', 'Water Pulse', 'Icy Wind', 'Razor Shell']",[],[],"['Ice Shard', 'Tackle']",Normal,Shellder
+"['Aurora Beam', 'Hydro Pump', 'Avalanche', 'Icy Wind', 'Liquidation', 'Razor Shell']",['Blizzard'],[],"['Frost Breath', 'Ice Shard']",Normal,Cloyster
+"['Night Shade', 'Dark Pulse', 'Sludge Bomb']",['Ominous Wind'],['Sucker Punch'],"['Lick', 'Astonish']",Normal,Gastly
+"['Shadow Punch', 'Dark Pulse', 'Sludge Bomb', 'Shadow Ball', 'Ice Punch']",[],['Lick'],"['Shadow Claw', 'Astonish']",Normal,Haunter
+"['Shadow Ball', 'Focus Blast', 'Sludge Bomb']","['Sludge Wave', 'Dark Pulse', 'Psychic', 'Shadow Punch']",['Lick'],"['Sucker Punch', 'Hex', 'Shadow Claw']",Costume_2020,Gengar
+"['Shadow Ball', 'Focus Blast', 'Sludge Bomb']","['Sludge Wave', 'Dark Pulse', 'Psychic', 'Shadow Punch']",['Lick'],"['Sucker Punch', 'Hex', 'Shadow Claw']",Normal,Gengar
+"['Sand Tomb', 'Stone Edge', 'Heavy Slam', 'Breaking Swipe']","['Iron Head', 'Rock Slide']",[],"['Rock Throw', 'Tackle']",Normal,Onix
+"['Psybeam', 'Psyshock', 'Psychic']",[],[],"['Pound', 'Confusion']",Normal,Drowzee
+"['Futuresight', 'Psychic', 'Focus Blast', 'Fire Punch', 'Ice Punch', 'Thunder Punch', 'Shadow Ball']",['Psyshock'],[],"['Zen Headbutt', 'Confusion']",Normal,Hypno
+"['Vice Grip', 'Bubble Beam', 'Water Pulse', 'Razor Shell']",[],[],"['Bubble', 'Mud Shot']",Normal,Krabby
+"['Vice Grip', 'X Scissor', 'Water Pulse', 'Crabhammer', 'Razor Shell']",[],['Mud Shot'],"['Bubble', 'Metal Claw']",Normal,Kingler
+"['Swift', 'Thunderbolt', 'Energy Ball']",[],[],"['Charge Beam', 'Tackle']",Hisuian,Voltorb
+"['Discharge', 'Thunderbolt', 'Gyro Ball']",['Signal Beam'],[],"['Spark', 'Tackle']",Normal,Voltorb
+"['Swift', 'Wild Charge', 'Energy Ball']",[],[],"['Thunder Shock', 'Tackle']",Hisuian,Electrode
+"['Discharge', 'Thunderbolt', 'Hyper Beam', 'Foul Play']",[],['Tackle'],"['Spark', 'Volt Switch']",Normal,Electrode
+"['Seed Bomb', 'Psychic', 'Ancient Power']",[],[],"['Confusion', 'Bullet Seed']",Normal,Exeggcute
+"['Seed Bomb', 'Dragon Pulse', 'Solar Beam']",['Draco Meteor'],[],"['Bullet Seed', 'Dragon Tail']",Alola,Exeggutor
+"['Seed Bomb', 'Psychic', 'Solar Beam']",[],['Zen Headbutt'],"['Bullet Seed', 'Extrasensory', 'Confusion']",Normal,Exeggutor
+"['Bone Club', 'Dig', 'Bulldoze']",[],[],"['Mud Slap', 'Rock Smash']",Normal,Cubone
+"['Bone Club', 'Shadow Ball', 'Fire Blast', 'Flame Wheel']",['Shadow Bone'],[],"['Hex', 'Rock Smash', 'Fire Spin']",Alola,Marowak
+"['Bone Club', 'Dig', 'Earthquake', 'Rock Slide']",[],[],"['Mud Slap', 'Rock Smash']",Normal,Marowak
+"['Close Combat', 'Low Sweep', 'Stone Edge', 'Blaze Kick']","['Stomp', 'Brick Break']",[],"['Low Kick', 'Rock Smash', 'Double Kick']",Normal,Hitmonlee
+"['Fire Punch', 'Ice Punch', 'Thunder Punch', 'Close Combat', 'Power Up Punch']",['Brick Break'],['Rock Smash'],"['Bullet Punch', 'Counter']",Normal,Hitmonchan
+"['Hyper Beam', 'Stomp', 'Power Whip']",['Body Slam'],[],"['Lick', 'Zen Headbutt']",Normal,Lickitung
+"['Sludge', 'Sludge Bomb', 'Dark Pulse']",[],[],"['Tackle', 'Infestation']",Normal,Koffing
+"['Sludge', 'Hyper Beam', 'Play Rough', 'Hyper Beam', 'Overheat', 'Brutal Swing']",[],[],"['Tackle', 'Fairy Wind']",Galarian,Weezing
+"['Sludge Bomb', 'Shadow Ball', 'Dark Pulse', 'Thunderbolt']",[],[],"['Tackle', 'Infestation']",Normal,Weezing
+"['Bulldoze', 'Horn Attack', 'Stomp']",[],[],"['Mud Slap', 'Rock Smash']",Normal,Rhyhorn
+"['Surf', 'Earthquake', 'Stone Edge', 'Breaking Swipe']",['Megahorn'],[],"['Mud Slap', 'Rock Smash']",Normal,Rhydon
+"['Psychic', 'Hyper Beam', 'Dazzling Gleam']",[],[],"['Pound', 'Zen Headbutt']",Normal,Chansey
+"['Grass Knot', 'Sludge Bomb', 'Solar Beam']",['Power Whip'],[],"['Vine Whip', 'Infestation']",Normal,Tangela
+"['Crunch', 'Earthquake', 'Outrage', 'Power Up Punch']","['Brick Break', 'Stomp']",[],"['Mud Slap', 'Low Kick']",Normal,Kangaskhan
+"['Bubble Beam', 'Dragon Pulse', 'Flash Cannon']",[],[],"['Water Gun', 'Bubble']",Normal,Horsea
+"['Aurora Beam', 'Dragon Pulse', 'Hydro Pump']",['Blizzard'],[],"['Water Gun', 'Dragon Breath']",Normal,Seadra
+"['Water Pulse', 'Horn Attack', 'Aqua Tail']",[],[],"['Peck', 'Mud Shot']",Normal,Goldeen
+"['Ice Beam', 'Water Pulse', 'Megahorn']","['Icy Wind', 'Drill Run']",['Poison Jab'],"['Peck', 'Waterfall']",Normal,Seaking
+"['Swift', 'Bubble Beam', 'Power Gem']",[],[],"['Tackle', 'Water Gun']",Normal,Staryu
+"['Hydro Pump', 'Power Gem', 'Psychic', 'Thunder', 'Ice Beam', 'Psybeam']",[],['Tackle'],"['Hidden Power', 'Water Gun']",Normal,Starmie
+"['Psybeam', 'Psychic', 'Ice Punch', 'Triple Axel']",[],[],"['Confusion', 'Zen Headbutt']",Galarian,Mr. Mime
+"['Psybeam', 'Psychic', 'Shadow Ball']",[],[],"['Confusion', 'Zen Headbutt', 'Magical Leaf', 'Psywave']",Normal,Mr. Mime
+"['Night Slash', 'X Scissor', 'Aerial Ace', 'Trailblaze']",['Bug Buzz'],['Steel Wing'],"['Fury Cutter', 'Air Slash']",Normal,Scyther
+"['Draining Kiss', 'Avalanche', 'Psyshock', 'Focus Blast']",['Ice Punch'],['Pound'],"['Frost Breath', 'Confusion']",Normal,Jynx
+"['Thunder Punch', 'Thunderbolt', 'Thunder']",[],[],"['Thunder Shock', 'Low Kick']",Normal,Electabuzz
+"['Fire Blast', 'Fire Punch', 'Flamethrower', 'Scorching Sands']",[],[],"['Ember', 'Karate Chop']",Normal,Magmar
+"['Vice Grip', 'X Scissor', 'Close Combat', 'Super Power']",['Submission'],[],"['Rock Smash', 'Bug Bite', 'Fury Cutter']",Normal,Pinsir
+"['Horn Attack', 'Iron Head', 'Earthquake', 'Trailblaze']",[],[],"['Tackle', 'Zen Headbutt']",Normal,Tauros
+['Struggle'],[],[],['Splash'],Normal,Magikarp
+"['Hydro Pump', 'Crunch', 'Outrage', 'Twister']","['Dragon Pulse', 'Aqua Tail']",['Dragon Tail'],"['Bite', 'Waterfall', 'Dragon Breath']",Normal,Gyarados
+"['Hydro Pump', 'Surf', 'Blizzard', 'Skull Bash']","['Dragon Pulse', 'Ice Beam']",['Ice Shard'],"['Frost Breath', 'Water Gun']",Costume_2020,Lapras
+"['Hydro Pump', 'Surf', 'Blizzard', 'Skull Bash']","['Dragon Pulse', 'Ice Beam']",['Ice Shard'],"['Frost Breath', 'Water Gun']",Normal,Lapras
+['Struggle'],[],[],['Transform'],Normal,Ditto
+"['Dig', 'Swift']","['Last Resort', 'Body Slam']",[],"['Quick Attack', 'Tackle']",Gofest_2024_mtiara,Eevee
+"['Dig', 'Swift']","['Last Resort', 'Body Slam']",[],"['Quick Attack', 'Tackle']",Gofest_2024_stiara,Eevee
+"['Dig', 'Swift']","['Last Resort', 'Body Slam']",[],"['Quick Attack', 'Tackle']",Normal,Eevee
+"['Water Pulse', 'Hydro Pump', 'Aqua Tail', 'Liquidation']","['Last Resort', 'Scald']",[],['Water Gun'],Normal,Vaporeon
+"['Discharge', 'Thunderbolt', 'Thunder']","['Last Resort', 'Zap Cannon']",[],"['Thunder Shock', 'Volt Switch']",Normal,Jolteon
+"['Fire Blast', 'Flamethrower', 'Overheat']","['Last Resort', 'Heat Wave', 'Super Power']",[],"['Ember', 'Fire Spin']",Normal,Flareon
+"['Solar Beam', 'Hyper Beam', 'Zap Cannon']","['Signal Beam', 'Psybeam', 'Discharge']","['Tackle', 'Zen Headbutt']","['Charge Beam', 'Hidden Power']",Normal,Porygon
+"['Ancient Power', 'Bubble Beam', 'Rock Blast']","['Rock Tomb', 'Brine']",[],"['Water Gun', 'Mud Shot']",Normal,Omanyte
+"['Ancient Power', 'Hydro Pump', 'Rock Blast']",['Rock Slide'],['Rock Throw'],"['Mud Shot', 'Water Gun']",Normal,Omastar
+"['Ancient Power', 'Aqua Jet', 'Rock Tomb']",[],[],"['Scratch', 'Mud Shot']",Normal,Kabuto
+"['Ancient Power', 'Water Pulse', 'Stone Edge']",[],['Fury Cutter'],"['Mud Shot', 'Rock Smash', 'Waterfall']",Normal,Kabutops
+"['Ancient Power', 'Iron Head', 'Hyper Beam', 'Rock Slide', 'Earth Power']",[],[],"['Steel Wing', 'Bite', 'Rock Throw']",Normal,Aerodactyl
+"['Ancient Power', 'Iron Head', 'Hyper Beam', 'Rock Slide', 'Earth Power']",[],[],"['Steel Wing', 'Bite', 'Rock Throw']",Summer_2023,Aerodactyl
+"['Heavy Slam', 'Hyper Beam', 'Earthquake', 'Outrage', 'Skull Bash', 'Body Slam', 'Super Power']",[],['Yawn'],"['Zen Headbutt', 'Lick']",Normal,Snorlax
+"['Futuresight', 'Ancient Power', 'Brave Bird']",[],[],"['Confusion', 'Psycho Cut']",Galarian,Articuno
+"['Ice Beam', 'Icy Wind', 'Blizzard', 'Ancient Power', 'Triple Axel']",['Hurricane'],[],"['Frost Breath', 'Ice Shard']",Normal,Articuno
+"['Close Combat', 'Ancient Power', 'Brave Bird']",[],[],['Counter'],Galarian,Zapdos
+"['Zap Cannon', 'Thunderbolt', 'Thunder', 'Ancient Power', 'Drill Peck']",[],['Thunder Shock'],['Charge Beam'],Normal,Zapdos
+"['Payback', 'Ancient Power', 'Brave Bird']",[],[],"['Sucker Punch', 'Wing Attack']",Galarian,Moltres
+"['Fire Blast', 'Heat Wave', 'Overheat', 'Ancient Power']",['Sky Attack'],[],"['Fire Spin', 'Wing Attack']",Normal,Moltres
+"['Wrap', 'Twister', 'Aqua Tail']",[],[],"['Dragon Breath', 'Iron Tail']",Normal,Dratini
+"['Wrap', 'Aqua Tail', 'Dragon Pulse', 'Body Slam']",[],[],"['Dragon Breath', 'Iron Tail']",Normal,Dragonair
+"['Hurricane', 'Hyper Beam', 'Outrage', 'Dragon Claw', 'Super Power']","['Draco Meteor', 'Dragon Pulse']",[],"['Dragon Tail', 'Steel Wing', 'Dragon Breath']",Normal,Dragonite
+"['Rock Slide', 'Dynamic Punch', 'Earthquake', 'Futuresight']",['Psystrike'],[],"['Confusion', 'Iron Tail']",A,Mewtwo
+"['Psychic', 'Thunderbolt', 'Ice Beam', 'Focus Blast', 'Flamethrower']","['Psystrike', 'Shadow Ball', 'Hyper Beam']",[],"['Psycho Cut', 'Confusion']",Normal,Mewtwo
+"['Psychic', 'Ancient Power', 'Dragon Claw', 'Psyshock', 'Ice Beam', 'Blizzard', 'Hyper Beam', 'Solar Beam', 'Thunderbolt', 'Thunder', 'Flame Charge', 'Low Sweep', 'Overheat', 'Focus Blast', 'Energy Ball', 'Stone Edge', 'Gyro Ball', 'Bulldoze', 'Rock Slide', 'Grass Knot', 'Flash Cannon', 'Wild Charge', 'Dark Pulse', 'Dazzling Gleam', 'Surf']",[],[],"['Pound', 'Steel Wing', 'Charge Beam', 'Shadow Claw', 'Volt Switch', 'Struggle Bug', 'Frost Breath', 'Dragon Tail', 'Infestation', 'Poison Jab', 'Rock Smash', 'Snarl', 'Cut', 'Waterfall']",Normal,Mew
+"['Energy Ball', 'Grass Knot', 'Body Slam']",[],[],"['Vine Whip', 'Tackle', 'Magical Leaf']",Normal,Chikorita
+"['Energy Ball', 'Grass Knot', 'Ancient Power']",[],[],"['Razor Leaf', 'Tackle', 'Magical Leaf']",Normal,Bayleef
+"['Petal Blizzard', 'Solar Beam', 'Earthquake']",['Frenzy Plant'],[],"['Razor Leaf', 'Vine Whip', 'Magical Leaf']",Normal,Meganium
+"['Flame Charge', 'Swift', 'Flamethrower']",[],[],"['Ember', 'Tackle']",Normal,Cyndaquil
+"['Flame Charge', 'Dig', 'Flamethrower']",[],[],"['Ember', 'Tackle']",Normal,Quilava
+"['Fire Punch', 'Wild Charge', 'Shadow Ball', 'Overheat', 'Night Shade']",[],[],"['Hex', 'Ember']",Hisuian,Typhlosion
+"['Fire Blast', 'Overheat', 'Solar Beam', 'Thunder Punch']",['Blast Burn'],[],"['Ember', 'Shadow Claw', 'Incinerate']",Normal,Typhlosion
+"['Crunch', 'Aqua Jet', 'Water Pulse']",[],[],"['Water Gun', 'Scratch']",Normal,Totodile
+"['Crunch', 'Ice Punch', 'Water Pulse']",[],[],"['Water Gun', 'Scratch']",Normal,Croconaw
+"['Crunch', 'Hydro Pump', 'Ice Beam']",['Hydro Cannon'],['Water Gun'],"['Waterfall', 'Bite', 'Ice Fang', 'Shadow Claw']",Normal,Feraligatr
+"['Dig', 'Brick Break', 'Grass Knot']",[],[],"['Scratch', 'Quick Attack']",Normal,Sentret
+"['Dig', 'Brick Break', 'Hyper Beam']",[],[],"['Quick Attack', 'Sucker Punch']",Normal,Furret
+"['Aerial Ace', 'Sky Attack', 'Night Shade']",[],[],"['Feint Attack', 'Peck']",Normal,Hoothoot
+"['Psychic', 'Sky Attack', 'Night Shade', 'Shadow Ball']",[],[],"['Wing Attack', 'Extrasensory']",Normal,Noctowl
+"['Silver Wind', 'Swift', 'Aerial Ace']",[],[],"['Tackle', 'Bug Bite']",Normal,Ledyba
+"['Bug Buzz', 'Silver Wind', 'Aerial Ace', 'Dynamic Punch']",[],[],"['Struggle Bug', 'Bug Bite', 'Counter']",Normal,Ledian
+"['Night Slash', 'Signal Beam', 'Cross Poison']",[],[],"['Poison Sting', 'Bug Bite']",Normal,Spinarak
+"['Shadow Sneak', 'Megahorn', 'Cross Poison', 'Lunge', 'Trailblaze']",[],[],"['Poison Sting', 'Infestation']",Normal,Ariados
+"['Shadow Ball', 'Air Cutter', 'Sludge Bomb', 'Poison Fang', 'Cross Poison']",[],[],"['Air Slash', 'Bite']",Normal,Crobat
+"['Water Pulse', 'Thunderbolt', 'Bubble Beam']",[],[],"['Bubble', 'Spark']",Normal,Chinchou
+"['Hydro Pump', 'Thunderbolt', 'Thunder', 'Surf']",[],[],"['Water Gun', 'Charge Beam', 'Spark']",Normal,Lanturn
+"['Thunderbolt', 'Disarming Voice', 'Thunder Punch']",[],[],['Thunder Shock'],Normal,Pichu
+"['Grass Knot', 'Psyshock', 'Signal Beam', 'Swift']","['Psychic', 'Body Slam']",[],"['Pound', 'Zen Headbutt']",Normal,Cleffa
+"['Wild Charge', 'Shadow Ball', 'Psychic', 'Swift']",['Body Slam'],[],"['Pound', 'Feint Attack']",Normal,Igglybuff
+"['Ancient Power', 'Psyshock', 'Dazzling Gleam']",[],['Zen Headbutt'],"['Hidden Power', 'Peck']",Normal,Togepi
+"['Ancient Power', 'Dazzling Gleam', 'Aerial Ace', 'Draining Kiss']",[],"['Steel Wing', 'Zen Headbutt']","['Extrasensory', 'Hidden Power', 'Fairy Wind']",Normal,Togetic
+"['Night Shade', 'Psyshock', 'Drill Peck']",[],[],"['Peck', 'Quick Attack']",Normal,Natu
+"['Ominous Wind', 'Futuresight', 'Aerial Ace']",[],[],"['Air Slash', 'Feint Attack']",Normal,Xatu
+"['Body Slam', 'Thunderbolt', 'Discharge', 'Trailblaze']",[],[],"['Tackle', 'Thunder Shock']",Normal,Mareep
+"['Power Gem', 'Thunderbolt', 'Discharge', 'Trailblaze']",[],[],"['Tackle', 'Charge Beam']",Normal,Flaaffy
+"['Zap Cannon', 'Focus Blast', 'Thunder', 'Power Gem', 'Thunder Punch', 'Brutal Swing', 'Trailblaze']",['Dragon Pulse'],[],"['Charge Beam', 'Volt Switch']",Normal,Ampharos
+"['Leaf Blade', 'Petal Blizzard', 'Dazzling Gleam']",[],[],"['Razor Leaf', 'Acid', 'Bullet Seed', 'Magical Leaf']",Normal,Bellossom
+"['Bubble Beam', 'Aqua Tail', 'Body Slam']",[],[],"['Tackle', 'Bubble']",Normal,Marill
+"['Play Rough', 'Hydro Pump', 'Ice Beam']",[],[],"['Rock Smash', 'Bubble']",Normal,Azumarill
+"['Stone Edge', 'Earthquake', 'Rock Slide', 'Rock Tomb', 'Meteor Beam', 'Trailblaze']",[],[],"['Rock Throw', 'Counter']",Normal,Sudowoodo
+"['Hydro Pump', 'Blizzard', 'Surf', 'Weather Ball Water', 'Scald']","['Earthquake', 'Ice Beam']",[],"['Mud Shot', 'Bubble']",Normal,Politoed
+"['Grass Knot', 'Dazzling Gleam', 'Seed Bomb']",[],[],"['Tackle', 'Bullet Seed']",Normal,Hoppip
+"['Grass Knot', 'Dazzling Gleam', 'Energy Ball']",[],[],"['Tackle', 'Bullet Seed']",Normal,Skiploom
+"['Energy Ball', 'Dazzling Gleam', 'Solar Beam', 'Aerial Ace']",['Acrobatics'],[],"['Infestation', 'Bullet Seed', 'Fairy Wind']",Normal,Jumpluff
+"['Low Sweep', 'Swift', 'Aerial Ace']",[],[],"['Scratch', 'Astonish']",Normal,Aipom
+"['Energy Ball', 'Grass Knot', 'Seed Bomb']",[],[],"['Razor Leaf', 'Cut']",Normal,Sunkern
+"['Solar Beam', 'Petal Blizzard', 'Sludge Bomb', 'Leaf Storm']",[],[],"['Razor Leaf', 'Bullet Seed']",Normal,Sunflora
+"['Ancient Power', 'Aerial Ace', 'Silver Wind']",[],[],"['Quick Attack', 'Wing Attack']",Normal,Yanma
+"['Mud Bomb', 'Dig', 'Body Slam']",[],[],"['Water Gun', 'Mud Shot']",Normal,Wooper
+"['Sludge Wave', 'Dig', 'Body Slam']",[],[],"['Poison Jab', 'Mud Shot']",Paldea,Wooper
+"['Sludge Bomb', 'Earthquake', 'Stone Edge', 'Acid Spray', 'Mud Bomb']",['Aqua Tail'],[],"['Water Gun', 'Mud Shot']",Normal,Quagsire
+"['Psybeam', 'Psychic', 'Futuresight', 'Psychic Fangs']","['Last Resort', 'Shadow Ball']",[],"['Confusion', 'Zen Headbutt']",Gofest_2024_sscarf,Espeon
+"['Psybeam', 'Psychic', 'Futuresight', 'Psychic Fangs']","['Last Resort', 'Shadow Ball']",[],"['Confusion', 'Zen Headbutt']",Normal,Espeon
+"['Dark Pulse', 'Foul Play']","['Last Resort', 'Psychic']",[],"['Feint Attack', 'Snarl']",Gofest_2024_mscarf,Umbreon
+"['Dark Pulse', 'Foul Play']","['Last Resort', 'Psychic']",[],"['Feint Attack', 'Snarl']",Normal,Umbreon
+"['Drill Peck', 'Foul Play', 'Dark Pulse']",[],[],"['Peck', 'Feint Attack']",Normal,Murkrow
+"['Blizzard', 'Psychic', 'Fire Blast', 'Scald']",['Surf'],[],"['Water Gun', 'Confusion']",2022,Slowking
+"['Futuresight', 'Shadow Ball', 'Sludge Wave', 'Scald']",['Surf'],[],"['Hex', 'Confusion', 'Acid']",Galarian,Slowking
+"['Blizzard', 'Psychic', 'Fire Blast', 'Scald']",['Surf'],[],"['Water Gun', 'Confusion']",Normal,Slowking
+"['Shadow Sneak', 'Dark Pulse', 'Ominous Wind']",[],[],"['Astonish', 'Hex', 'Psywave']",Normal,Misdreavus
+['Struggle'],[],[],['Hidden Power'],A,Unown
+['Struggle'],[],[],['Hidden Power'],B,Unown
+['Struggle'],[],[],['Hidden Power'],C,Unown
+['Struggle'],[],[],['Hidden Power'],D,Unown
+['Struggle'],[],[],['Hidden Power'],E,Unown
+['Struggle'],[],[],['Hidden Power'],Exclamation_point,Unown
+['Struggle'],[],[],['Hidden Power'],F,Unown
+['Struggle'],[],[],['Hidden Power'],G,Unown
+['Struggle'],[],[],['Hidden Power'],H,Unown
+['Struggle'],[],[],['Hidden Power'],I,Unown
+['Struggle'],[],[],['Hidden Power'],J,Unown
+['Struggle'],[],[],['Hidden Power'],K,Unown
+['Struggle'],[],[],['Hidden Power'],L,Unown
+['Struggle'],[],[],['Hidden Power'],M,Unown
+['Struggle'],[],[],['Hidden Power'],N,Unown
+['Struggle'],[],[],['Hidden Power'],O,Unown
+['Struggle'],[],[],['Hidden Power'],P,Unown
+['Struggle'],[],[],['Hidden Power'],Q,Unown
+['Struggle'],[],[],['Hidden Power'],Question_mark,Unown
+['Struggle'],[],[],['Hidden Power'],R,Unown
+['Struggle'],[],[],['Hidden Power'],S,Unown
+['Struggle'],[],[],['Hidden Power'],T,Unown
+['Struggle'],[],[],['Hidden Power'],U,Unown
+['Struggle'],[],[],['Hidden Power'],V,Unown
+['Struggle'],[],[],['Hidden Power'],W,Unown
+['Struggle'],[],[],['Hidden Power'],X,Unown
+['Struggle'],[],[],['Hidden Power'],Y,Unown
+['Struggle'],[],[],['Hidden Power'],Z,Unown
+['Mirror Coat'],[],[],"['Counter', 'Splash', 'Charm']",Normal,Wobbuffet
+"['Psychic', 'Thunderbolt', 'Mirror Coat', 'Psychic Fangs', 'Trailblaze']",[],[],"['Tackle', 'Confusion', 'Double Kick']",Normal,Girafarig
+"['Gyro Ball', 'Rock Tomb', 'Sand Tomb']",[],[],"['Tackle', 'Bug Bite']",Normal,Pineco
+"['Heavy Slam', 'Earthquake', 'Rock Tomb', 'Sand Tomb', 'Mirror Shot']",[],[],"['Bug Bite', 'Struggle Bug', 'Volt Switch']",Normal,Forretress
+"['Dig', 'Rock Slide', 'Drill Run']",[],[],"['Bite', 'Astonish', 'Rollout']",Normal,Dunsparce
+"['Dig', 'Aerial Ace', 'Night Slash']",[],[],"['Fury Cutter', 'Wing Attack']",Normal,Gligar
+"['Earthquake', 'Heavy Slam', 'Crunch', 'Psychic Fangs', 'Breaking Swipe']",[],[],"['Iron Tail', 'Dragon Tail', 'Thunder Fang']",Normal,Steelix
+"['Crunch', 'Dazzling Gleam', 'Brick Break']",[],[],"['Tackle', 'Bite']",Normal,Snubbull
+"['Crunch', 'Play Rough', 'Close Combat']",[],[],"['Bite', 'Snarl', 'Charm']",Normal,Granbull
+"['Aqua Tail', 'Ice Beam', 'Sludge Bomb', 'Dark Pulse', 'Shadow Ball']",[],[],"['Poison Sting', 'Poison Jab']",Hisuian,Qwilfish
+"['Aqua Tail', 'Ice Beam', 'Sludge Wave', 'Acid Spray', 'Fell Stinger', 'Scald']",[],[],"['Poison Sting', 'Water Gun']",Normal,Qwilfish
+"['X Scissor', 'Iron Head', 'Night Slash', 'Trailblaze']",[],[],"['Bullet Punch', 'Fury Cutter']",Normal,Scizor
+"['Rock Blast', 'Stone Edge', 'Gyro Ball']",[],[],"['Struggle Bug', 'Rock Throw']",Normal,Shuckle
+"['Megahorn', 'Close Combat', 'Earthquake', 'Rock Blast']",[],[],"['Counter', 'Struggle Bug']",Normal,Heracross
+"['Aerial Ace', 'Close Combat', 'X Scissor']",[],[],"['Rock Smash', 'Poison Jab']",Hisuian,Sneasel
+"['Avalanche', 'Ice Punch', 'Foul Play', 'Triple Axel']",[],[],"['Ice Shard', 'Feint Attack']",Normal,Sneasel
+"['Cross Chop', 'Crunch', 'Play Rough', 'Trailblaze', 'Swift']",[],[],"['Scratch', 'Lick']",Normal,Teddiursa
+"['Close Combat', 'Hyper Beam', 'Play Rough', 'Trailblaze', 'Swift']",[],[],"['Metal Claw', 'Counter', 'Shadow Claw']",Normal,Ursaring
+"['Flame Burst', 'Flame Charge', 'Rock Slide']",[],[],"['Ember', 'Rock Throw']",Normal,Slugma
+"['Heat Wave', 'Overheat', 'Stone Edge', 'Rock Tomb']",[],[],"['Ember', 'Rock Throw', 'Incinerate']",Normal,Magcargo
+"['Icy Wind', 'Body Slam', 'Rock Slide']",[],[],"['Tackle', 'Powder Snow']",Normal,Swinub
+"['Avalanche', 'Bulldoze', 'Stone Edge', 'High Horsepower']",[],[],"['Ice Shard', 'Powder Snow']",Normal,Piloswine
+"['Rock Blast', 'Power Gem', 'Night Shade']",[],[],"['Tackle', 'Astonish']",Galarian,Corsola
+"['Rock Blast', 'Power Gem', 'Bubble Beam']",[],[],"['Tackle', 'Bubble']",Normal,Corsola
+"['Aurora Beam', 'Water Pulse', 'Rock Blast']",[],[],"['Water Gun', 'Mud Shot']",Normal,Remoraid
+"['Gunk Shot', 'Water Pulse', 'Aurora Beam', 'Acid Spray', 'Octazooka']",[],[],"['Water Gun', 'Mud Shot', 'Lock On']",Normal,Octillery
+"['Ice Punch', 'Icy Wind', 'Aerial Ace', 'Fly', 'Triple Axel']",[],[],['Present'],Normal,Delibird
+"['Ice Punch', 'Icy Wind', 'Aerial Ace', 'Fly', 'Triple Axel']",[],[],['Present'],Winter_2020,Delibird
+"['Water Pulse', 'Ice Beam', 'Aerial Ace', 'Bubble Beam']",[],[],"['Bubble', 'Wing Attack', 'Bullet Seed']",Normal,Mantine
+"['Brave Bird', 'Sky Attack', 'Flash Cannon']",[],[],"['Steel Wing', 'Air Slash']",Normal,Skarmory
+"['Crunch', 'Flamethrower', 'Dark Pulse']",[],[],"['Feint Attack', 'Ember']",Normal,Houndour
+"['Crunch', 'Fire Blast', 'Foul Play', 'Flamethrower']",[],[],"['Snarl', 'Fire Fang']",Normal,Houndoom
+"['Hydro Pump', 'Blizzard', 'Outrage', 'Octazooka']",[],['Water Gun'],"['Waterfall', 'Dragon Breath']",Normal,Kingdra
+"['Bulldoze', 'Rock Slide', 'Body Slam', 'Trailblaze']",[],[],"['Tackle', 'Rock Smash']",Normal,Phanpy
+"['Earthquake', 'Heavy Slam', 'Play Rough', 'Body Slam', 'Trailblaze']",[],[],"['Tackle', 'Counter', 'Mud Slap', 'Charm']",Normal,Donphan
+"['Solar Beam', 'Hyper Beam', 'Zap Cannon', 'Tri Attack']",[],[],"['Hidden Power', 'Charge Beam', 'Lock On']",Normal,Porygon2
+"['Stomp', 'Wild Charge', 'Megahorn']",[],[],"['Tackle', 'Zen Headbutt']",Normal,Stantler
+[],[],[],[],Normal,Smeargle
+"['Brick Break', 'Rock Slide', 'Low Sweep']",[],[],"['Rock Smash', 'Tackle']",Normal,Tyrogue
+"['Close Combat', 'Gyro Ball', 'Stone Edge', 'Triple Axel']",[],[],"['Rock Smash', 'Counter']",Normal,Hitmontop
+"['Ice Beam', 'Ice Punch', 'Psyshock']",[],['Frost Breath'],"['Powder Snow', 'Pound']",Normal,Smoochum
+"['Thunder Punch', 'Brick Break', 'Discharge']",['Thunderbolt'],[],"['Thunder Shock', 'Low Kick']",Normal,Elekid
+"['Brick Break', 'Fire Punch', 'Flame Burst']",['Flamethrower'],[],"['Ember', 'Karate Chop']",Normal,Magby
+"['Stomp', 'Body Slam', 'Gyro Ball', 'Thunderbolt', 'Ice Beam']",[],[],"['Tackle', 'Zen Headbutt', 'Rollout']",Normal,Miltank
+"['Psychic', 'Hyper Beam', 'Dazzling Gleam']",['Wild Charge'],[],"['Pound', 'Zen Headbutt']",Normal,Blissey
+"['Thunder', 'Thunderbolt', 'Wild Charge', 'Shadow Ball']",[],[],"['Thunder Shock', 'Volt Switch']",Normal,Raikou
+"['Thunder', 'Thunderbolt', 'Wild Charge', 'Shadow Ball']",[],[],"['Thunder Shock', 'Volt Switch']",S,Raikou
+"['Flamethrower', 'Fire Blast', 'Overheat', 'Iron Head', 'Flame Charge', 'Scorching Sands']",[],[],"['Fire Spin', 'Fire Fang']",Normal,Entei
+"['Flamethrower', 'Fire Blast', 'Overheat', 'Iron Head', 'Flame Charge', 'Scorching Sands']",[],[],"['Fire Spin', 'Fire Fang']",S,Entei
+"['Hydro Pump', 'Bubble Beam', 'Water Pulse', 'Ice Beam', 'Scald']",[],['Hidden Power'],"['Extrasensory', 'Snarl', 'Ice Fang']",Normal,Suicune
+"['Hydro Pump', 'Bubble Beam', 'Water Pulse', 'Ice Beam', 'Scald']",[],['Hidden Power'],"['Extrasensory', 'Snarl', 'Ice Fang']",S,Suicune
+"['Stomp', 'Crunch', 'Ancient Power']",[],[],"['Bite', 'Rock Smash']",Normal,Larvitar
+"['Dig', 'Crunch', 'Ancient Power']",[],[],"['Bite', 'Rock Smash']",Normal,Pupitar
+"['Fire Blast', 'Crunch', 'Stone Edge', 'Brutal Swing']",[],['Smack Down'],"['Bite', 'Iron Tail']",Normal,Tyranitar
+"['Sky Attack', 'Hydro Pump', 'Futuresight']",['Aeroblast'],[],"['Extrasensory', 'Dragon Tail']",Normal,Lugia
+"['Sky Attack', 'Hydro Pump', 'Futuresight']",['Aeroblast'],[],"['Extrasensory', 'Dragon Tail']",S,Lugia
+"['Brave Bird', 'Fire Blast', 'Solar Beam']","['Earthquake', 'Sacred Fire']",[],"['Extrasensory', 'Steel Wing', 'Hidden Power', 'Incinerate']",Normal,Ho-Oh
+"['Brave Bird', 'Fire Blast', 'Solar Beam']","['Earthquake', 'Sacred Fire']",[],"['Extrasensory', 'Steel Wing', 'Hidden Power', 'Incinerate']",S,Ho-Oh
+"['Hyper Beam', 'Psychic', 'Dazzling Gleam', 'Seed Bomb', 'Leaf Storm']",[],['Magical Leaf'],"['Confusion', 'Charge Beam']",Normal,Celebi
+"['Energy Ball', 'Aerial Ace', 'Grass Knot']",[],[],"['Pound', 'Bullet Seed']",Normal,Treecko
+"['Leaf Blade', 'Aerial Ace', 'Grass Knot']",[],[],"['Quick Attack', 'Bullet Seed']",Normal,Grovyle
+"['Leaf Blade', 'Aerial Ace', 'Earthquake', 'Dragon Claw', 'Breaking Swipe']",['Frenzy Plant'],[],"['Fury Cutter', 'Bullet Seed']",Normal,Sceptile
+"['Flame Charge', 'Flamethrower', 'Rock Tomb']",[],[],"['Scratch', 'Ember']",Normal,Torchic
+"['Flame Charge', 'Flamethrower', 'Rock Slide']",[],[],"['Peck', 'Ember']",Normal,Combusken
+"['Focus Blast', 'Overheat', 'Brave Bird', 'Blaze Kick']","['Blast Burn', 'Stone Edge']",[],"['Counter', 'Fire Spin']",Normal,Blaziken
+"['Dig', 'Sludge', 'Stomp']",[],[],"['Tackle', 'Water Gun']",Normal,Mudkip
+"['Mud Bomb', 'Sludge', 'Surf']",[],[],"['Mud Shot', 'Water Gun']",Normal,Marshtomp
+"['Earthquake', 'Sludge Wave', 'Surf', 'Muddy Water']",['Hydro Cannon'],[],"['Mud Shot', 'Water Gun']",Normal,Swampert
+"['Crunch', 'Dig', 'Poison Fang']",[],[],"['Tackle', 'Snarl']",Normal,Poochyena
+"['Crunch', 'Play Rough', 'Poison Fang']",[],[],"['Bite', 'Fire Fang', 'Thunder Fang', 'Ice Fang']",Normal,Mightyena
+"['Dig', 'Body Slam', 'Swift']",[],[],"['Tackle', 'Take Down']",Galarian,Zigzagoon
+"['Dig', 'Grass Knot', 'Thunderbolt']",[],[],"['Tackle', 'Rock Smash', 'Sand Attack']",Normal,Zigzagoon
+"['Dig', 'Body Slam', 'Gunk Shot']",[],[],"['Snarl', 'Lick']",Galarian,Linoone
+"['Dig', 'Grass Knot', 'Thunder']",[],[],"['Shadow Claw', 'Tackle', 'Sand Attack']",Normal,Linoone
+['Struggle'],[],[],"['Tackle', 'Bug Bite']",Normal,Wurmple
+['Struggle'],[],[],"['Poison Sting', 'Bug Bite']",Normal,Silcoon
+"['Silver Wind', 'Air Cutter', 'Bug Buzz']",[],[],"['Struggle Bug', 'Infestation']",Normal,Beautifly
+['Struggle'],[],[],"['Poison Sting', 'Bug Bite']",Normal,Cascoon
+"['Silver Wind', 'Sludge Bomb', 'Bug Buzz']",[],[],"['Struggle Bug', 'Confusion']",Normal,Dustox
+"['Bubble Beam', 'Energy Ball', 'Scald']",[],[],"['Water Gun', 'Razor Leaf']",Normal,Lotad
+"['Bubble Beam', 'Ice Beam', 'Grass Knot', 'Scald']",[],[],"['Bubble', 'Razor Leaf']",Normal,Lombre
+"['Hydro Pump', 'Blizzard', 'Solar Beam', 'Ice Beam', 'Energy Ball', 'Leaf Storm', 'Scald']",[],[],"['Bubble', 'Razor Leaf']",Normal,Ludicolo
+"['Energy Ball', 'Grass Knot', 'Foul Play']",[],[],"['Bullet Seed', 'Quick Attack']",Normal,Seedot
+"['Leaf Blade', 'Grass Knot', 'Foul Play']",[],[],"['Razor Leaf', 'Feint Attack']",Normal,Nuzleaf
+"['Leaf Blade', 'Hurricane', 'Foul Play', 'Leaf Tornado']",[],['Bullet Seed'],"['Razor Leaf', 'Feint Attack', 'Snarl']",Normal,Shiftry
+['Aerial Ace'],[],[],"['Peck', 'Quick Attack']",Normal,Taillow
+"['Aerial Ace', 'Brave Bird', 'Sky Attack']",[],[],"['Wing Attack', 'Steel Wing']",Normal,Swellow
+"['Water Pulse', 'Air Cutter', 'Ice Beam']",[],[],"['Water Gun', 'Quick Attack']",Normal,Wingull
+"['Hydro Pump', 'Hurricane', 'Blizzard', 'Weather Ball Water']",[],[],"['Water Gun', 'Wing Attack']",Normal,Pelipper
+"['Psyshock', 'Disarming Voice', 'Shadow Sneak']",[],[],"['Confusion', 'Charge Beam']",Normal,Ralts
+"['Psychic', 'Disarming Voice', 'Shadow Sneak', 'Triple Axel', 'Draining Kiss']",[],[],"['Confusion', 'Charge Beam', 'Magical Leaf']",Normal,Kirlia
+"['Psychic', 'Dazzling Gleam', 'Shadow Ball', 'Triple Axel']",['Synchronoise'],[],"['Confusion', 'Charge Beam', 'Charm', 'Magical Leaf']",Normal,Gardevoir
+"['Aqua Jet', 'Bubble Beam', 'Signal Beam']",[],[],"['Bubble', 'Bug Bite']",Normal,Surskit
+"['Air Cutter', 'Ominous Wind', 'Silver Wind', 'Bubble Beam', 'Lunge']",[],[],"['Infestation', 'Air Slash']",Normal,Masquerain
+"['Seed Bomb', 'Grass Knot', 'Energy Ball']",[],[],"['Tackle', 'Bullet Seed']",Normal,Shroomish
+"['Dynamic Punch', 'Seed Bomb', 'Sludge Bomb']",['Grass Knot'],[],"['Counter', 'Bullet Seed', 'Force Palm']",Normal,Breloom
+"['Body Slam', 'Night Slash', 'Brick Break']",[],[],['Yawn'],Normal,Slakoth
+"['Body Slam', 'Bulldoze', 'Brick Break', 'Rock Slide']",[],[],"['Scratch', 'Counter']",Normal,Vigoroth
+"['Hyper Beam', 'Play Rough', 'Earthquake']",['Body Slam'],[],['Yawn'],Normal,Slaking
+"['Night Slash', 'Bug Buzz', 'Aerial Ace']",[],[],"['Scratch', 'Bug Bite']",Normal,Nincada
+"['Shadow Ball', 'Bug Buzz', 'Aerial Ace']",[],[],"['Fury Cutter', 'Metal Claw']",Normal,Ninjask
+"['Shadow Sneak', 'Aerial Ace', 'Dig']",[],['Struggle Bug'],"['Bug Bite', 'Shadow Claw']",Normal,Shedinja
+"['Stomp', 'Disarming Voice', 'Flamethrower']",[],[],"['Pound', 'Astonish']",Normal,Whismur
+"['Stomp', 'Disarming Voice', 'Flamethrower']",[],[],"['Bite', 'Rock Smash']",Normal,Loudred
+"['Crunch', 'Disarming Voice', 'Fire Blast', 'Boomburst']",[],[],"['Bite', 'Astonish']",Normal,Exploud
+"['Heavy Slam', 'Low Sweep', 'Cross Chop']",[],[],"['Rock Smash', 'Tackle']",Normal,Makuhita
+"['Heavy Slam', 'Close Combat', 'Dynamic Punch', 'Super Power']",[],[],"['Counter', 'Bullet Punch', 'Force Palm']",Normal,Hariyama
+"['Bubble Beam', 'Ice Beam', 'Body Slam']",[],[],"['Splash', 'Bubble']",Normal,Azurill
+"['Rock Blast', 'Rock Slide', 'Thunderbolt']",[],[],"['Rock Throw', 'Spark']",Normal,Nosepass
+"['Dig', 'Disarming Voice', 'Wild Charge']",[],[],"['Feint Attack', 'Tackle']",Normal,Skitty
+"['Play Rough', 'Disarming Voice', 'Wild Charge']",[],[],"['Feint Attack', 'Zen Headbutt', 'Charm']",Normal,Delcatty
+"['Power Gem', 'Foul Play', 'Shadow Sneak']",[],[],"['Shadow Claw', 'Feint Attack']",Costume_2020,Sableye
+"['Power Gem', 'Foul Play', 'Shadow Sneak']",[],[],"['Shadow Claw', 'Feint Attack']",Normal,Sableye
+"['Play Rough', 'Vice Grip', 'Iron Head', 'Power Up Punch']",[],[],"['Bite', 'Astonish', 'Ice Fang', 'Fire Fang', 'Fairy Wind']",Normal,Mawile
+"['Iron Head', 'Rock Tomb', 'Body Slam']",[],[],"['Tackle', 'Metal Claw']",Normal,Aron
+"['Body Slam', 'Rock Slide', 'Heavy Slam', 'Rock Tomb']",[],[],"['Metal Claw', 'Iron Tail']",Normal,Lairon
+"['Thunder', 'Stone Edge', 'Heavy Slam', 'Rock Tomb', 'Meteor Beam']",[],[],"['Dragon Tail', 'Iron Tail', 'Smack Down']",Normal,Aggron
+"['Ice Punch', 'Psyshock', 'Low Sweep']",[],[],"['Confusion', 'Rock Smash']",Normal,Meditite
+"['Ice Punch', 'Psychic', 'Dynamic Punch', 'Power Up Punch']",[],[],"['Psycho Cut', 'Counter']",Normal,Medicham
+"['Thunderbolt', 'Discharge', 'Swift']",[],[],"['Quick Attack', 'Spark']",Normal,Electrike
+"['Thunder', 'Wild Charge', 'Flame Burst', 'Overheat', 'Psychic Fangs']",[],[],"['Snarl', 'Charge Beam', 'Thunder Fang']",Normal,Manectric
+"['Thunderbolt', 'Discharge', 'Swift', 'Grass Knot']",[],[],"['Spark', 'Quick Attack']",Normal,Plusle
+"['Thunderbolt', 'Discharge', 'Swift', 'Grass Knot']",[],[],"['Spark', 'Quick Attack']",Normal,Minun
+"['Signal Beam', 'Bug Buzz', 'Thunderbolt']",[],[],"['Struggle Bug', 'Tackle']",Normal,Volbeat
+"['Silver Wind', 'Bug Buzz', 'Dazzling Gleam']",[],[],"['Struggle Bug', 'Tackle']",Normal,Illumise
+"['Petal Blizzard', 'Sludge Bomb', 'Dazzling Gleam']",[],[],"['Poison Jab', 'Razor Leaf', 'Magical Leaf']",Normal,Roselia
+"['Sludge', 'Gunk Shot', 'Ice Beam']",[],[],"['Pound', 'Rock Smash']",Normal,Gulpin
+"['Gunk Shot', 'Sludge Bomb', 'Ice Beam', 'Acid Spray']",[],[],"['Rock Smash', 'Infestation', 'Mud Shot']",Normal,Swalot
+"['Aqua Jet', 'Crunch', 'Poison Fang']",[],[],"['Bite', 'Snarl']",Normal,Carvanha
+"['Hydro Pump', 'Crunch', 'Poison Fang']",[],[],"['Bite', 'Waterfall']",Normal,Sharpedo
+"['Heavy Slam', 'Water Pulse', 'Body Slam', 'Scald']",[],[],"['Splash', 'Water Gun']",Normal,Wailmer
+"['Surf', 'Blizzard', 'Hyper Beam', 'Scald']",[],[],"['Zen Headbutt', 'Water Gun']",Normal,Wailord
+"['Bulldoze', 'Heat Wave', 'Stomp']",[],[],"['Ember', 'Tackle']",Normal,Numel
+"['Earthquake', 'Overheat', 'Solar Beam', 'Earth Power']",[],[],"['Ember', 'Rock Smash', 'Incinerate']",Normal,Camerupt
+"['Overheat', 'Solar Beam', 'Earthquake']",[],[],"['Fire Spin', 'Ember']",Normal,Torkoal
+"['Psybeam', 'Shadow Ball', 'Mirror Coat']",[],[],"['Splash', 'Zen Headbutt']",Normal,Spoink
+"['Psychic', 'Shadow Ball', 'Mirror Coat']",[],[],"['Charge Beam', 'Extrasensory']",Normal,Grumpig
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",00,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",01,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",02,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",03,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",04,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",05,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",06,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",07,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",08,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",09,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",10,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",11,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",12,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",13,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",14,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",15,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",16,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",17,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",18,Spinda
+"['Dig', 'Rock Tomb', 'Icy Wind']",[],[],"['Sucker Punch', 'Psycho Cut']",19,Spinda
+"['Sand Tomb', 'Dig', 'Crunch', 'Scorching Sands']",[],[],"['Mud Shot', 'Struggle Bug', 'Sand Attack']",Normal,Trapinch
+"['Sand Tomb', 'Bulldoze', 'Bug Buzz', 'Scorching Sands']",[],[],"['Mud Shot', 'Dragon Breath', 'Sand Attack']",Normal,Vibrava
+"['Earthquake', 'Dragon Claw', 'Stone Edge', 'Boomburst', 'Scorching Sands']",['Earth Power'],[],"['Mud Shot', 'Dragon Tail', 'Sand Attack']",Normal,Flygon
+"['Grass Knot', 'Brick Break', 'Seed Bomb', 'Payback', 'Trailblaze']",[],[],"['Poison Sting', 'Sucker Punch', 'Sand Attack']",Normal,Cacnea
+"['Dark Pulse', 'Dynamic Punch', 'Grass Knot', 'Payback', 'Trailblaze']",[],[],"['Poison Jab', 'Sucker Punch', 'Sand Attack']",Normal,Cacturne
+"['Disarming Voice', 'Aerial Ace', 'Ice Beam']",[],[],"['Peck', 'Astonish']",Normal,Swablu
+"['Sky Attack', 'Dazzling Gleam', 'Dragon Pulse']",['Moonblast'],[],"['Peck', 'Dragon Breath']",Normal,Altaria
+"['Close Combat', 'Night Slash', 'Dig']",[],[],"['Fury Cutter', 'Shadow Claw']",Normal,Zangoose
+"['Poison Fang', 'Crunch', 'Wrap']",[],[],"['Poison Jab', 'Iron Tail']",Normal,Seviper
+"['Psychic', 'Rock Slide', 'Moonblast']",[],[],"['Rock Throw', 'Confusion', 'Psywave']",Normal,Lunatone
+"['Psychic', 'Rock Slide', 'Solar Beam']",[],[],"['Rock Throw', 'Confusion', 'Psywave']",Normal,Solrock
+"['Aqua Tail', 'Ice Beam', 'Mud Bomb', 'Scald']",[],[],"['Water Gun', 'Mud Shot']",Normal,Barboach
+"['Water Pulse', 'Blizzard', 'Mud Bomb', 'Scald']",[],[],"['Water Gun', 'Mud Shot']",Normal,Whiscash
+"['Vice Grip', 'Bubble Beam', 'Aqua Jet', 'Razor Shell', 'Scald']",[],[],"['Bubble', 'Rock Smash']",Normal,Corphish
+"['Vice Grip', 'Bubble Beam', 'Night Slash', 'Crabhammer', 'Razor Shell', 'Scald']",[],[],"['Waterfall', 'Snarl']",Normal,Crawdaunt
+"['Gyro Ball', 'Psybeam', 'Dig']",[],[],"['Confusion', 'Extrasensory']",Normal,Baltoy
+"['Gyro Ball', 'Psychic', 'Earthquake', 'Earth Power', 'Ice Beam', 'Shadow Ball', 'Rock Tomb', 'Scorching Sands']",[],[],"['Extrasensory', 'Confusion', 'Mud Slap']",Normal,Claydol
+"['Grass Knot', 'Mirror Coat', 'Ancient Power']",[],[],"['Acid', 'Infestation', 'Bullet Seed']",Normal,Lileep
+"['Grass Knot', 'Bulldoze', 'Stone Edge', 'Rock Slide']",[],[],"['Acid', 'Infestation', 'Bullet Seed']",Normal,Cradily
+"['Cross Poison', 'Aqua Jet', 'Ancient Power']",[],[],"['Struggle Bug', 'Scratch']",Normal,Anorith
+"['Cross Poison', 'Water Pulse', 'Rock Blast', 'Liquidation']",[],[],"['Fury Cutter', 'Struggle Bug']",Normal,Armaldo
+['Mirror Coat'],[],[],"['Splash', 'Tackle']",Normal,Feebas
+"['Surf', 'Blizzard', 'Hyper Beam']",[],[],"['Waterfall', 'Dragon Tail']",Normal,Milotic
+"['Hurricane', 'Energy Ball', 'Weather Ball Rock', 'Weather Ball Normal']",[],[],"['Tackle', 'Hex']",Normal,Castform
+"['Hydro Pump', 'Thunder', 'Weather Ball Water']",[],[],"['Water Gun', 'Tackle']",Rainy,Castform
+"['Blizzard', 'Ice Beam', 'Weather Ball Ice']",[],[],"['Powder Snow', 'Tackle']",Snowy,Castform
+"['Fire Blast', 'Solar Beam', 'Weather Ball Fire']",[],[],"['Ember', 'Tackle']",Sunny,Castform
+"['Foul Play', 'Flamethrower', 'Thunder', 'Ice Beam', 'Aerial Ace', 'Shadow Sneak']",[],[],"['Lick', 'Sucker Punch']",Normal,Kecleon
+"['Ominous Wind', 'Night Shade', 'Shadow Sneak']",[],[],"['Feint Attack', 'Astonish']",Normal,Shuppet
+"['Shadow Ball', 'Dazzling Gleam', 'Thunder']",[],[],"['Hex', 'Shadow Claw']",Normal,Banette
+"['Ominous Wind', 'Night Shade', 'Shadow Sneak']",[],[],"['Hex', 'Astonish']",Normal,Duskull
+"['Shadow Punch', 'Ice Punch', 'Fire Punch', 'Poltergeist']",[],[],"['Hex', 'Feint Attack']",Normal,Dusclops
+"['Stomp', 'Aerial Ace', 'Leaf Blade', 'Brutal Swing']",[],[],"['Air Slash', 'Razor Leaf']",Normal,Tropius
+"['Energy Ball', 'Shadow Ball', 'Psyshock', 'Psyshock']",[],[],"['Extrasensory', 'Astonish']",Normal,Chimecho
+"['Dark Pulse', 'Thunder', 'Megahorn', 'Payback']",[],[],"['Psycho Cut', 'Snarl']",Normal,Absol
+['Mirror Coat'],[],[],"['Splash', 'Counter']",Normal,Wynaut
+"['Avalanche', 'Icy Wind', 'Shadow Ball']",[],[],"['Powder Snow', 'Hex']",Normal,Snorunt
+"['Avalanche', 'Gyro Ball', 'Shadow Ball']",[],[],"['Ice Shard', 'Frost Breath']",Normal,Glalie
+"['Aurora Beam', 'Body Slam', 'Water Pulse']",[],[],"['Water Gun', 'Rock Smash']",Normal,Spheal
+"['Aurora Beam', 'Body Slam', 'Water Pulse']",[],[],"['Water Gun', 'Powder Snow']",Normal,Sealeo
+"['Blizzard', 'Earthquake', 'Water Pulse']",['Icicle Spear'],['Powder Snow'],"['Waterfall', 'Frost Breath']",Normal,Walrein
+"['Body Slam', 'Ice Beam', 'Water Pulse']",[],[],['Water Gun'],Normal,Clamperl
+"['Crunch', 'Ice Beam', 'Aqua Tail']",[],[],"['Water Gun', 'Bite']",Normal,Huntail
+"['Draining Kiss', 'Psychic', 'Water Pulse']",[],[],"['Water Gun', 'Confusion']",Normal,Gorebyss
+"['Ancient Power', 'Aqua Tail', 'Hydro Pump']",[],[],"['Water Gun', 'Zen Headbutt']",Normal,Relicanth
+"['Draining Kiss', 'Water Pulse', 'Aqua Jet']",[],[],"['Water Gun', 'Splash']",Normal,Luvdisc
+"['Flamethrower', 'Twister', 'Crunch']",[],[],"['Bite', 'Ember']",Normal,Bagon
+"['Flamethrower', 'Dragon Pulse', 'Twister']",[],[],"['Ember', 'Dragon Breath']",Normal,Shelgon
+"['Fire Blast', 'Hydro Pump', 'Draco Meteor', 'Fly']",['Outrage'],[],"['Dragon Tail', 'Fire Fang', 'Bite']",Normal,Salamence
+['Struggle'],[],[],['Take Down'],Normal,Beldum
+"['Psychic', 'Gyro Ball', 'Psyshock']",[],[],"['Zen Headbutt', 'Metal Claw']",Normal,Metang
+"['Psychic', 'Flash Cannon', 'Earthquake']",['Meteor Mash'],[],"['Bullet Punch', 'Zen Headbutt']",Normal,Metagross
+"['Stone Edge', 'Zap Cannon', 'Focus Blast']",['Earthquake'],[],"['Rock Throw', 'Rock Smash', 'Lock On']",Normal,Regirock
+"['Blizzard', 'Earthquake', 'Focus Blast']",['Thunder'],[],"['Frost Breath', 'Rock Smash', 'Lock On']",Normal,Regice
+"['Flash Cannon', 'Hyper Beam', 'Focus Blast']",['Zap Cannon'],[],"['Metal Claw', 'Rock Smash', 'Lock On']",Normal,Registeel
+"['Psychic', 'Outrage', 'Thunder']",['Mist Ball'],[],"['Dragon Breath', 'Zen Headbutt', 'Charm']",Normal,Latias
+"['Psychic', 'Outrage', 'Thunder']",['Mist Ball'],[],"['Dragon Breath', 'Zen Headbutt', 'Charm']",S,Latias
+"['Psychic', 'Dragon Claw', 'Solar Beam']",['Luster Purge'],[],"['Dragon Breath', 'Zen Headbutt']",Normal,Latios
+"['Psychic', 'Dragon Claw', 'Solar Beam']",['Luster Purge'],[],"['Dragon Breath', 'Zen Headbutt']",S,Latios
+"['Hydro Pump', 'Blizzard', 'Thunder', 'Surf']",['Origin Pulse'],[],['Waterfall'],Normal,Kyogre
+"['Earthquake', 'Fire Blast', 'Solar Beam']","['Fire Punch', 'Precipice Blades']",[],"['Mud Shot', 'Dragon Tail']",Normal,Groudon
+"['Outrage', 'Aerial Ace', 'Ancient Power']","['Hurricane', 'Breaking Swipe']",[],"['Air Slash', 'Dragon Tail']",Normal,Rayquaza
+"['Dazzling Gleam', 'Psychic', 'Doom Desire']",[],[],"['Confusion', 'Charge Beam']",Normal,Jirachi
+"['Psycho Boost', 'Zap Cannon', 'Dark Pulse']",[],[],"['Zen Headbutt', 'Poison Jab']",Attack,Deoxys
+"['Psycho Boost', 'Thunderbolt', 'Rock Slide']",[],[],"['Zen Headbutt', 'Counter']",Defense,Deoxys
+"['Psycho Boost', 'Thunderbolt', 'Hyper Beam']",[],[],"['Zen Headbutt', 'Charge Beam']",Normal,Deoxys
+"['Psycho Boost', 'Thunderbolt', 'Swift']",[],[],"['Zen Headbutt', 'Charge Beam']",Speed,Deoxys
+"['Energy Ball', 'Seed Bomb', 'Body Slam']",[],[],"['Tackle', 'Razor Leaf']",Normal,Turtwig
+"['Energy Ball', 'Solar Beam', 'Body Slam']",[],[],"['Bite', 'Razor Leaf']",Normal,Grotle
+"['Stone Edge', 'Solar Beam', 'Earthquake', 'Sand Tomb']",['Frenzy Plant'],[],"['Bite', 'Razor Leaf']",Normal,Torterra
+"['Flame Wheel', 'Flamethrower', 'Flame Charge']",[],[],"['Ember', 'Scratch']",Normal,Chimchar
+"['Flame Wheel', 'Flamethrower', 'Low Sweep']",[],[],"['Ember', 'Rock Smash']",Normal,Monferno
+"['Solar Beam', 'Flamethrower', 'Close Combat']",['Blast Burn'],[],"['Fire Spin', 'Rock Smash']",Normal,Infernape
+"['Bubble Beam', 'Drill Peck', 'Icy Wind']",[],[],"['Bubble', 'Pound']",Normal,Piplup
+"['Bubble Beam', 'Hydro Pump', 'Icy Wind']",[],[],"['Bubble', 'Metal Claw']",Normal,Prinplup
+"['Hydro Pump', 'Blizzard', 'Flash Cannon', 'Drill Peck']",['Hydro Cannon'],[],"['Waterfall', 'Metal Claw', 'Steel Wing']",Normal,Empoleon
+"['Aerial Ace', 'Brave Bird', 'Fly']",[],[],"['Tackle', 'Quick Attack', 'Sand Attack']",Normal,Starly
+"['Aerial Ace', 'Brave Bird', 'Heat Wave', 'Fly']",[],[],"['Wing Attack', 'Quick Attack', 'Sand Attack']",Normal,Staravia
+"['Brave Bird', 'Heat Wave', 'Close Combat', 'Fly']",[],['Gust'],"['Wing Attack', 'Quick Attack', 'Sand Attack']",Normal,Staraptor
+"['Hyper Fang', 'Crunch', 'Grass Knot']","['Shadow Ball', 'Thunderbolt', 'Ice Beam', 'Super Power']",[],"['Tackle', 'Take Down']",Normal,Bidoof
+"['Hyper Fang', 'Hyper Beam', 'Surf']",[],[],"['Water Gun', 'Take Down']",Normal,Bibarel
+['Struggle'],[],[],"['Struggle Bug', 'Bug Bite']",Normal,Kricketot
+"['Bug Buzz', 'X Scissor', 'Aerial Ace']",[],[],"['Struggle Bug', 'Fury Cutter']",Normal,Kricketune
+"['Discharge', 'Thunderbolt', 'Swift']",[],[],"['Tackle', 'Spark']",Normal,Shinx
+"['Thunderbolt', 'Wild Charge', 'Crunch']",[],[],"['Spark', 'Bite']",Normal,Luxio
+"['Hyper Beam', 'Wild Charge', 'Crunch']",['Psychic Fangs'],[],"['Spark', 'Snarl', 'Hidden Power']",Normal,Luxray
+"['Energy Ball', 'Grass Knot']",[],[],"['Hidden Power', 'Razor Leaf']",Normal,Budew
+"['Solar Beam', 'Sludge Bomb', 'Dazzling Gleam', 'Grass Knot', 'Leaf Storm']",['Weather Ball Fire'],['Bullet Seed'],"['Poison Jab', 'Razor Leaf', 'Magical Leaf']",Normal,Roserade
+"['Rock Tomb', 'Ancient Power', 'Bulldoze']",[],[],"['Zen Headbutt', 'Take Down']",Normal,Cranidos
+"['Rock Slide', 'Outrage', 'Flamethrower']",[],[],"['Zen Headbutt', 'Smack Down']",Normal,Rampardos
+"['Rock Tomb', 'Ancient Power', 'Heavy Slam']",[],[],"['Tackle', 'Iron Tail']",Normal,Shieldon
+"['Stone Edge', 'Flamethrower', 'Flash Cannon']",[],[],"['Smack Down', 'Iron Tail']",Normal,Bastiodon
+['Struggle'],[],[],"['Tackle', 'Bug Bite']",Plant,Burmy
+['Struggle'],[],[],"['Tackle', 'Bug Bite']",Sandy,Burmy
+['Struggle'],[],[],"['Tackle', 'Bug Bite']",Trash,Burmy
+"['Psybeam', 'Energy Ball', 'Bug Buzz']",[],[],"['Confusion', 'Bug Bite']",Plant,Wormadam
+"['Psybeam', 'Bulldoze', 'Bug Buzz']",[],[],"['Confusion', 'Bug Bite']",Sandy,Wormadam
+"['Psybeam', 'Iron Head', 'Bug Buzz']",[],[],"['Confusion', 'Bug Bite', 'Metal Sound']",Trash,Wormadam
+"['Psybeam', 'Aerial Ace', 'Bug Buzz']",[],[],"['Air Slash', 'Bug Bite']",Normal,Mothim
+['Bug Buzz'],[],[],['Bug Bite'],Normal,Combee
+"['Bug Buzz', 'Power Gem', 'X Scissor', 'Fell Stinger', 'Signal Beam']",[],[],"['Bug Bite', 'Poison Sting', 'Fury Cutter', 'Air Slash']",Normal,Vespiquen
+"['Thunder', 'Thunderbolt', 'Thunder Punch']",[],[],"['Spark', 'Volt Switch']",Normal,Pachirisu
+"['Aqua Jet', 'Water Pulse', 'Swift']",[],[],"['Water Gun', 'Quick Attack']",Normal,Buizel
+"['Aqua Jet', 'Hydro Pump', 'Swift', 'Liquidation']",[],[],"['Water Gun', 'Waterfall']",Normal,Floatzel
+"['Dazzling Gleam', 'Petal Blizzard', 'Seed Bomb']",[],[],"['Tackle', 'Bullet Seed']",Normal,Cherubi
+"['Dazzling Gleam', 'Hyper Beam', 'Solar Beam']",[],[],"['Razor Leaf', 'Bullet Seed']",Overcast,Cherrim
+"['Dazzling Gleam', 'Hyper Beam', 'Solar Beam', 'Weather Ball Fire']",[],[],"['Razor Leaf', 'Bullet Seed']",Sunny,Cherrim
+"['Water Pulse', 'Mud Bomb', 'Body Slam']",[],[],"['Mud Slap', 'Hidden Power']",East_sea,Shellos
+"['Water Pulse', 'Mud Bomb', 'Body Slam']",[],[],"['Mud Slap', 'Hidden Power']",West_sea,Shellos
+"['Water Pulse', 'Earth Power', 'Body Slam', 'Earthquake']",[],[],"['Mud Slap', 'Hidden Power']",East_sea,Gastrodon
+"['Water Pulse', 'Earth Power', 'Body Slam', 'Earthquake']",[],[],"['Mud Slap', 'Hidden Power']",West_sea,Gastrodon
+"['Low Sweep', 'Hyper Beam', 'Aerial Ace']",[],[],"['Scratch', 'Astonish']",Normal,Ambipom
+"['Ominous Wind', 'Icy Wind', 'Shadow Ball']",[],[],"['Hex', 'Astonish']",Normal,Drifloon
+"['Ominous Wind', 'Icy Wind', 'Shadow Ball', 'Mystical Fire']",[],[],"['Hex', 'Astonish']",Normal,Drifblim
+"['Fire Punch', 'Swift']",[],[],"['Pound', 'Quick Attack']",Normal,Buneary
+"['Fire Punch', 'Hyper Beam', 'Focus Blast', 'Triple Axel']",[],[],"['Pound', 'Low Kick', 'Double Kick']",Normal,Lopunny
+"['Shadow Ball', 'Dark Pulse', 'Dazzling Gleam']",[],[],"['Sucker Punch', 'Hex', 'Magical Leaf', 'Psywave']",Normal,Mismagius
+"['Brave Bird', 'Psychic', 'Dark Pulse', 'Sky Attack']",[],[],"['Peck', 'Snarl']",Normal,Honchkrow
+"['Play Rough', 'Thunderbolt', 'Aerial Ace']",[],[],"['Scratch', 'Quick Attack']",Normal,Glameow
+"['Play Rough', 'Thunder', 'Aerial Ace']",[],[],"['Scratch', 'Shadow Claw']",Normal,Purugly
+"['Wrap', 'Shadow Ball', 'Psyshock']",[],[],"['Zen Headbutt', 'Astonish']",Normal,Chingling
+"['Crunch', 'Flamethrower', 'Sludge Bomb', 'Trailblaze']",[],[],"['Scratch', 'Bite']",Normal,Stunky
+"['Crunch', 'Flamethrower', 'Sludge Bomb', 'Trailblaze']",[],[],"['Poison Jab', 'Bite']",Normal,Skuntank
+"['Gyro Ball', 'Psyshock', 'Heavy Slam', 'Payback']",[],[],"['Tackle', 'Confusion']",Normal,Bronzor
+"['Flash Cannon', 'Psychic', 'Heavy Slam', 'Bulldoze', 'Psyshock', 'Payback']",[],[],"['Feint Attack', 'Confusion', 'Metal Sound']",Normal,Bronzong
+"['Rock Tomb', 'Earthquake', 'Rock Slide']",[],[],"['Rock Throw', 'Counter']",Normal,Bonsly
+"['Psybeam', 'Psychic', 'Psyshock']",[],[],"['Confusion', 'Pound']",Normal,Mime Jr.
+['Psychic'],[],[],"['Pound', 'Zen Headbutt']",Normal,Happiny
+"['Night Shade', 'Sky Attack', 'Heat Wave']",[],[],"['Peck', 'Steel Wing']",Normal,Chatot
+"['Shadow Sneak', 'Ominous Wind', 'Shadow Ball', 'Rock Tomb']",[],[],"['Feint Attack', 'Sucker Punch']",Normal,Spiritomb
+"['Dig', 'Twister', 'Body Slam']",[],[],"['Take Down', 'Mud Shot']",Normal,Gible
+"['Dig', 'Twister', 'Flamethrower']",[],[],"['Take Down', 'Mud Shot']",Normal,Gabite
+"['Outrage', 'Earthquake', 'Fire Blast', 'Sand Tomb']",['Earth Power'],[],"['Dragon Tail', 'Mud Shot']",Normal,Garchomp
+"['Gunk Shot', 'Body Slam', 'Bulldoze']",[],[],"['Tackle', 'Lick']",Normal,Munchlax
+"['Brick Break', 'Low Sweep', 'Cross Chop', 'Blaze Kick', 'Thunder Punch']",[],[],"['Counter', 'Quick Attack']",Normal,Riolu
+"['Flash Cannon', 'Shadow Ball', 'Close Combat', 'Power Up Punch', 'Aura Sphere', 'Blaze Kick', 'Thunder Punch']",[],['Force Palm'],"['Counter', 'Bullet Punch']",Normal,Lucario
+"['Dig', 'Rock Tomb', 'Body Slam']",[],[],"['Tackle', 'Bite', 'Sand Attack']",Normal,Hippopotas
+"['Earthquake', 'Stone Edge', 'Body Slam', 'Earth Power', 'Weather Ball Rock', 'Scorching Sands']",[],[],"['Fire Fang', 'Bite', 'Thunder Fang', 'Ice Fang', 'Sand Attack']",Normal,Hippowdon
+"['Cross Poison', 'Aqua Tail', 'Sludge Bomb']",[],[],"['Poison Sting', 'Infestation']",Normal,Skorupi
+"['Crunch', 'Aqua Tail', 'Sludge Bomb', 'Fell Stinger']",[],[],"['Poison Sting', 'Infestation', 'Bite', 'Ice Fang']",Normal,Drapion
+"['Brick Break', 'Low Sweep', 'Sludge Bomb']",[],[],"['Poison Sting', 'Poison Jab', 'Mud Shot']",Normal,Croagunk
+"['Dynamic Punch', 'Mud Bomb', 'Sludge Bomb', 'Shadow Ball']",[],[],"['Poison Jab', 'Counter', 'Mud Shot']",Normal,Toxicroak
+"['Power Whip', 'Energy Ball', 'Crunch']",[],[],"['Bite', 'Vine Whip']",Normal,Carnivine
+"['Water Pulse', 'Ice Beam', 'Silver Wind']",[],[],"['Pound', 'Water Gun']",Normal,Finneon
+"['Water Pulse', 'Blizzard', 'Silver Wind']",[],[],"['Waterfall', 'Water Gun']",Normal,Lumineon
+"['Water Pulse', 'Ice Beam', 'Aerial Ace']",[],[],"['Bubble', 'Tackle']",Normal,Mantyke
+"['Ice Beam', 'Energy Ball', 'Stomp']",[],[],"['Powder Snow', 'Ice Shard', 'Leafage']",Normal,Snover
+"['Blizzard', 'Energy Ball', 'Outrage', 'Weather Ball Ice', 'Icy Wind']",[],[],"['Powder Snow', 'Razor Leaf', 'Leafage']",Normal,Abomasnow
+"['Avalanche', 'Focus Blast', 'Foul Play', 'Triple Axel']",[],[],"['Ice Shard', 'Feint Attack', 'Snarl']",Normal,Weavile
+"['Zap Cannon', 'Wild Charge', 'Flash Cannon', 'Mirror Shot']",[],[],"['Spark', 'Charge Beam', 'Volt Switch', 'Metal Sound']",Normal,Magnezone
+"['Hyper Beam', 'Earthquake', 'Solar Beam', 'Shadow Ball']",['Body Slam'],[],"['Lick', 'Zen Headbutt', 'Rollout']",Normal,Lickilicky
+"['Surf', 'Earthquake', 'Stone Edge', 'Skull Bash', 'Super Power', 'Breaking Swipe']",['Rock Wrecker'],[],"['Mud Slap', 'Smack Down']",Normal,Rhyperior
+"['Ancient Power', 'Sludge Bomb', 'Solar Beam', 'Power Whip', 'Rock Slide']",[],[],"['Vine Whip', 'Infestation']",Normal,Tangrowth
+"['Thunder Punch', 'Wild Charge', 'Thunder', 'Ice Punch']",['Flamethrower'],[],"['Thunder Shock', 'Low Kick']",Normal,Electivire
+"['Brick Break', 'Fire Punch', 'Fire Blast', 'Psychic', 'Scorching Sands']",['Thunderbolt'],[],"['Fire Spin', 'Karate Chop']",Normal,Magmortar
+"['Ancient Power', 'Dazzling Gleam', 'Aerial Ace', 'Flamethrower']",['Aura Sphere'],[],"['Air Slash', 'Hidden Power', 'Charm']",Normal,Togekiss
+"['Ancient Power', 'Aerial Ace', 'Bug Buzz']",[],[],"['Bug Bite', 'Wing Attack']",Normal,Yanmega
+"['Solar Beam', 'Leaf Blade', 'Energy Ball']",['Last Resort'],['Bullet Seed'],"['Razor Leaf', 'Quick Attack']",Normal,Leafeon
+"['Avalanche', 'Icy Wind', 'Ice Beam']","['Last Resort', 'Water Pulse']",[],"['Ice Shard', 'Frost Breath']",Normal,Glaceon
+"['Earthquake', 'Aerial Ace', 'Night Slash', 'Sand Tomb']",[],[],"['Fury Cutter', 'Wing Attack']",Normal,Gliscor
+"['Avalanche', 'Bulldoze', 'Stone Edge', 'High Horsepower']",['Ancient Power'],[],"['Mud Slap', 'Powder Snow']",Normal,Mamoswine
+"['Solar Beam', 'Hyper Beam', 'Zap Cannon', 'Blizzard']",['Tri Attack'],[],"['Hidden Power', 'Charge Beam', 'Lock On']",Normal,Porygon-Z
+"['Close Combat', 'Psychic', 'Leaf Blade']",['Synchronoise'],[],"['Confusion', 'Low Kick', 'Charm', 'Psycho Cut']",Normal,Gallade
+"['Magnet Bomb', 'Rock Slide', 'Thunderbolt', 'Zap Cannon']",[],[],"['Rock Throw', 'Spark']",Normal,Probopass
+"['Ominous Wind', 'Psychic', 'Dark Pulse', 'Poltergeist', 'Shadow Punch']",['Shadow Ball'],[],"['Hex', 'Astonish']",Normal,Dusknoir
+"['Avalanche', 'Crunch', 'Shadow Ball', 'Triple Axel']",[],[],"['Powder Snow', 'Hex']",Normal,Froslass
+"['Ominous Wind', 'Thunderbolt', 'Thunder']",[],[],"['Astonish', 'Air Slash']",Fan,Rotom
+"['Blizzard', 'Thunderbolt', 'Thunder']",[],[],"['Astonish', 'Thunder Shock']",Frost,Rotom
+"['Overheat', 'Thunderbolt', 'Thunder']",[],[],"['Astonish', 'Thunder Shock']",Heat,Rotom
+"['Ominous Wind', 'Thunderbolt', 'Thunder']",[],[],"['Astonish', 'Thunder Shock']",Mow,Rotom
+"['Ominous Wind', 'Thunderbolt', 'Thunder']",[],[],"['Astonish', 'Thunder Shock']",Normal,Rotom
+"['Hydro Pump', 'Thunderbolt', 'Thunder']",[],[],"['Astonish', 'Thunder Shock']",Wash,Rotom
+"['Futuresight', 'Swift', 'Thunder']",[],[],"['Confusion', 'Extrasensory']",Normal,Uxie
+"['Futuresight', 'Swift', 'Blizzard']",[],[],"['Confusion', 'Extrasensory']",Normal,Mesprit
+"['Futuresight', 'Swift', 'Fire Blast']",[],[],"['Confusion', 'Extrasensory']",Normal,Azelf
+"['Draco Meteor', 'Iron Head', 'Thunder']",[],[],"['Dragon Breath', 'Metal Claw']",Normal,Dialga
+"['Draco Meteor', 'Iron Head', 'Thunder']",[],[],"['Dragon Breath', 'Metal Claw']",Origin,Dialga
+"['Draco Meteor', 'Fire Blast', 'Hydro Pump', 'Aqua Tail']",[],[],"['Dragon Breath', 'Dragon Tail']",Normal,Palkia
+"['Draco Meteor', 'Fire Blast', 'Hydro Pump', 'Aqua Tail']",[],[],"['Dragon Breath', 'Dragon Tail']",Origin,Palkia
+"['Fire Blast', 'Iron Head', 'Stone Edge', 'Flamethrower', 'Earth Power']",['Magma Storm'],[],"['Fire Spin', 'Bug Bite']",Normal,Heatran
+"['Giga Impact', 'Focus Blast', 'Thunder']",[],[],"['Zen Headbutt', 'Hidden Power']",Normal,Regigigas
+"['Dragon Claw', 'Ancient Power', 'Shadow Sneak']",['Shadow Force'],[],"['Dragon Breath', 'Shadow Claw']",Altered,Giratina
+"['Dragon Pulse', 'Ominous Wind', 'Shadow Ball']",['Shadow Force'],[],"['Dragon Tail', 'Shadow Claw']",Origin,Giratina
+"['Aurora Beam', 'Moonblast', 'Futuresight']",['Grass Knot'],[],"['Psycho Cut', 'Confusion']",Normal,Cresselia
+"['Bubble Beam', 'Water Pulse', 'Surf']",[],[],"['Waterfall', 'Bubble']",Normal,Phione
+"['Bubble Beam', 'Psychic', 'Surf']",[],[],"['Waterfall', 'Bubble']",Normal,Manaphy
+"['Focus Blast', 'Shadow Ball', 'Dark Pulse']",['Sludge Bomb'],[],"['Snarl', 'Feint Attack']",Normal,Darkrai
+"['Energy Ball', 'Grass Knot', 'Solar Beam', 'Seed Flare']",[],[],"['Hidden Power', 'Zen Headbutt']",Land,Shaymin
+"['Energy Ball', 'Grass Knot', 'Solar Beam', 'Seed Flare']",[],[],"['Hidden Power', 'Zen Headbutt', 'Magical Leaf']",Sky,Shaymin
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Bug,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Dark,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Dragon,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Electric,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Fairy,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Fighting,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Fire,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Flying,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Ghost,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Grass,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Ground,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Ice,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Normal,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Poison,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Psychic,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Rock,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Steel,Arceus
+"['Futuresight', 'Hyper Beam', 'Outrage']",[],[],"['Iron Tail', 'Shadow Claw']",Water,Arceus
+"['Overheat', 'Focus Blast', 'Psychic', 'V Create']",[],[],"['Confusion', 'Quick Attack']",Normal,Victini
+"['Energy Ball', 'Seed Bomb', 'Wrap']",[],[],"['Tackle', 'Vine Whip']",Normal,Snivy
+"['Grass Knot', 'Leaf Tornado', 'Wrap']",[],[],"['Iron Tail', 'Vine Whip']",Normal,Servine
+"['Grass Knot', 'Leaf Tornado', 'Aerial Ace']",['Frenzy Plant'],[],"['Iron Tail', 'Vine Whip']",Normal,Serperior
+"['Flame Charge', 'Flamethrower', 'Body Slam']",[],[],"['Tackle', 'Ember']",Normal,Tepig
+"['Flame Charge', 'Flamethrower', 'Rock Tomb']",[],[],"['Tackle', 'Ember']",Normal,Pignite
+"['Heat Wave', 'Rock Slide', 'Focus Blast', 'Flame Charge']",['Blast Burn'],[],"['Low Kick', 'Ember']",Normal,Emboar
+"['Aqua Tail', 'Water Pulse', 'Night Slash']",[],[],"['Tackle', 'Water Gun']",Normal,Oshawott
+"['Aqua Tail', 'Water Pulse', 'X Scissor']",[],[],"['Fury Cutter', 'Water Gun']",Normal,Dewott
+"['Razor Shell', 'Icy Wind', 'X Scissor', 'Dark Pulse']",[],[],"['Waterfall', 'Fury Cutter', 'Snarl']",Hisuian,Samurott
+"['Hydro Pump', 'Blizzard', 'Megahorn', 'Razor Shell', 'Liquidation']",['Hydro Cannon'],[],"['Fury Cutter', 'Waterfall']",Normal,Samurott
+"['Dig', 'Hyper Fang', 'Grass Knot']",[],[],"['Tackle', 'Bite']",Normal,Patrat
+"['Crunch', 'Hyper Fang', 'Grass Knot']",[],[],"['Low Kick', 'Bite']",Normal,Watchog
+"['Thunderbolt', 'Rock Tomb', 'Dig']",[],[],"['Tackle', 'Take Down', 'Sand Attack']",Normal,Lillipup
+"['Thunderbolt', 'Play Rough', 'Dig']",[],[],"['Lick', 'Take Down', 'Sand Attack']",Normal,Herdier
+"['Wild Charge', 'Play Rough', 'Crunch']",[],[],"['Lick', 'Take Down', 'Ice Fang', 'Sand Attack']",Normal,Stoutland
+"['Night Slash', 'Play Rough', 'Dark Pulse']",[],[],"['Scratch', 'Sucker Punch']",Normal,Purrloin
+"['Gunk Shot', 'Play Rough', 'Dark Pulse', 'Payback']",[],[],"['Charm', 'Snarl']",Normal,Liepard
+"['Energy Ball', 'Seed Bomb', 'Crunch']",[],[],"['Scratch', 'Vine Whip']",Normal,Pansage
+"['Solar Beam', 'Grass Knot', 'Crunch']",[],[],"['Bite', 'Vine Whip']",Normal,Simisage
+"['Flame Burst', 'Flame Charge', 'Crunch']",[],[],"['Scratch', 'Fire Spin']",Normal,Pansear
+"['Flamethrower', 'Fire Blast', 'Crunch']",[],[],"['Bite', 'Fire Spin']",Normal,Simisear
+"['Surf', 'Water Pulse', 'Crunch']",[],[],"['Scratch', 'Water Gun']",Normal,Panpour
+"['Surf', 'Hydro Pump', 'Crunch']",[],[],"['Bite', 'Water Gun']",Normal,Simipour
+"['Psybeam', 'Dazzling Gleam', 'Psyshock']",[],[],"['Zen Headbutt', 'Charge Beam']",Normal,Munna
+"['Futuresight', 'Dazzling Gleam', 'Psyshock']",[],[],"['Zen Headbutt', 'Charge Beam']",Normal,Musharna
+"['Heat Wave', 'Aerial Ace', 'Air Cutter']",[],[],"['Quick Attack', 'Air Slash']",Normal,Pidove
+"['Heat Wave', 'Aerial Ace', 'Sky Attack']",[],[],"['Air Slash', 'Steel Wing']",Normal,Tranquill
+"['Heat Wave', 'Hyper Beam', 'Sky Attack']",[],[],"['Air Slash', 'Steel Wing']",Normal,Unfezant
+"['Flame Charge', 'Discharge', 'Thunderbolt']",[],[],"['Quick Attack', 'Spark']",Normal,Blitzle
+"['Flame Charge', 'Discharge', 'Wild Charge']",[],[],"['Low Kick', 'Spark']",Normal,Zebstrika
+"['Bulldoze', 'Rock Blast', 'Stone Edge']",[],[],"['Tackle', 'Smack Down']",Normal,Roggenrola
+"['Rock Slide', 'Bulldoze', 'Stone Edge']",[],[],"['Mud Slap', 'Smack Down']",Normal,Boldore
+"['Rock Slide', 'Solar Beam', 'Super Power', 'Heavy Slam']",['Meteor Beam'],[],"['Mud Slap', 'Smack Down']",Normal,Gigalith
+"['Air Cutter', 'Aerial Ace', 'Psyshock']",[],[],"['Confusion', 'Air Slash']",Normal,Woobat
+"['Psychic', 'Aerial Ace', 'Futuresight', 'Psychic Fangs', 'Fly']",[],[],"['Confusion', 'Air Slash']",Normal,Swoobat
+"['Rock Tomb', 'Dig', 'Drill Run']",[],[],"['Scratch', 'Mud Slap']",Normal,Drilbur
+"['Rock Slide', 'Earthquake', 'Drill Run', 'Iron Head', 'Scorching Sands']",[],[],"['Metal Claw', 'Mud Slap', 'Mud Shot']",Normal,Excadrill
+"['Disarming Voice', 'Dazzling Gleam', 'Hyper Beam']",[],[],"['Pound', 'Zen Headbutt']",Normal,Audino
+"['Low Sweep', 'Brick Break', 'Rock Tomb']",[],[],"['Low Kick', 'Pound']",Normal,Timburr
+"['Low Sweep', 'Brick Break', 'Stone Edge']",[],[],"['Low Kick', 'Poison Jab']",Normal,Gurdurr
+"['Dynamic Punch', 'Focus Blast', 'Stone Edge']",['Brutal Swing'],[],"['Counter', 'Poison Jab']",Normal,Conkeldurr
+"['Water Pulse', 'Mud Bomb', 'Sludge Wave']",[],[],"['Mud Shot', 'Bubble']",Normal,Tympole
+"['Water Pulse', 'Earth Power', 'Sludge Wave']",[],[],"['Mud Shot', 'Bubble']",Normal,Palpitoad
+"['Muddy Water', 'Earth Power', 'Sludge Bomb']",[],[],"['Mud Shot', 'Bubble']",Normal,Seismitoad
+"['Focus Blast', 'Low Sweep', 'Body Slam', 'Brick Break']",[],[],"['Low Kick', 'Zen Headbutt']",Normal,Throh
+"['Focus Blast', 'Low Sweep', 'Body Slam', 'Brick Break']",[],[],"['Low Kick', 'Poison Jab']",Normal,Sawk
+"['Energy Ball', 'Seed Bomb', 'Silver Wind']",[],[],"['Struggle Bug', 'Bug Bite']",Normal,Sewaddle
+"['Energy Ball', 'Bug Buzz', 'Silver Wind']",[],[],"['Struggle Bug', 'Bug Bite']",Normal,Swadloon
+"['Leaf Blade', 'X Scissor', 'Silver Wind', 'Leaf Storm']",[],[],"['Razor Leaf', 'Bug Bite']",Normal,Leavanny
+"['Signal Beam', 'Sludge Bomb', 'Gyro Ball']",[],[],"['Bug Bite', 'Poison Sting']",Normal,Venipede
+"['Signal Beam', 'Sludge Bomb', 'Gyro Ball']",[],[],"['Bug Bite', 'Poison Sting']",Normal,Whirlipede
+"['Megahorn', 'Sludge Bomb', 'Gyro Ball', 'X Scissor']",[],[],"['Bug Bite', 'Poison Jab']",Normal,Scolipede
+"['Energy Ball', 'Seed Bomb', 'Grass Knot']",[],[],"['Charm', 'Razor Leaf']",Normal,Cottonee
+"['Grass Knot', 'Hurricane', 'Moonblast', 'Seed Bomb']",[],[],"['Charm', 'Razor Leaf', 'Fairy Wind']",Normal,Whimsicott
+"['Energy Ball', 'Seed Bomb']",[],[],"['Charm', 'Hidden Power']",Normal,Petilil
+"['Petal Blizzard', 'Hyper Beam', 'Solar Beam']",[],[],"['Charm', 'Hidden Power', 'Magical Leaf']",Normal,Lilligant
+"['Aqua Jet', 'Aqua Tail', 'Muddy Water']",[],[],"['Tackle', 'Water Gun']",Blue_striped,Basculin
+"['Aqua Jet', 'Aqua Tail', 'Muddy Water']",[],[],"['Tackle', 'Water Gun']",Red_striped,Basculin
+"['Aqua Jet', 'Aqua Tail', 'Muddy Water']",[],[],"['Tackle', 'Water Gun']",White_striped,Basculin
+"['Dig', 'Crunch', 'Bulldoze']",[],[],"['Bite', 'Mud Slap']",Normal,Sandile
+"['Earthquake', 'Crunch', 'Bulldoze']",[],[],"['Bite', 'Mud Slap']",Normal,Krokorok
+"['Earthquake', 'Crunch', 'Outrage', 'Brick Break']",[],[],"['Snarl', 'Mud Slap']",Normal,Krookodile
+"['Ice Punch', 'Ice Beam']",[],[],"['Tackle', 'Ice Fang']",Galarian,Darumaka
+"['Fire Punch', 'Flame Charge']",[],[],"['Tackle', 'Fire Fang']",Normal,Darumaka
+"['Overheat', 'Avalanche', 'Super Power', 'Ice Punch']",[],[],"['Tackle', 'Ice Fang']",Galarian_standard,Darmanitan
+"['Overheat', 'Avalanche', 'Super Power', 'Ice Punch']",[],[],"['Tackle', 'Ice Fang']",Galarian_zen,Darmanitan
+"['Overheat', 'Focus Blast', 'Psychic', 'Rock Slide']",[],[],"['Tackle', 'Fire Fang', 'Incinerate']",Standard,Darmanitan
+"['Overheat', 'Focus Blast', 'Psychic', 'Rock Slide']",[],[],"['Tackle', 'Fire Fang', 'Incinerate']",Zen,Darmanitan
+"['Aerial Ace', 'Petal Blizzard', 'Solar Beam']",[],[],"['Bullet Seed', 'Poison Jab']",Normal,Maractus
+"['Rock Blast', 'X Scissor', 'Rock Tomb']",[],[],"['Cut', 'Smack Down']",Normal,Dwebble
+"['Rock Blast', 'X Scissor', 'Rock Slide']",[],[],"['Fury Cutter', 'Smack Down']",Normal,Crustle
+"['Acid Spray', 'Brick Break', 'Foul Play', 'Thunder Punch']",[],[],"['Rock Smash', 'Feint Attack']",Normal,Scraggy
+"['Acid Spray', 'Power Up Punch', 'Foul Play', 'Thunder Punch']",[],[],"['Counter', 'Snarl']",Normal,Scrafty
+"['Air Cutter', 'Psybeam', 'Ancient Power', 'Signal Beam']",[],[],"['Air Slash', 'Zen Headbutt']",Normal,Sigilyph
+"['Night Shade', 'Rock Tomb']",[],[],['Astonish'],Galarian,Yamask
+"['Shadow Ball', 'Dark Pulse', 'Ominous Wind']",[],[],"['Astonish', 'Zen Headbutt']",Normal,Yamask
+"['Shadow Ball', 'Dark Pulse', 'Psychic']",[],[],"['Astonish', 'Zen Headbutt', 'Shadow Claw']",Normal,Cofagrigus
+"['Surf', 'Ancient Power', 'Body Slam']",[],[],"['Water Gun', 'Bite']",Normal,Tirtouga
+"['Surf', 'Ancient Power', 'Body Slam', 'Liquidation']",[],[],"['Water Gun', 'Rock Throw']",Normal,Carracosta
+"['Dragon Claw', 'Ancient Power', 'Crunch']",[],[],"['Quick Attack', 'Wing Attack']",Normal,Archen
+"['Dragon Claw', 'Ancient Power', 'Crunch']",[],[],"['Steel Wing', 'Wing Attack']",Normal,Archeops
+"['Gunk Shot', 'Seed Bomb', 'Gunk Shot']",[],[],"['Pound', 'Take Down']",Normal,Trubbish
+"['Acid Spray', 'Seed Bomb', 'Gunk Shot', 'Body Slam']",[],[],"['Infestation', 'Take Down']",Normal,Garbodor
+"['Foul Play', 'Aerial Ace', 'Dark Pulse', 'Night Shade']",[],[],"['Scratch', 'Feint Attack']",Normal,Zorua
+"['Foul Play', 'Sludge Bomb', 'Flamethrower', 'Night Shade']",[],[],"['Shadow Claw', 'Snarl']",Normal,Zoroark
+"['Swift', 'Thunderbolt', 'Aqua Tail']",[],[],"['Pound', 'Charm']",Normal,Minccino
+"['Hyper Beam', 'Thunderbolt', 'Aqua Tail']",[],[],"['Pound', 'Charm']",Normal,Cinccino
+"['Psybeam', 'Psyshock', 'Psychic']",[],[],"['Pound', 'Confusion']",Normal,Gothita
+"['Psybeam', 'Futuresight', 'Psychic']",[],[],"['Pound', 'Confusion']",Normal,Gothorita
+"['Rock Slide', 'Futuresight', 'Psychic']",[],[],"['Charm', 'Confusion']",Normal,Gothitelle
+"['Psyshock', 'Night Shade', 'Thunder']",[],[],"['Hidden Power', 'Zen Headbutt']",Normal,Solosis
+"['Psyshock', 'Night Shade', 'Thunder']",[],[],"['Hidden Power', 'Zen Headbutt']",Normal,Duosion
+"['Futuresight', 'Shadow Ball', 'Thunder']",[],[],"['Hidden Power', 'Zen Headbutt']",Normal,Reuniclus
+"['Aerial Ace', 'Bubble Beam', 'Brave Bird']",[],[],"['Water Gun', 'Wing Attack']",Normal,Ducklett
+"['Ice Beam', 'Bubble Beam', 'Hurricane', 'Fly']",[],[],"['Water Gun', 'Air Slash']",Normal,Swanna
+"['Icy Wind', 'Ice Beam', 'Signal Beam']",[],[],"['Powder Snow', 'Astonish']",Normal,Vanillite
+"['Icy Wind', 'Ice Beam', 'Signal Beam']",[],[],"['Frost Breath', 'Astonish']",Normal,Vanillish
+"['Blizzard', 'Flash Cannon', 'Signal Beam']",[],[],"['Frost Breath', 'Astonish']",Normal,Vanilluxe
+"['Energy Ball', 'Seed Bomb', 'Wild Charge', 'Trailblaze']",[],[],"['Tackle', 'Take Down']",Autumn,Deerling
+"['Energy Ball', 'Seed Bomb', 'Wild Charge', 'Trailblaze']",[],[],"['Tackle', 'Take Down']",Spring,Deerling
+"['Energy Ball', 'Seed Bomb', 'Wild Charge', 'Trailblaze']",[],[],"['Tackle', 'Take Down']",Summer,Deerling
+"['Energy Ball', 'Seed Bomb', 'Wild Charge', 'Trailblaze']",[],[],"['Tackle', 'Take Down']",Winter,Deerling
+"['Megahorn', 'Solar Beam', 'Wild Charge', 'Hyper Beam', 'Trailblaze']",[],[],"['Feint Attack', 'Take Down']",Autumn,Sawsbuck
+"['Megahorn', 'Solar Beam', 'Wild Charge', 'Hyper Beam', 'Trailblaze']",[],[],"['Feint Attack', 'Take Down']",Spring,Sawsbuck
+"['Megahorn', 'Solar Beam', 'Wild Charge', 'Hyper Beam', 'Trailblaze']",[],[],"['Feint Attack', 'Take Down']",Summer,Sawsbuck
+"['Megahorn', 'Solar Beam', 'Wild Charge', 'Hyper Beam', 'Trailblaze']",[],[],"['Feint Attack', 'Take Down']",Winter,Sawsbuck
+"['Discharge', 'Aerial Ace', 'Thunderbolt', 'Acrobatics']",[],[],"['Thunder Shock', 'Quick Attack']",Normal,Emolga
+"['Signal Beam', 'X Scissor', 'Drill Run', 'Aerial Ace']",[],[],"['Peck', 'Fury Cutter']",Normal,Karrablast
+"['Megahorn', 'Acid Spray', 'Drill Run', 'Aerial Ace']",[],[],"['Counter', 'Bug Bite']",Normal,Escavalier
+"['Energy Ball', 'Body Slam', 'Grass Knot']",[],[],"['Astonish', 'Feint Attack']",Normal,Foongus
+"['Foul Play', 'Sludge Bomb', 'Grass Knot']",[],[],"['Astonish', 'Feint Attack']",Normal,Amoonguss
+"['Night Shade', 'Ice Beam', 'Ominous Wind']",[],[],"['Bubble', 'Hex']",Female,Frillish
+"['Night Shade', 'Ice Beam', 'Ominous Wind']",[],[],"['Bubble', 'Hex']",Normal,Frillish
+"['Shadow Ball', 'Ice Beam', 'Bubble Beam', 'Surf']",[],[],"['Bubble', 'Hex']",Female,Jellicent
+"['Shadow Ball', 'Ice Beam', 'Bubble Beam', 'Surf']",[],[],"['Bubble', 'Hex']",Normal,Jellicent
+"['Hydro Pump', 'Blizzard', 'Psychic']",[],[],"['Waterfall', 'Hidden Power']",Normal,Alomomola
+"['Cross Poison', 'Bug Buzz', 'Discharge']",[],[],"['Charge Beam', 'Sucker Punch']",Normal,Joltik
+"['Cross Poison', 'Bug Buzz', 'Discharge', 'Energy Ball', 'Lunge']",[],[],"['Volt Switch', 'Fury Cutter']",Normal,Galvantula
+"['Gyro Ball', 'Flash Cannon', 'Iron Head']",[],[],"['Tackle', 'Metal Claw']",Normal,Ferroseed
+"['Power Whip', 'Flash Cannon', 'Acid Spray', 'Thunder', 'Mirror Shot']",[],[],"['Bullet Seed', 'Metal Claw']",Normal,Ferrothorn
+"['Vice Grip', 'Discharge', 'Zap Cannon']",[],[],"['Volt Switch', 'Charge Beam', 'Metal Sound']",Normal,Klink
+"['Vice Grip', 'Thunderbolt', 'Zap Cannon']",[],[],"['Thunder Shock', 'Charge Beam', 'Metal Sound']",Normal,Klang
+"['Hyper Beam', 'Flash Cannon', 'Zap Cannon', 'Mirror Shot']",[],[],"['Thunder Shock', 'Charge Beam', 'Metal Sound']",Normal,Klinklang
+['Struggle'],[],[],"['Tackle', 'Spark']",Normal,Tynamo
+"['Crunch', 'Thunderbolt', 'Discharge']",[],[],"['Acid', 'Spark']",Normal,Eelektrik
+"['Crunch', 'Thunderbolt', 'Acid Spray', 'Dragon Claw', 'Liquidation']",[],['Volt Switch'],"['Acid', 'Spark']",Normal,Eelektross
+"['Psybeam', 'Dark Pulse', 'Psychic']",[],[],"['Confusion', 'Astonish']",Normal,Elgyem
+"['Rock Slide', 'Dark Pulse', 'Psychic']",[],[],"['Confusion', 'Astonish']",Normal,Beheeyem
+"['Flame Charge', 'Flame Burst', 'Heat Wave', 'Mystical Fire']",[],[],"['Astonish', 'Ember']",Normal,Litwick
+"['Energy Ball', 'Flame Burst', 'Heat Wave']",[],[],"['Astonish', 'Ember']",Normal,Lampent
+"['Energy Ball', 'Shadow Ball', 'Overheat', 'Flame Charge']",['Poltergeist'],[],"['Hex', 'Fire Spin', 'Incinerate']",Normal,Chandelure
+"['Dragon Claw', 'Aqua Tail', 'Dragon Pulse']",[],[],"['Scratch', 'Iron Tail']",Normal,Axew
+"['Dragon Claw', 'Aqua Tail', 'Night Slash']",[],[],"['Dragon Tail', 'Iron Tail']",Normal,Fraxure
+"['Dragon Claw', 'Surf', 'Night Slash', 'Earthquake']",['Breaking Swipe'],[],"['Dragon Tail', 'Counter']",Normal,Haxorus
+"['Ice Punch', 'Icy Wind', 'Play Rough']",[],[],"['Powder Snow', 'Charm']",Normal,Cubchoo
+"['Ice Punch', 'Icy Wind', 'Play Rough']",[],[],"['Powder Snow', 'Charm']",Winter_2020,Cubchoo
+"['Ice Punch', 'Surf', 'Play Rough', 'Liquidation']",[],[],"['Powder Snow', 'Charm']",Normal,Beartic
+"['Ice Punch', 'Surf', 'Play Rough', 'Liquidation']",[],[],"['Powder Snow', 'Charm']",Winter_2020,Beartic
+"['Aurora Beam', 'Night Slash', 'Solar Beam', 'Water Pulse', 'Triple Axel']",[],[],"['Ice Shard', 'Frost Breath']",Normal,Cryogonal
+"['Bug Buzz', 'Body Slam', 'Signal Beam']",[],[],"['Acid', 'Infestation']",Normal,Shelmet
+"['Bug Buzz', 'Acid Spray', 'Signal Beam', 'Focus Blast']",[],[],"['Acid', 'Infestation', 'Water Shuriken']",Normal,Accelgor
+"['Earthquake', 'Flash Cannon', 'Muddy Water', 'Rock Slide']",[],[],"['Mud Shot', 'Metal Claw']",Galarian,Stunfisk
+"['Mud Bomb', 'Discharge', 'Muddy Water']",[],[],"['Thunder Shock', 'Mud Shot']",Normal,Stunfisk
+"['Brick Break', 'Low Sweep', 'Focus Blast']",['High Jump Kick'],[],"['Low Kick', 'Pound']",Normal,Mienfoo
+"['Brick Break', 'Grass Knot', 'Stone Edge', 'Blaze Kick', 'Brutal Swing']",[],[],"['Low Kick', 'Poison Jab', 'Force Palm']",Normal,Mienshao
+"['Dragon Claw', 'Night Slash', 'Hyper Beam']",[],[],"['Dragon Tail', 'Bite']",Normal,Druddigon
+"['Shadow Punch', 'Brick Break', 'Night Shade']",[],[],"['Astonish', 'Mud Slap']",Normal,Golett
+"['Shadow Punch', 'Dynamic Punch', 'Earth Power', 'Poltergeist']",[],[],"['Astonish', 'Mud Slap']",Normal,Golurk
+"['Night Slash', 'Iron Head', 'X Scissor']",[],[],"['Scratch', 'Fury Cutter']",Normal,Pawniard
+"['Dark Pulse', 'Iron Head', 'X Scissor', 'Focus Blast']",[],[],"['Snarl', 'Metal Claw']",Normal,Bisharp
+"['Megahorn', 'Stomp', 'Skull Bash', 'Earthquake']",[],[],"['Zen Headbutt', 'Mud Shot']",Normal,Bouffalant
+"['Aerial Ace', 'Brave Bird', 'Rock Tomb', 'Fly']",[],[],"['Peck', 'Wing Attack']",Normal,Rufflet
+"['Dazzling Gleam', 'Brave Bird', 'Psychic', 'Ominous Wind', 'Fly']",[],[],"['Air Slash', 'Zen Headbutt']",Hisuian,Braviary
+"['Heat Wave', 'Brave Bird', 'Rock Slide', 'Close Combat', 'Fly']",[],[],"['Steel Wing', 'Air Slash']",Normal,Braviary
+"['Dark Pulse', 'Brave Bird', 'Foul Play']",[],[],"['Feint Attack', 'Air Slash']",Normal,Vullaby
+"['Dark Pulse', 'Aerial Ace', 'Foul Play', 'Shadow Ball']",[],[],"['Snarl', 'Air Slash']",Normal,Mandibuzz
+"['Flamethrower', 'Thunder Punch', 'Power Up Punch']",[],[],"['Lick', 'Fire Spin']",Normal,Heatmor
+"['X Scissor', 'Iron Head', 'Stone Edge']",[],[],"['Bug Bite', 'Metal Claw']",Normal,Durant
+"['Dragon Pulse', 'Crunch', 'Body Slam']",[],[],"['Tackle', 'Dragon Breath']",Normal,Deino
+"['Dragon Pulse', 'Dark Pulse', 'Body Slam']",[],[],"['Bite', 'Dragon Breath']",Normal,Zweilous
+"['Dragon Pulse', 'Dark Pulse', 'Flash Cannon']",['Brutal Swing'],[],"['Bite', 'Dragon Breath']",Normal,Hydreigon
+"['Flame Charge', 'Bug Buzz', 'Flame Wheel']",[],[],"['Ember', 'Bug Bite']",Normal,Larvesta
+"['Overheat', 'Bug Buzz', 'Solar Beam', 'Hurricane']",[],[],"['Fire Spin', 'Bug Bite']",Normal,Volcarona
+"['Close Combat', 'Iron Head', 'Stone Edge']",['Sacred Sword'],[],"['Metal Claw', 'Zen Headbutt', 'Double Kick']",Normal,Cobalion
+"['Close Combat', 'Earthquake', 'Rock Slide']",['Sacred Sword'],[],"['Smack Down', 'Zen Headbutt', 'Double Kick']",Normal,Terrakion
+"['Close Combat', 'Leaf Blade', 'Stone Edge']",['Sacred Sword'],[],"['Quick Attack', 'Zen Headbutt', 'Double Kick']",Normal,Virizion
+"['Grass Knot', 'Dark Pulse', 'Hyper Beam', 'Hurricane']",[],[],"['Bite', 'Air Slash']",Incarnate,Tornadus
+"['Heat Wave', 'Psychic', 'Focus Blast', 'Hurricane']",['Bleakwind Storm'],[],"['Astonish', 'Gust']",Therian,Tornadus
+"['Crunch', 'Thunder', 'Brick Break', 'Thunder Punch']",[],[],"['Astonish', 'Thunder Shock']",Incarnate,Thundurus
+"['Sludge Wave', 'Thunder', 'Focus Blast', 'Thunderbolt']",['Wildbolt Storm'],[],"['Bite', 'Volt Switch']",Therian,Thundurus
+"['Crunch', 'Overheat', 'Draco Meteor', 'Stone Edge']",['Fusion Flare'],[],"['Dragon Breath', 'Fire Fang']",Normal,Reshiram
+"['Outrage', 'Wild Charge', 'Flash Cannon', 'Crunch']",['Fusion Bolt'],[],"['Dragon Breath', 'Charge Beam']",Normal,Zekrom
+"['Earth Power', 'Outrage', 'Rock Slide', 'Focus Blast']",[],[],"['Mud Shot', 'Rock Throw']",Incarnate,Landorus
+"['Earthquake', 'Bulldoze', 'Stone Edge', 'Super Power']",['Sandsear Storm'],[],"['Mud Shot', 'Extrasensory']",Therian,Landorus
+"['Iron Head', 'Blizzard', 'Stone Edge', 'Outrage']",[],[],"['Dragon Tail', 'Shadow Claw']",Black,Kyurem
+"['Dragon Claw', 'Blizzard', 'Draco Meteor']",['Glaciate'],[],"['Dragon Breath', 'Steel Wing']",Normal,Kyurem
+"['Dragon Pulse', 'Blizzard', 'Ancient Power', 'Focus Blast']",[],[],"['Dragon Breath', 'Steel Wing']",White,Kyurem
+"['Aqua Jet', 'Close Combat', 'Hydro Pump', 'X Scissor', 'Sacred Sword']",[],[],"['Poison Jab', 'Low Kick']",Ordinary,Keldeo
+"['Aqua Jet', 'Close Combat', 'Hydro Pump', 'X Scissor', 'Sacred Sword']",[],[],"['Poison Jab', 'Low Kick']",Resolute,Keldeo
+"['Psyshock', 'Thunderbolt', 'Dazzling Gleam', 'Hyper Beam']",[],[],"['Quick Attack', 'Confusion']",Aria,Meloetta
+"['Close Combat', 'Fire Punch', 'Ice Punch', 'Hyper Beam']",[],[],"['Quick Attack', 'Low Kick']",Pirouette,Meloetta
+"['X Scissor', 'Magnet Bomb', 'Flamethrower']",['Techno Blast Burn'],[],"['Metal Claw', 'Fury Cutter']",Burn,Genesect
+"['X Scissor', 'Magnet Bomb', 'Ice Beam']",['Techno Blast Chill'],[],"['Metal Claw', 'Fury Cutter']",Chill,Genesect
+"['X Scissor', 'Magnet Bomb', 'Gunk Shot']",['Techno Blast Water'],[],"['Metal Claw', 'Fury Cutter']",Douse,Genesect
+"['X Scissor', 'Magnet Bomb', 'Hyper Beam']",['Techno Blast Normal'],[],"['Metal Claw', 'Fury Cutter']",Normal,Genesect
+"['X Scissor', 'Magnet Bomb', 'Zap Cannon']",['Techno Blast Shock'],[],"['Metal Claw', 'Fury Cutter']",Shock,Genesect
+"['Gyro Ball', 'Seed Bomb', 'Body Slam']",[],[],"['Take Down', 'Vine Whip']",Normal,Chespin
+"['Gyro Ball', 'Energy Ball', 'Body Slam']",[],[],"['Low Kick', 'Vine Whip']",Normal,Quilladin
+"['Gyro Ball', 'Energy Ball', 'Super Power', 'Solar Beam', 'Thunder Punch']",['Frenzy Plant'],[],"['Low Kick', 'Vine Whip', 'Smack Down']",Normal,Chesnaught
+"['Psyshock', 'Flamethrower', 'Flame Charge']",[],[],"['Scratch', 'Ember']",Normal,Fennekin
+"['Psyshock', 'Flamethrower', 'Flame Charge']",[],[],"['Scratch', 'Ember']",Normal,Braixen
+"['Psychic', 'Flamethrower', 'Flame Charge', 'Fire Blast', 'Mystical Fire']",['Blast Burn'],[],"['Scratch', 'Fire Spin', 'Zen Headbutt']",Normal,Delphox
+"['Water Pulse', 'Aerial Ace', 'Surf']",[],[],"['Pound', 'Bubble']",Normal,Froakie
+"['Water Pulse', 'Aerial Ace', 'Surf']",[],[],"['Pound', 'Bubble']",Normal,Frogadier
+"['Night Slash', 'Aerial Ace', 'Surf', 'Hydro Pump']",['Hydro Cannon'],[],"['Feint Attack', 'Bubble', 'Water Shuriken']",Normal,Greninja
+"['Dig', 'Bulldoze', 'Earthquake']",[],[],"['Mud Slap', 'Quick Attack']",Normal,Bunnelby
+"['Dig', 'Hyper Beam', 'Earthquake', 'Fire Punch', 'Scorching Sands']",[],[],"['Mud Shot', 'Quick Attack']",Normal,Diggersby
+"['Aerial Ace', 'Heat Wave', 'Swift', 'Fly']",[],[],"['Peck', 'Quick Attack']",Normal,Fletchling
+"['Aerial Ace', 'Heat Wave', 'Flame Charge', 'Fly']",[],[],"['Peck', 'Ember', 'Steel Wing']",Normal,Fletchinder
+"['Brave Bird', 'Fire Blast', 'Flame Charge', 'Hurricane', 'Fly']",[],['Incinerate'],"['Peck', 'Fire Spin', 'Steel Wing']",Normal,Talonflame
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Archipelago,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Continental,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Elegant,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Fancy,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Garden,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",High_plains,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Icy_snow,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Jungle,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Marine,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Meadow,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Modern,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Monsoon,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Ocean,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Pokeball,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Polar,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",River,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Sandstorm,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Savanna,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Sun,Scatterbug
+['Struggle'],[],[],"['Bug Bite', 'Tackle']",Tundra,Scatterbug
+['Struggle'],[],[],['Struggle Bug'],Archipelago,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Continental,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Elegant,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Fancy,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Garden,Spewpa
+['Struggle'],[],[],['Struggle Bug'],High_plains,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Icy_snow,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Jungle,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Marine,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Meadow,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Modern,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Monsoon,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Ocean,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Pokeball,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Polar,Spewpa
+['Struggle'],[],[],['Struggle Bug'],River,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Sandstorm,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Savanna,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Sun,Spewpa
+['Struggle'],[],[],['Struggle Bug'],Tundra,Spewpa
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Archipelago,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Continental,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Elegant,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Fancy,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Garden,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",High_plains,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Icy_snow,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Jungle,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Marine,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Meadow,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Modern,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Monsoon,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Ocean,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Pokeball,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Polar,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",River,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Sandstorm,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Savanna,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Sun,Vivillon
+"['Bug Buzz', 'Aerial Ace', 'Energy Ball', 'Hurricane']",[],[],"['Gust', 'Struggle Bug']",Tundra,Vivillon
+"['Flame Charge', 'Flamethrower', 'Crunch']",[],[],"['Fire Fang', 'Tackle', 'Ember', 'Incinerate']",Normal,Litleo
+"['Flame Charge', 'Solar Beam', 'Dark Pulse', 'Overheat']",[],[],"['Fire Fang', 'Take Down', 'Ember', 'Incinerate']",Female,Pyroar
+"['Flame Charge', 'Solar Beam', 'Dark Pulse', 'Overheat']",[],[],"['Fire Fang', 'Take Down', 'Ember', 'Incinerate']",Normal,Pyroar
+"['Dazzling Gleam', 'Petal Blizzard', 'Psychic']",[],[],"['Vine Whip', 'Tackle']",Blue,Flabebe
+"['Dazzling Gleam', 'Petal Blizzard', 'Psychic']",[],[],"['Vine Whip', 'Tackle']",Orange,Flabebe
+"['Dazzling Gleam', 'Petal Blizzard', 'Psychic']",[],[],"['Vine Whip', 'Tackle']",Red,Flabebe
+"['Dazzling Gleam', 'Petal Blizzard', 'Psychic']",[],[],"['Vine Whip', 'Tackle']",White,Flabebe
+"['Dazzling Gleam', 'Petal Blizzard', 'Psychic']",[],[],"['Vine Whip', 'Tackle']",Yellow,Flabebe
+"['Dazzling Gleam', 'Petal Blizzard', 'Psychic']",[],[],"['Vine Whip', 'Tackle']",Blue,Floette
+"['Dazzling Gleam', 'Petal Blizzard', 'Psychic']",[],[],"['Vine Whip', 'Tackle']",Orange,Floette
+"['Dazzling Gleam', 'Petal Blizzard', 'Psychic']",[],[],"['Vine Whip', 'Tackle']",Red,Floette
+"['Dazzling Gleam', 'Petal Blizzard', 'Psychic']",[],[],"['Vine Whip', 'Tackle']",White,Floette
+"['Dazzling Gleam', 'Petal Blizzard', 'Psychic']",[],[],"['Vine Whip', 'Tackle']",Yellow,Floette
+"['Moonblast', 'Petal Blizzard', 'Psychic', 'Disarming Voice']",[],[],"['Vine Whip', 'Tackle', 'Razor Leaf', 'Fairy Wind']",Blue,Florges
+"['Moonblast', 'Petal Blizzard', 'Psychic', 'Disarming Voice']",[],[],"['Vine Whip', 'Tackle', 'Razor Leaf', 'Fairy Wind']",Orange,Florges
+"['Moonblast', 'Petal Blizzard', 'Psychic', 'Disarming Voice']",[],[],"['Vine Whip', 'Tackle', 'Razor Leaf', 'Fairy Wind']",Red,Florges
+"['Moonblast', 'Petal Blizzard', 'Psychic', 'Disarming Voice']",[],[],"['Vine Whip', 'Tackle', 'Razor Leaf', 'Fairy Wind']",White,Florges
+"['Moonblast', 'Petal Blizzard', 'Psychic', 'Disarming Voice']",[],[],"['Vine Whip', 'Tackle', 'Razor Leaf', 'Fairy Wind']",Yellow,Florges
+"['Brick Break', 'Seed Bomb']",[],[],"['Zen Headbutt', 'Rock Smash']",Normal,Skiddo
+"['Brick Break', 'Leaf Blade', 'Seed Bomb']",[],[],"['Zen Headbutt', 'Rock Smash', 'Vine Whip']",Normal,Gogoat
+"['Low Sweep', 'Crunch', 'Body Slam']",[],[],"['Low Kick', 'Tackle']",Normal,Pancham
+"['Close Combat', 'Night Slash', 'Iron Head', 'Rock Slide']",[],[],"['Low Kick', 'Snarl', 'Bullet Punch', 'Karate Chop']",Normal,Pangoro
+"['Surf', 'Dark Pulse', 'Grass Knot']",[],[],"['Take Down', 'Bite', 'Sucker Punch', 'Sand Attack']",Dandy,Furfrou
+"['Surf', 'Dark Pulse', 'Grass Knot']",[],[],"['Take Down', 'Bite', 'Sucker Punch', 'Sand Attack']",Debutante,Furfrou
+"['Surf', 'Dark Pulse', 'Grass Knot']",[],[],"['Take Down', 'Bite', 'Sucker Punch', 'Sand Attack']",Diamond,Furfrou
+"['Surf', 'Dark Pulse', 'Grass Knot']",[],[],"['Take Down', 'Bite', 'Sucker Punch', 'Sand Attack']",Heart,Furfrou
+"['Surf', 'Dark Pulse', 'Grass Knot']",[],[],"['Take Down', 'Bite', 'Sucker Punch', 'Sand Attack']",Kabuki,Furfrou
+"['Surf', 'Dark Pulse', 'Grass Knot']",[],[],"['Take Down', 'Bite', 'Sucker Punch', 'Sand Attack']",La_reine,Furfrou
+"['Surf', 'Dark Pulse', 'Grass Knot']",[],[],"['Take Down', 'Bite', 'Sucker Punch', 'Sand Attack']",Matron,Furfrou
+"['Surf', 'Dark Pulse', 'Grass Knot']",[],[],"['Take Down', 'Bite', 'Sucker Punch', 'Sand Attack']",Natural,Furfrou
+"['Surf', 'Dark Pulse', 'Grass Knot']",[],[],"['Take Down', 'Bite', 'Sucker Punch', 'Sand Attack']",Pharaoh,Furfrou
+"['Surf', 'Dark Pulse', 'Grass Knot']",[],[],"['Take Down', 'Bite', 'Sucker Punch', 'Sand Attack']",Star,Furfrou
+"['Psyshock', 'Energy Ball', 'Psychic']",[],[],"['Confusion', 'Scratch']",Normal,Espurr
+"['Psychic', 'Energy Ball', 'Shadow Ball']",[],[],"['Confusion', 'Charm', 'Magical Leaf']",Female,Meowstic
+"['Psychic', 'Energy Ball', 'Thunderbolt']",[],[],"['Confusion', 'Sucker Punch']",Normal,Meowstic
+"['Iron Head', 'Gyro Ball']",[],[],"['Tackle', 'Fury Cutter']",Normal,Honedge
+"['Iron Head', 'Gyro Ball']",[],[],"['Psycho Cut', 'Fury Cutter']",Normal,Doublade
+"['Flash Cannon', 'Gyro Ball', 'Shadow Ball']",[],[],"['Psycho Cut', 'Fury Cutter']",Normal,Aegislash
+"['Draining Kiss', 'Thunderbolt']",[],[],"['Charm', 'Charge Beam']",Normal,Spritzee
+"['Moonblast', 'Thunderbolt', 'Psychic', 'Draining Kiss']",[],[],"['Charm', 'Charge Beam']",Normal,Aromatisse
+"['Draining Kiss', 'Energy Ball']",[],[],['Tackle'],Normal,Swirlix
+"['Play Rough', 'Energy Ball', 'Flamethrower', 'Draining Kiss']",[],[],"['Tackle', 'Charm', 'Fairy Wind']",Normal,Slurpuff
+"['Psybeam', 'Night Slash']",[],[],"['Peck', 'Tackle', 'Psywave']",Normal,Inkay
+"['Psybeam', 'Foul Play', 'Super Power', 'Hyper Beam']",[],[],"['Peck', 'Psycho Cut', 'Psywave']",Normal,Malamar
+"['Ancient Power', 'Cross Chop', 'Dig']",[],[],"['Scratch', 'Mud Slap']",Normal,Binacle
+"['Skull Bash', 'Cross Chop', 'Stone Edge', 'Grass Knot', 'Razor Shell']",[],[],"['Water Gun', 'Mud Slap', 'Fury Cutter']",Normal,Barbaracle
+"['Aqua Tail', 'Water Pulse', 'Twister', 'Sludge Bomb']",[],[],"['Water Gun', 'Acid']",Normal,Skrelp
+"['Hydro Pump', 'Aqua Tail', 'Outrage', 'Gunk Shot']",[],[],"['Water Gun', 'Acid', 'Dragon Tail']",Normal,Dragalge
+"['Water Pulse', 'Crabhammer', 'Aqua Jet']",[],[],"['Water Gun', 'Smack Down']",Normal,Clauncher
+"['Water Pulse', 'Dark Pulse', 'Ice Beam', 'Crabhammer']",[],[],"['Water Gun', 'Smack Down']",Normal,Clawitzer
+"['Parabolic Charge', 'Bulldoze', 'Thunderbolt']",[],[],"['Quick Attack', 'Thunder Shock']",Normal,Helioptile
+"['Parabolic Charge', 'Bulldoze', 'Thunderbolt', 'Grass Knot', 'Breaking Swipe']",[],[],"['Quick Attack', 'Volt Switch', 'Mud Slap']",Normal,Heliolisk
+"['Stomp', 'Ancient Power', 'Dragon Claw']",[],[],"['Dragon Tail', 'Tackle']",Normal,Tyrunt
+"['Crunch', 'Stone Edge', 'Outrage', 'Earthquake', 'Meteor Beam']",[],[],"['Dragon Tail', 'Charm', 'Rock Throw']",Normal,Tyrantrum
+"['Weather Ball Ice', 'Ancient Power', 'Aurora Beam', 'Thunderbolt']",[],[],"['Powder Snow', 'Frost Breath']",Normal,Amaura
+"['Weather Ball Ice', 'Ancient Power', 'Blizzard', 'Thunderbolt', 'Hyper Beam', 'Meteor Beam']",[],[],"['Powder Snow', 'Frost Breath', 'Rock Throw']",Normal,Aurorus
+"['Moonblast', 'Dazzling Gleam', 'Draining Kiss']","['Last Resort', 'Psyshock']",[],"['Charm', 'Quick Attack']",Normal,Sylveon
+"['Flying Press', 'Aerial Ace', 'X Scissor', 'Power Up Punch']",[],[],"['Low Kick', 'Poison Jab']",Normal,Hawlucha
+"['Discharge', 'Play Rough', 'Parabolic Charge']",[],[],"['Tackle', 'Thunder Shock']",Normal,Dedenne
+"['Rock Slide', 'Moonblast', 'Power Gem']",[],[],"['Tackle', 'Rock Throw']",Normal,Carbink
+"['Dragon Pulse', 'Sludge Wave', 'Muddy Water']",[],[],"['Water Gun', 'Tackle']",Normal,Goomy
+"['Dragon Pulse', 'Sludge Wave', 'Muddy Water', 'Water Pulse']",[],[],"['Water Gun', 'Tackle']",Normal,Sliggoo
+"['Draco Meteor', 'Sludge Wave', 'Muddy Water', 'Power Whip', 'Aqua Tail']",['Thunder Punch'],[],"['Water Gun', 'Dragon Breath']",Normal,Goodra
+"['Flash Cannon', 'Play Rough', 'Draining Kiss', 'Foul Play']",[],[],"['Astonish', 'Tackle']",Normal,Klefki
+"['Seed Bomb', 'Shadow Ball', 'Foul Play']",[],[],"['Astonish', 'Tackle']",Normal,Phantump
+"['Seed Bomb', 'Shadow Ball', 'Foul Play']",[],[],"['Shadow Claw', 'Sucker Punch']",Normal,Trevenant
+"['Grass Knot', 'Shadow Sneak', 'Foul Play']",[],[],"['Astonish', 'Razor Leaf']",Average,Pumpkaboo
+"['Grass Knot', 'Shadow Sneak', 'Foul Play']",[],[],"['Astonish', 'Razor Leaf']",Large,Pumpkaboo
+"['Grass Knot', 'Shadow Sneak', 'Foul Play']",[],[],"['Astonish', 'Razor Leaf']",Small,Pumpkaboo
+"['Grass Knot', 'Shadow Sneak', 'Foul Play']",[],[],"['Astonish', 'Razor Leaf']",Super,Pumpkaboo
+"['Seed Bomb', 'Shadow Ball', 'Foul Play', 'Fire Blast', 'Poltergeist']",[],[],"['Hex', 'Razor Leaf']",Average,Gourgeist
+"['Seed Bomb', 'Shadow Ball', 'Foul Play', 'Fire Blast', 'Poltergeist']",[],[],"['Hex', 'Razor Leaf']",Large,Gourgeist
+"['Seed Bomb', 'Shadow Ball', 'Foul Play', 'Fire Blast', 'Poltergeist']",[],[],"['Hex', 'Razor Leaf']",Small,Gourgeist
+"['Seed Bomb', 'Shadow Ball', 'Foul Play', 'Fire Blast', 'Poltergeist']",[],[],"['Hex', 'Razor Leaf']",Super,Gourgeist
+"['Crunch', 'Icy Wind', 'Mirror Coat']",[],[],"['Bite', 'Tackle']",Normal,Bergmite
+"['Crunch', 'Rock Slide', 'Blizzard', 'Icy Wind']",[],[],"['Bite', 'Tackle', 'Powder Snow']",Hisuian,Avalugg
+"['Crunch', 'Avalanche', 'Earthquake', 'Body Slam', 'Mirror Coat', 'Icy Wind']",[],[],"['Bite', 'Ice Fang']",Normal,Avalugg
+"['Dragon Pulse', 'Air Cutter', 'Heat Wave']",[],[],"['Wing Attack', 'Bite']",Normal,Noibat
+"['Draco Meteor', 'Hurricane', 'Heat Wave', 'Psychic']",['Boomburst'],[],"['Air Slash', 'Bite']",Normal,Noivern
+"['Moonblast', 'Megahorn', 'Close Combat', 'Giga Impact', 'Thunder']",[],['Geomancy'],"['Tackle', 'Zen Headbutt']",Normal,Xerneas
+"['Dark Pulse', 'Hurricane', 'Focus Blast', 'Hyper Beam', 'Psychic']",['Oblivion Wing'],[],"['Sucker Punch', 'Snarl', 'Gust']",Normal,Yveltal
+"['Outrage', 'Earthquake', 'Crunch', 'Hyper Beam', 'Bulldoze']",[],[],"['Dragon Tail', 'Bite', 'Zen Headbutt']",Complete,Zygarde
+"['Outrage', 'Earthquake', 'Crunch', 'Hyper Beam', 'Bulldoze']",[],[],"['Dragon Tail', 'Bite', 'Zen Headbutt']",Complete_fifty_percent,Zygarde
+"['Outrage', 'Earthquake', 'Crunch', 'Hyper Beam', 'Bulldoze']",[],[],"['Dragon Tail', 'Bite', 'Zen Headbutt']",Complete_ten_percent,Zygarde
+"['Outrage', 'Earthquake', 'Crunch', 'Hyper Beam', 'Bulldoze']",[],[],"['Dragon Tail', 'Bite', 'Zen Headbutt']",Fifty_percent,Zygarde
+"['Outrage', 'Earthquake', 'Crunch', 'Hyper Beam', 'Bulldoze']",[],[],"['Dragon Tail', 'Bite', 'Zen Headbutt']",Ten_percent,Zygarde
+"['Rock Slide', 'Moonblast', 'Power Gem']",[],[],"['Tackle', 'Rock Throw']",Normal,Diancie
+"['Shadow Ball', 'Psybeam', 'Psychic']",[],[],"['Confusion', 'Astonish']",Confined,Hoopa
+"['Shadow Ball', 'Dark Pulse', 'Psychic']",[],[],"['Confusion', 'Astonish']",Unbound,Hoopa
+"['Hydro Pump', 'Overheat', 'Earth Power', 'Sludge Bomb']",[],[],"['Incinerate', 'Water Gun', 'Take Down']",Normal,Volcanion
+"['Seed Bomb', 'Energy Ball']",[],[],"['Tackle', 'Razor Leaf', 'Leafage', 'Magical Leaf']",Normal,Rowlet
+"['Seed Bomb', 'Energy Ball', 'Brave Bird']",[],[],"['Peck', 'Razor Leaf', 'Leafage', 'Magical Leaf']",Normal,Dartrix
+"['Trailblaze', 'Energy Ball', 'Aura Sphere', 'Aerial Ace', 'Night Shade']",[],[],"['Magical Leaf', 'Psycho Cut']",Hisuian,Decidueye
+"['Shadow Sneak', 'Energy Ball', 'Brave Bird', 'Spirit Shackle']",['Frenzy Plant'],[],"['Astonish', 'Razor Leaf', 'Leafage', 'Magical Leaf']",Normal,Decidueye
+"['Flamethrower', 'Flame Charge', 'Crunch']",[],[],"['Scratch', 'Ember']",Normal,Litten
+"['Flamethrower', 'Flame Charge', 'Crunch']",[],[],"['Bite', 'Ember']",Normal,Torracat
+"['Fire Blast', 'Flame Charge', 'Dark Pulse', 'Blaze Kick', 'Darkest Lariat']",['Blast Burn'],[],"['Snarl', 'Fire Fang', 'Double Kick']",Normal,Incineroar
+"['Aqua Jet', 'Water Pulse', 'Aqua Tail']",[],[],"['Pound', 'Water Gun']",Normal,Popplio
+"['Aqua Jet', 'Water Pulse', 'Disarming Voice']",[],[],"['Charm', 'Water Gun']",Normal,Brionne
+"['Psychic', 'Hydro Pump', 'Moonblast', 'Disarming Voice', 'Sparkling Aria']",['Hydro Cannon'],[],"['Charm', 'Waterfall']",Normal,Primarina
+"['Drill Peck', 'Aerial Ace', 'Sky Attack']",[],[],"['Peck', 'Rock Smash']",Normal,Pikipek
+"['Drill Peck', 'Rock Blast', 'Sky Attack']",[],[],"['Peck', 'Rock Smash']",Normal,Trumbeak
+"['Drill Peck', 'Rock Blast', 'Flash Cannon']",[],[],"['Peck', 'Rock Smash', 'Bullet Seed']",Normal,Toucannon
+"['Hyper Fang', 'Crunch', 'Rock Tomb']",[],[],"['Tackle', 'Bite']",Normal,Yungoos
+"['Hyper Fang', 'Crunch', 'Rock Tomb']",[],[],"['Take Down', 'Bite']",Normal,Gumshoos
+"['X Scissor', 'Vice Grip', 'Crunch']",[],[],"['Bug Bite', 'Spark']",Normal,Grubbin
+"['X Scissor', 'Discharge', 'Crunch']",[],['Volt Switch'],"['Bug Bite', 'Spark']",Normal,Charjabug
+"['X Scissor', 'Discharge', 'Crunch', 'Fly']",[],['Volt Switch'],"['Bug Bite', 'Spark', 'Mud Slap']",Normal,Vikavolt
+"['Power Up Punch', 'Crabhammer', 'Payback', 'Brick Break']",[],[],"['Rock Smash', 'Bubble']",Normal,Crabrawler
+"['Power Up Punch', 'Crabhammer', 'Payback', 'Ice Punch', 'Brick Break']",[],[],"['Rock Smash', 'Bubble']",Normal,Crabominable
+"['Aerial Ace', 'Air Cutter', 'Hurricane']",[],[],"['Pound', 'Air Slash']",Baile,Oricorio
+"['Aerial Ace', 'Air Cutter', 'Hurricane']",[],[],"['Pound', 'Air Slash']",Pau,Oricorio
+"['Aerial Ace', 'Air Cutter', 'Hurricane']",[],[],"['Pound', 'Air Slash']",Pompom,Oricorio
+"['Aerial Ace', 'Air Cutter', 'Hurricane']",[],[],"['Pound', 'Air Slash']",Sensu,Oricorio
+"['Dazzling Gleam', 'Bug Buzz']",[],[],"['Fairy Wind', 'Struggle Bug']",Normal,Cutiefly
+"['Dazzling Gleam', 'Bug Buzz', 'Draining Kiss']",[],[],"['Fairy Wind', 'Struggle Bug']",Normal,Ribombee
+"['Stone Edge', 'Rock Tomb', 'Crunch', 'Trailblaze']",[],[],"['Tackle', 'Rock Throw']",Dusk,Rockruff
+"['Stone Edge', 'Rock Tomb', 'Crunch', 'Trailblaze']",[],[],"['Tackle', 'Rock Throw']",Normal,Rockruff
+"['Stone Edge', 'Iron Head', 'Crunch', 'Trailblaze']",[],[],"['Sucker Punch', 'Counter', 'Rock Throw']",Dusk,Lycanroc
+"['Stone Edge', 'Drill Run', 'Crunch', 'Trailblaze']",[],[],"['Sucker Punch', 'Rock Throw']",Midday,Lycanroc
+"['Stone Edge', 'Psychic Fangs', 'Crunch', 'Trailblaze']",[],[],"['Counter', 'Rock Throw']",Midnight,Lycanroc
+"['Brine', 'Surf', 'Aqua Tail']",[],[],"['Water Gun', 'Waterfall', 'Iron Tail']",School,Wishiwashi
+"['Brine', 'Surf', 'Aqua Tail']",[],[],"['Water Gun', 'Waterfall', 'Iron Tail']",Solo,Wishiwashi
+"['Brine', 'Gunk Shot', 'Sludge Wave']",[],[],"['Poison Sting', 'Bite']",Normal,Mareanie
+"['Brine', 'Gunk Shot', 'Sludge Wave']",[],[],"['Poison Jab', 'Bite']",Normal,Toxapex
+"['Bulldoze', 'Body Slam', 'Earthquake']",[],[],"['Mud Slap', 'Rock Smash']",Normal,Mudbray
+"['Bulldoze', 'Body Slam', 'Earthquake', 'Heavy Slam']",[],[],"['Mud Slap', 'Rock Smash']",Normal,Mudsdale
+"['Water Pulse', 'Bubble Beam', 'Mirror Coat']",[],[],"['Infestation', 'Bug Bite']",Normal,Dewpider
+"['Bug Buzz', 'Bubble Beam', 'Mirror Coat', 'Water Pulse']",[],[],"['Infestation', 'Bug Bite']",Normal,Araquanid
+"['Leaf Blade', 'Energy Ball', 'Grass Knot', 'Trailblaze']",[],[],"['Razor Leaf', 'Fury Cutter', 'Leafage']",Normal,Fomantis
+"['Leaf Blade', 'Leaf Storm', 'Super Power', 'X Scissor', 'Trailblaze']",[],[],"['Razor Leaf', 'Fury Cutter', 'Leafage']",Normal,Lurantis
+"['Dazzling Gleam', 'Seed Bomb']",[],[],['Astonish'],Normal,Morelull
+"['Moonblast', 'Seed Bomb', 'Sludge Bomb']",[],[],['Astonish'],Normal,Shiinotic
+"['Poison Fang', 'Flamethrower', 'Dragon Pulse']",[],[],"['Ember', 'Poison Jab']",Normal,Salandit
+"['Poison Fang', 'Fire Blast', 'Dragon Pulse', 'Sludge Wave']",[],[],"['Incinerate', 'Poison Jab']",Normal,Salazzle
+"['Super Power', 'Brick Break', 'Stomp']",[],[],"['Tackle', 'Take Down']",Normal,Stufful
+"['Super Power', 'Payback', 'Stomp']",['Drain Punch'],[],"['Tackle', 'Low Kick', 'Shadow Claw']",Normal,Bewear
+"['Energy Ball', 'Draining Kiss']",[],[],"['Razor Leaf', 'Charm']",Normal,Bounsweet
+"['Energy Ball', 'Draining Kiss', 'Grass Knot', 'Triple Axel']",[],[],"['Razor Leaf', 'Charm']",Normal,Steenee
+"['Energy Ball', 'Draining Kiss', 'Grass Knot', 'Stomp', 'Triple Axel']",['High Jump Kick'],[],"['Razor Leaf', 'Charm', 'Magical Leaf']",Normal,Tsareena
+"['Petal Blizzard', 'Grass Knot', 'Draining Kiss']",[],[],"['Vine Whip', 'Hidden Power']",Normal,Comfey
+"['Psychic', 'Foul Play', 'Futuresight', 'Trailblaze', 'Brutal Swing']",[],[],"['Confusion', 'Zen Headbutt', 'Yawn']",Normal,Oranguru
+"['Brick Break', 'Close Combat', 'Super Power', 'Brutal Swing']",[],[],"['Counter', 'Rock Smash', 'Take Down']",Normal,Passimian
+['Bug Buzz'],[],[],['Struggle Bug'],Normal,Wimpod
+"['X Scissor', 'Aqua Jet', 'Aerial Ace', 'Liquidation', 'Razor Shell']",[],[],"['Fury Cutter', 'Metal Claw', 'Waterfall', 'Shadow Claw']",Normal,Golisopod
+"['Sand Tomb', 'Shadow Ball', 'Earth Power', 'Scorching Sands']",[],[],"['Astonish', 'Mud Shot', 'Sand Attack']",Normal,Sandygast
+"['Sand Tomb', 'Shadow Ball', 'Earth Power', 'Scorching Sands']",[],[],"['Astonish', 'Mud Shot', 'Sand Attack']",Normal,Palossand
+['Mirror Coat'],[],[],['Counter'],Normal,Pyukumuku
+"['Tri Attack', 'Iron Head', 'Aerial Ace']",[],[],"['Tackle', 'Take Down']",Normal,Type: Null
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Bug,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Dark,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Dragon,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Electric,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Fairy,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Fighting,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Fire,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Flying,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Ghost,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Grass,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Ground,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Ice,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Normal,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Poison,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Psychic,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Rock,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Steel,Silvally
+"['Tri Attack', 'Iron Head', 'Aerial Ace', 'X Scissor']",[],[],"['Tackle', 'Take Down', 'Bite']",Water,Silvally
+"['Power Gem', 'Ancient Power', 'Acrobatics']",[],[],"['Rollout', 'Take Down']",Blue,Minior
+"['Power Gem', 'Ancient Power', 'Acrobatics']",[],[],"['Rollout', 'Take Down']",Green,Minior
+"['Power Gem', 'Ancient Power', 'Acrobatics']",[],[],"['Rollout', 'Take Down']",Indigo,Minior
+"['Power Gem', 'Ancient Power', 'Acrobatics']",[],[],"['Rollout', 'Take Down']",Orange,Minior
+"['Power Gem', 'Ancient Power', 'Acrobatics']",[],[],"['Rollout', 'Take Down']",Red,Minior
+"['Power Gem', 'Ancient Power', 'Acrobatics']",[],[],"['Rollout', 'Take Down']",Violet,Minior
+"['Power Gem', 'Ancient Power', 'Acrobatics']",[],[],"['Rollout', 'Take Down']",Yellow,Minior
+"['Play Rough', 'Bulldoze', 'Payback']",[],[],"['Rollout', 'Yawn']",Normal,Komala
+"['Overheat', 'Flamethrower', 'Dragon Pulse', 'Flash Cannon']",[],[],"['Ember', 'Fire Spin', 'Incinerate']",Normal,Turtonator
+"['Fell Stinger', 'Wild Charge', 'Gyro Ball']",[],[],"['Thunder Shock', 'Spark']",Normal,Togedemaru
+"['Shadow Sneak', 'Play Rough', 'Shadow Ball']",[],[],"['Shadow Claw', 'Charm']",Busted,Mimikyu
+"['Shadow Sneak', 'Play Rough', 'Shadow Ball']",[],[],"['Shadow Claw', 'Charm']",Disguised,Mimikyu
+"['Psychic Fangs', 'Aqua Tail', 'Crunch']",[],[],"['Water Gun', 'Confusion', 'Bite']",Normal,Bruxish
+"['Outrage', 'Dragon Pulse', 'Fly']",[],[],"['Dragon Breath', 'Extrasensory']",Normal,Drampa
+"['Power Whip', 'Shadow Ball', 'Heavy Slam']",[],[],"['Astonish', 'Shadow Claw']",Normal,Dhelmise
+"['Dragon Claw', 'Brick Break', 'Dragon Pulse']",[],[],"['Tackle', 'Dragon Tail']",Normal,Jangmo-o
+"['Dragon Claw', 'Brick Break', 'Dragon Pulse']",[],[],"['Tackle', 'Dragon Tail']",Normal,Hakamo-o
+"['Dragon Claw', 'Close Combat', 'Flamethrower', 'Boomburst', 'Brick Break']",[],[],"['Poison Jab', 'Dragon Tail']",Normal,Kommo-o
+"['Thunderbolt', 'Dazzling Gleam', 'Brave Bird', 'Thunder']",['Natures Madness'],[],"['Volt Switch', 'Quick Attack']",Normal,Tapu Koko
+"['Psyshock', 'Moonblast', 'Focus Blast', 'Futuresight', 'Draining Kiss']",['Natures Madness'],[],"['Confusion', 'Astonish']",Normal,Tapu Lele
+"['Grass Knot', 'Dazzling Gleam', 'Megahorn', 'Solar Beam']",['Natures Madness'],[],"['Bullet Seed', 'Rock Smash']",Normal,Tapu Bulu
+"['Surf', 'Moonblast', 'Ice Beam', 'Hydro Pump']",['Natures Madness'],[],"['Water Gun', 'Hidden Power']",Normal,Tapu Fini
+['Struggle'],[],[],['Splash'],Normal,Cosmog
+['Struggle'],[],[],['Splash'],Normal,Cosmoem
+"['Iron Head', 'Psychic Fangs', 'Solar Beam', 'Flamethrower']",[],[],"['Zen Headbutt', 'Fire Spin']",Normal,Solgaleo
+"['Shadow Ball', 'Psychic', 'Moonblast', 'Futuresight']",[],[],"['Confusion', 'Air Slash']",Normal,Lunala
+"['Power Gem', 'Gunk Shot', 'Sludge Bomb', 'Rock Slide']",[],[],"['Acid', 'Pound', 'Poison Jab']",Normal,Nihilego
+"['Power Up Punch', 'Fell Stinger', 'Lunge', 'Super Power']",[],[],"['Counter', 'Poison Jab']",Normal,Buzzwole
+"['Focus Blast', 'Bug Buzz', 'Lunge', 'Close Combat']",[],[],"['Bug Bite', 'Low Kick']",Normal,Pheromosa
+"['Discharge', 'Thunder', 'Power Whip', 'Dazzling Gleam']",[],[],"['Thunder Shock', 'Spark']",Normal,Xurkitree
+"['Iron Head', 'Body Slam', 'Heavy Slam', 'Bulldoze']",[],[],"['Air Slash', 'Smack Down']",Normal,Celesteela
+"['Leaf Blade', 'X Scissor', 'Night Slash', 'Aerial Ace']",[],[],"['Air Slash', 'Razor Leaf']",Normal,Kartana
+"['Brutal Swing', 'Dragon Claw', 'Crunch', 'Sludge Bomb']",[],[],"['Snarl', 'Dragon Tail']",Normal,Guzzlord
+"['Dark Pulse', 'Futuresight', 'Iron Head', 'Outrage']",[],[],"['Metal Claw', 'Psycho Cut', 'Shadow Claw']",Dawn_wings,Necrozma
+"['Dark Pulse', 'Futuresight', 'Iron Head', 'Outrage']",[],[],"['Metal Claw', 'Psycho Cut', 'Shadow Claw']",Dusk_mane,Necrozma
+"['Dark Pulse', 'Futuresight', 'Iron Head', 'Outrage']",[],[],"['Metal Claw', 'Psycho Cut', 'Shadow Claw']",Normal,Necrozma
+['Struggle'],[],[],['Struggle'],Ultra,Necrozma
+['Struggle'],[],[],['Struggle'],Normal,Magearna
+['Struggle'],[],[],['Struggle'],Original_color,Magearna
+"['Close Combat', 'Fire Punch', 'Thunder Punch', 'Ice Punch', 'Rock Slide']",[],[],"['Sucker Punch', 'Counter', 'Poison Jab']",Normal,Marshadow
+"['Sludge Bomb', 'Sludge Wave', 'Fell Stinger']",[],[],"['Poison Jab', 'Peck']",Normal,Poipole
+"['Sludge Bomb', 'Acrobatics', 'Fell Stinger', 'Dragon Pulse', 'Dragon Claw']",[],[],"['Poison Jab', 'Air Slash']",Normal,Naganadel
+"['Flash Cannon', 'Stone Edge', 'Bulldoze']",[],[],"['Rock Throw', 'Take Down']",Normal,Stakataka
+"['Mystical Fire', 'Shadow Ball', 'Overheat']",[],[],"['Incinerate', 'Astonish']",Normal,Blacephalon
+"['Thunder Punch', 'Discharge', 'Wild Charge']",[],[],"['Spark', 'Volt Switch']",Normal,Zeraora
+"['Flash Cannon', 'Thunderbolt']",[],[],['Thunder Shock'],Normal,Meltan
+"['Flash Cannon', 'Thunderbolt', 'Hyper Beam', 'Rock Slide', 'Super Power']",['Double Iron Bash'],[],['Thunder Shock'],Normal,Melmetal
+"['Energy Ball', 'Grass Knot']",[],[],"['Scratch', 'Razor Leaf']",Normal,Grookey
+"['Energy Ball', 'Grass Knot']",[],[],"['Scratch', 'Razor Leaf']",Normal,Thwackey
+"['Energy Ball', 'Grass Knot', 'Earth Power']",[],[],"['Scratch', 'Razor Leaf']",Normal,Rillaboom
+"['Flame Charge', 'Flamethrower']",[],[],"['Tackle', 'Fire Spin']",Normal,Scorbunny
+"['Flame Charge', 'Flamethrower']",[],[],"['Tackle', 'Fire Spin']",Normal,Raboot
+"['Flame Charge', 'Flamethrower', 'Focus Blast']",[],[],"['Tackle', 'Fire Spin']",Normal,Cinderace
+"['Water Pulse', 'Surf']",[],[],"['Pound', 'Water Gun']",Normal,Sobble
+"['Water Pulse', 'Surf']",[],[],"['Pound', 'Water Gun']",Normal,Drizzile
+"['Water Pulse', 'Surf', 'Shadow Ball']",[],[],"['Pound', 'Water Gun']",Normal,Inteleon
+"['Body Slam', 'Crunch', 'Trailblaze']",[],[],"['Tackle', 'Bite', 'Bullet Seed']",Normal,Skwovet
+"['Body Slam', 'Crunch', 'Trailblaze']",[],[],"['Tackle', 'Bite', 'Bullet Seed', 'Mud Shot']",Normal,Greedent
+"['Drill Peck', 'Brave Bird']",[],[],"['Peck', 'Air Slash']",Normal,Rookidee
+"['Drill Peck', 'Brave Bird']",[],[],"['Peck', 'Air Slash']",Normal,Corvisquire
+"['Drill Peck', 'Brave Bird', 'Iron Head']",[],[],"['Steel Wing', 'Air Slash']",Normal,Corviknight
+['Struggle'],[],[],['Struggle Bug'],Normal,Blipbug
+"['Bug Buzz', 'Psychic']",[],[],"['Struggle Bug', 'Confusion']",Normal,Dottler
+"['Bug Buzz', 'Psychic']",[],[],"['Struggle Bug', 'Confusion']",Normal,Orbeetle
+"['Night Slash', 'Play Rough']",[],[],"['Quick Attack', 'Snarl']",Normal,Nickit
+"['Night Slash', 'Play Rough']",[],[],"['Quick Attack', 'Snarl']",Normal,Thievul
+"['Energy Ball', 'Grass Knot']",[],[],"['Razor Leaf', 'Bullet Seed']",Normal,Gossifleur
+"['Energy Ball', 'Grass Knot']",[],[],"['Razor Leaf', 'Bullet Seed']",Normal,Eldegoss
+"['Wild Charge', 'Payback', 'Stomp']",[],[],"['Tackle', 'Take Down']",Normal,Wooloo
+"['Wild Charge', 'Payback', 'Body Slam']",[],[],"['Tackle', 'Take Down', 'Double Kick']",Normal,Dubwool
+"['Body Slam', 'Surf']",[],[],"['Water Gun', 'Bite']",Normal,Chewtle
+"['Body Slam', 'Surf', 'Rock Blast']",[],[],"['Waterfall', 'Bite']",Normal,Drednaw
+"['Crunch', 'Thunder']",[],[],"['Spark', 'Bite']",Normal,Yamper
+"['Crunch', 'Thunder']",[],[],"['Spark', 'Bite']",Normal,Boltund
+"['Rock Blast', 'Rock Slide']",[],[],"['Smack Down', 'Tackle']",Normal,Rolycoly
+"['Rock Blast', 'Rock Slide', 'Flame Charge']",[],[],"['Smack Down', 'Incinerate']",Normal,Carkol
+"['Rock Blast', 'Rock Slide', 'Flame Charge']",[],[],"['Smack Down', 'Incinerate']",Normal,Coalossal
+['Struggle'],[],[],['Astonish'],Normal,Applin
+"['Dragon Pulse', 'Fly', 'Outrage', 'Seed Bomb']",[],[],"['Bullet Seed', 'Dragon Breath']",Normal,Flapple
+"['Dragon Pulse', 'Energy Ball', 'Outrage', 'Seed Bomb']",[],[],"['Bullet Seed', 'Astonish']",Normal,Appletun
+"['Dig', 'Bulldoze', 'Earth Power']",[],[],"['Mud Slap', 'Mud Shot']",Normal,Silicobra
+"['Dig', 'Bulldoze', 'Earth Power']",[],[],"['Mud Slap', 'Mud Shot']",Normal,Sandaconda
+"['Drill Peck', 'Fly', 'Hydro Pump']",[],[],"['Peck', 'Water Gun']",Normal,Cramorant
+"['Crunch', 'Aqua Jet', 'Close Combat']",[],[],"['Waterfall', 'Bite', 'Peck']",Normal,Arrokuda
+"['Crunch', 'Aqua Jet', 'Close Combat']",[],[],"['Waterfall', 'Bite', 'Peck']",Normal,Barraskewda
+['Power Up Punch'],[],[],['Acid'],Normal,Toxel
+"['Acid Spray', 'Discharge', 'Wild Charge', 'Power Up Punch']",[],[],"['Acid', 'Spark', 'Poison Jab']",Amped,Toxtricity
+"['Acid Spray', 'Discharge', 'Wild Charge', 'Power Up Punch']",[],[],"['Acid', 'Spark', 'Poison Jab']",Low_key,Toxtricity
+"['Heat Wave', 'Bug Buzz', 'Crunch']",[],[],"['Bug Bite', 'Ember']",Normal,Sizzlipede
+"['Heat Wave', 'Bug Buzz', 'Crunch', 'Lunge']",[],[],"['Bug Bite', 'Ember']",Normal,Centiskorch
+"['Brick Break', 'Super Power', 'Ice Punch']",[],[],['Rock Smash'],Normal,Clobbopus
+"['Brick Break', 'Super Power', 'Ice Punch', 'Surf']",[],[],"['Rock Smash', 'Waterfall']",Normal,Grapploct
+"['Shadow Ball', 'Dark Pulse', 'Psychic']",[],[],"['Astonish', 'Sucker Punch']",Antique,Sinistea
+"['Shadow Ball', 'Dark Pulse', 'Psychic']",[],[],"['Astonish', 'Sucker Punch']",Phony,Sinistea
+"['Shadow Ball', 'Dark Pulse', 'Psychic']",[],[],"['Astonish', 'Sucker Punch', 'Hex']",Antique,Polteageist
+"['Shadow Ball', 'Dark Pulse', 'Psychic']",[],[],"['Astonish', 'Sucker Punch', 'Hex']",Phony,Polteageist
+"['Psybeam', 'Psychic', 'Dazzling Gleam']",[],[],"['Confusion', 'Charm']",Normal,Hatenna
+"['Psybeam', 'Psychic', 'Dazzling Gleam']",[],[],"['Confusion', 'Charm']",Normal,Hattrem
+"['Psybeam', 'Psychic', 'Dazzling Gleam', 'Power Whip']",[],[],"['Confusion', 'Charm', 'Psycho Cut']",Normal,Hatterene
+"['Foul Play', 'Dark Pulse', 'Play Rough']",[],[],"['Bite', 'Sucker Punch']",Normal,Impidimp
+"['Foul Play', 'Dark Pulse', 'Play Rough']",[],[],"['Bite', 'Sucker Punch']",Normal,Morgrem
+"['Foul Play', 'Dark Pulse', 'Play Rough', 'Power Up Punch']",[],[],"['Bite', 'Sucker Punch', 'Low Kick']",Normal,Grimmsnarl
+"['Cross Chop', 'Night Slash', 'Hyper Beam', 'Gunk Shot']",['Obstruct'],[],"['Counter', 'Lick']",Galarian,Obstagoon
+"['Iron Head', 'Close Combat', 'Play Rough', 'Foul Play', 'Trailblaze']",[],[],"['Metal Claw', 'Shadow Claw']",Galarian,Perrserker
+"['Rock Blast', 'Power Gem', 'Night Shade']",[],[],"['Tackle', 'Astonish']",Normal,Cursola
+"['Close Combat', 'Brave Bird', 'Leaf Blade', 'Night Slash']",[],[],"['Counter', 'Fury Cutter']",Galarian,Sirfetch’d
+"['Psybeam', 'Psychic', 'Ice Punch', 'Icy Wind', 'Triple Axel']",[],[],"['Confusion', 'Zen Headbutt', 'Ice Shard']",Galarian,Mr. Rime
+"['Shadow Ball', 'Sand Tomb', 'Rock Tomb', 'Brutal Swing']",[],[],"['Astonish', 'Shadow Claw']",Galarian,Runerigus
+['Dazzling Gleam'],[],[],"['Tackle', 'Charm']",Normal,Milcery
+"['Dazzling Gleam', 'Psyshock', 'Energy Ball']",[],[],"['Tackle', 'Charm']",Normal,Alcremie
+"['Super Power', 'Brick Break', 'Megahorn']",[],[],"['Rock Smash', 'Counter']",Normal,Falinks
+"['Discharge', 'Thunderbolt', 'Bubble Beam']",[],[],"['Thunder Shock', 'Water Gun', 'Poison Jab']",Normal,Pincurchin
+"['Icy Wind', 'Bug Buzz']",[],[],"['Powder Snow', 'Struggle Bug']",Normal,Snom
+"['Icy Wind', 'Bug Buzz', 'Ice Beam', 'Hurricane']",[],[],"['Powder Snow', 'Bug Bite']",Normal,Frosmoth
+"['Stone Edge', 'Rock Slide', 'Stomp']",[],[],['Rock Throw'],Normal,Stonjourner
+"['Icy Wind', 'Weather Ball Ice', 'Surf']",[],[],['Powder Snow'],Ice,Eiscue
+"['Icy Wind', 'Weather Ball Ice', 'Surf']",[],[],['Powder Snow'],Noice,Eiscue
+"['Psybeam', 'Psychic', 'Energy Ball']",[],[],['Extrasensory'],Female,Indeedee
+"['Psybeam', 'Psychic', 'Shadow Ball']",[],[],['Extrasensory'],Male,Indeedee
+"['Crunch', 'Payback', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Bite']",Full_belly,Morpeko
+"['Crunch', 'Payback', 'Thunderbolt', 'Wild Charge']",[],[],"['Thunder Shock', 'Bite']",Hangry,Morpeko
+"['Iron Head', 'Dig', 'Play Rough']",[],[],"['Tackle', 'Rock Smash']",Normal,Cufant
+"['Iron Head', 'Dig', 'Play Rough', 'Heavy Slam']",[],[],"['Tackle', 'Rock Smash']",Normal,Copperajah
+"['Discharge', 'Dragon Pulse', 'Ancient Power']",[],[],"['Dragon Tail', 'Thunder Shock']",Normal,Dracozolt
+"['Discharge', 'Avalanche', 'Ancient Power']",[],[],"['Powder Snow', 'Thunder Shock']",Normal,Arctozolt
+"['Brine', 'Dragon Pulse', 'Ancient Power']",[],[],"['Dragon Breath', 'Water Gun']",Normal,Dracovish
+"['Brine', 'Avalanche', 'Ancient Power']",[],[],"['Powder Snow', 'Water Gun']",Normal,Arctovish
+"['Flash Cannon', 'Dragon Claw', 'Hyper Beam']",[],[],"['Dragon Tail', 'Metal Claw']",Normal,Duraludon
+['Struggle'],[],[],"['Astonish', 'Quick Attack']",Normal,Dreepy
+"['Dragon Pulse', 'Shadow Ball', 'Outrage']",[],[],"['Astonish', 'Dragon Tail']",Normal,Drakloak
+"['Dragon Pulse', 'Shadow Ball', 'Outrage', 'Breaking Swipe']",[],[],"['Astonish', 'Dragon Tail']",Normal,Dragapult
+"['Play Rough', 'Iron Head', 'Wild Charge', 'Close Combat']",[],[],"['Metal Claw', 'Snarl', 'Quick Attack', 'Fire Fang']",Crowned_sword,Zacian
+"['Play Rough', 'Iron Head', 'Wild Charge', 'Close Combat']",[],[],"['Metal Claw', 'Snarl', 'Quick Attack', 'Fire Fang']",Hero,Zacian
+"['Moonblast', 'Iron Head', 'Crunch', 'Close Combat']",[],[],"['Metal Claw', 'Snarl', 'Quick Attack', 'Ice Fang']",Crowned_shield,Zamazenta
+"['Moonblast', 'Iron Head', 'Crunch', 'Close Combat']",[],[],"['Metal Claw', 'Snarl', 'Quick Attack', 'Ice Fang']",Hero,Zamazenta
+"['Cross Poison', 'Dragon Pulse', 'Flamethrower', 'Hyper Beam']",[],[],"['Dragon Tail', 'Poison Jab']",Eternamax,Eternatus
+"['Cross Poison', 'Dragon Pulse', 'Flamethrower']",[],[],"['Dragon Tail', 'Poison Jab']",Normal,Eternatus
+"['Brick Break', 'Dynamic Punch', 'Close Combat']",[],[],"['Rock Smash', 'Counter']",Normal,Kubfu
+"['Brick Break', 'Dynamic Punch', 'Close Combat', 'Aqua Jet']",[],[],"['Rock Smash', 'Counter', 'Waterfall']",Rapid_strike,Urshifu
+"['Brick Break', 'Dynamic Punch', 'Close Combat', 'Payback']",[],[],"['Rock Smash', 'Counter', 'Sucker Punch']",Single_strike,Urshifu
+"['Power Whip', 'Energy Ball', 'Dark Pulse']",[],[],"['Vine Whip', 'Bite']",Normal,Zarude
+"['Hyper Beam', 'Thunder', 'Zap Cannon']",[],[],"['Thunder Shock', 'Lock On', 'Volt Switch']",Normal,Regieleki
+"['Hyper Beam', 'Outrage', 'Dragon Pulse', 'Breaking Swipe']",[],[],['Bite'],Normal,Regidrago
+"['Avalanche', 'Icy Wind', 'Bulldoze']",[],[],"['Tackle', 'Take Down']",Normal,Glastrier
+"['Shadow Ball', 'Foul Play', 'Bulldoze']",[],[],"['Tackle', 'Take Down']",Normal,Spectrier
+"['Psyshock', 'Psychic', 'Energy Ball', 'Avalanche']",[],[],"['Confusion', 'Take Down']",Ice_rider,Calyrex
+"['Psyshock', 'Psychic', 'Energy Ball']",[],[],"['Pound', 'Confusion']",Normal,Calyrex
+"['Psyshock', 'Psychic', 'Energy Ball', 'Shadow Ball']",[],[],"['Confusion', 'Take Down']",Shadow_rider,Calyrex
+"['Stomp', 'Wild Charge', 'Megahorn', 'Psychic']",[],[],"['Tackle', 'Zen Headbutt', 'Confusion']",Normal,Wyrdeer
+"['X Scissor', 'Rock Slide', 'Stone Edge', 'Trailblaze']",[],[],"['Quick Attack', 'Air Slash']",Normal,Kleavor
+"['Fire Punch', 'Thunder Punch', 'Aerial Ace', 'Ice Punch', 'Trailblaze', 'Swift']",['High Horsepower'],[],"['Tackle', 'Rock Smash']",Normal,Ursaluna
+"['Aerial Ace', 'Close Combat', 'X Scissor']",[],[],"['Rock Smash', 'Poison Jab', 'Shadow Claw']",Normal,Sneasler
+"['Aqua Tail', 'Ice Beam', 'Sludge Bomb', 'Dark Pulse', 'Shadow Ball']",[],[],"['Poison Sting', 'Poison Jab']",Normal,Overqwil
+"['Dazzling Gleam', 'Fly', 'Grass Knot']",[],[],"['Astonish', 'Zen Headbutt', 'Fairy Wind']",Incarnate,Enamorus
+"['Dazzling Gleam', 'Fly', 'Grass Knot']",[],[],"['Astonish', 'Zen Headbutt', 'Fairy Wind']",Therian,Enamorus
+"['Grass Knot', 'Play Rough', 'Energy Ball']",[],[],"['Leafage', 'Charm']",Normal,Sprigatito
+"['Grass Knot', 'Play Rough', 'Energy Ball']",[],[],"['Leafage', 'Charm']",Normal,Floragato
+"['Grass Knot', 'Play Rough', 'Energy Ball', 'Night Slash']",[],[],"['Leafage', 'Charm']",Normal,Meowscarada
+"['Flamethrower', 'Disarming Voice', 'Crunch']",[],[],"['Incinerate', 'Bite']",Normal,Fuecoco
+"['Flamethrower', 'Disarming Voice', 'Crunch']",[],[],"['Incinerate', 'Bite']",Normal,Crocalor
+"['Flamethrower', 'Disarming Voice', 'Crunch', 'Shadow Ball']",[],[],"['Incinerate', 'Bite']",Normal,Skeledirge
+"['Aqua Jet', 'Aerial Ace', 'Liquidation']",[],[],"['Water Gun', 'Wing Attack']",Normal,Quaxly
+"['Aqua Jet', 'Aerial Ace', 'Liquidation']",[],[],"['Water Gun', 'Wing Attack']",Normal,Quaxwell
+"['Aqua Jet', 'Aerial Ace', 'Liquidation', 'Close Combat']",[],[],"['Water Gun', 'Wing Attack']",Normal,Quaquaval
+"['Dig', 'Trailblaze', 'Body Slam']",[],[],"['Tackle', 'Take Down']",Normal,Lechonk
+"['Dig', 'Trailblaze', 'Body Slam']",[],[],"['Tackle', 'Take Down']",Female,Oinkologne
+"['Dig', 'Trailblaze', 'Body Slam']",[],[],"['Tackle', 'Take Down']",Normal,Oinkologne
+"['X Scissor', 'Grass Knot', 'Lunge']",[],[],"['Bug Bite', 'Struggle Bug']",Normal,Tarountula
+"['X Scissor', 'Grass Knot', 'Lunge', 'Rock Tomb']",[],[],"['Bug Bite', 'Counter']",Normal,Spidops
+"['X Scissor', 'Trailblaze', 'Bug Buzz']",[],[],"['Bug Bite', 'Struggle Bug']",Normal,Nymble
+"['X Scissor', 'Trailblaze', 'Bug Buzz', 'Dark Pulse']",[],[],"['Bug Bite', 'Sucker Punch', 'Counter']",Normal,Lokix
+"['Thunderbolt', 'Discharge', 'Wild Charge']",[],[],"['Spark', 'Charge Beam']",Normal,Pawmi
+"['Thunderbolt', 'Discharge', 'Wild Charge', 'Thunder Punch']",[],[],"['Spark', 'Charge Beam']",Normal,Pawmo
+"['Thunderbolt', 'Discharge', 'Wild Charge', 'Close Combat', 'Thunder Punch']",[],[],"['Spark', 'Charge Beam', 'Low Kick']",Normal,Pawmot
+"['Swift', 'Play Rough', 'Crunch']",[],[],"['Take Down', 'Mud Shot', 'Bullet Seed']",Normal,Tandemaus
+"['Swift', 'Play Rough', 'Crunch']",[],[],"['Take Down', 'Mud Shot', 'Bullet Seed']",Family_of_four,Maushold
+"['Swift', 'Play Rough', 'Crunch']",[],[],"['Take Down', 'Mud Shot', 'Bullet Seed']",Family_of_three,Maushold
+"['Body Slam', 'Play Rough', 'Psychic Fangs']",[],[],"['Charm', 'Bite']",Normal,Fidough
+"['Body Slam', 'Play Rough', 'Psychic Fangs']",[],[],"['Charm', 'Bite']",Normal,Dachsbun
+"['Seed Bomb', 'Energy Ball', 'Earth Power', 'Trailblaze']",[],[],"['Razor Leaf', 'Tackle']",Normal,Smoliv
+"['Seed Bomb', 'Energy Ball', 'Earth Power', 'Trailblaze']",[],[],"['Razor Leaf', 'Tackle', 'Magical Leaf']",Normal,Dolliv
+"['Seed Bomb', 'Energy Ball', 'Earth Power', 'Trailblaze']",[],[],"['Razor Leaf', 'Tackle', 'Magical Leaf']",Normal,Arboliva
+"['Aerial Ace', 'Brave Bird', 'Fly']",[],[],"['Peck', 'Air Slash']",Blue,Squawkabilly
+"['Aerial Ace', 'Brave Bird', 'Fly']",[],[],"['Peck', 'Air Slash']",Green,Squawkabilly
+"['Aerial Ace', 'Brave Bird', 'Fly']",[],[],"['Peck', 'Air Slash']",White,Squawkabilly
+"['Aerial Ace', 'Brave Bird', 'Fly']",[],[],"['Peck', 'Air Slash']",Yellow,Squawkabilly
+"['Rock Blast', 'Rock Tomb', 'Ancient Power']",[],[],"['Rock Throw', 'Mud Shot']",Normal,Nacli
+"['Rock Blast', 'Rock Tomb', 'Ancient Power']",[],[],"['Smack Down', 'Mud Shot']",Normal,Naclstack
+"['Rock Slide', 'Rock Tomb', 'Ancient Power']",[],[],"['Smack Down', 'Mud Shot']",Normal,Garganacl
+"['Flame Charge', 'Heat Wave', 'Flamethrower']",[],[],"['Ember', 'Incinerate']",Normal,Charcadet
+"['Flame Charge', 'Heat Wave', 'Flamethrower', 'Psyshock']",[],[],"['Ember', 'Incinerate']",Normal,Armarouge
+"['Flame Charge', 'Heat Wave', 'Flamethrower', 'Shadow Ball']",[],[],"['Ember', 'Incinerate']",Normal,Ceruledge
+"['Parabolic Charge', 'Discharge', 'Zap Cannon']",[],[],"['Thunder Shock', 'Water Gun']",Normal,Tadbulb
+"['Parabolic Charge', 'Discharge', 'Zap Cannon']",[],[],"['Thunder Shock', 'Water Gun']",Normal,Bellibolt
+"['Acrobatics', 'Aerial Ace', 'Thunderbolt']",[],[],"['Thunder Shock', 'Peck']",Normal,Wattrel
+"['Acrobatics', 'Aerial Ace', 'Thunderbolt']",[],[],"['Thunder Shock', 'Air Slash']",Normal,Kilowattrel
+"['Crunch', 'Payback', 'Dig']",[],[],"['Snarl', 'Bite']",Normal,Maschiff
+"['Crunch', 'Payback', 'Dig']",[],[],"['Snarl', 'Bite']",Normal,Mabosstiff
+"['Acid Spray', 'Poison Fang', 'Sludge Bomb']",[],[],"['Mud Slap', 'Poison Jab']",Normal,Shroodle
+"['Acid Spray', 'Poison Fang', 'Sludge Bomb']",[],[],"['Mud Slap', 'Poison Jab']",Normal,Grafaiai
+"['Shadow Sneak', 'Night Shade', 'Power Whip']",[],[],"['Astonish', 'Bullet Seed']",Normal,Bramblin
+"['Shadow Sneak', 'Night Shade', 'Power Whip']",[],[],"['Hex', 'Bullet Seed']",Normal,Brambleghast
+"['Earth Power', 'Seed Bomb', 'Wrap']",[],[],"['Mud Slap', 'Mud Shot']",Normal,Toedscool
+"['Earth Power', 'Seed Bomb', 'Acid Spray']",[],[],"['Mud Slap', 'Mud Shot']",Normal,Toedscruel
+"['Rock Slide', 'Rock Tomb', 'Bulldoze']",[],[],"['Rock Throw', 'Mud Slap']",Normal,Klawf
+"['Leaf Storm', 'Grass Knot', 'Seed Bomb']",[],[],"['Leafage', 'Razor Leaf']",Normal,Capsakid
+"['Leaf Storm', 'Grass Knot', 'Overheat', 'Flamethrower']",[],[],"['Leafage', 'Fire Fang']",Normal,Scovillain
+"['Dig', 'Bug Buzz', 'Lunge']",[],[],"['Bug Bite', 'Struggle Bug']",Normal,Rellor
+"['Dig', 'Bug Buzz', 'Lunge', 'Psybeam']",[],[],"['Bug Bite', 'Confusion']",Normal,Rabsca
+"['Psybeam', 'Psyshock', 'Psychic']",[],[],"['Peck', 'Confusion']",Normal,Flittle
+"['Psybeam', 'Psyshock', 'Psychic']",[],[],"['Peck', 'Confusion']",Normal,Espathra
+"['Play Rough', 'Brutal Swing', 'Flash Cannon']",[],[],"['Fairy Wind', 'Rock Smash']",Normal,Tinkatink
+"['Play Rough', 'Brutal Swing', 'Flash Cannon']",[],[],"['Fairy Wind', 'Rock Smash']",Normal,Tinkatuff
+"['Play Rough', 'Brutal Swing', 'Flash Cannon', 'Heavy Slam']",[],[],"['Fairy Wind', 'Rock Smash']",Normal,Tinkaton
+"['Liquidation', 'Dig', 'Surf']",[],[],"['Water Gun', 'Mud Slap']",Normal,Wiglett
+"['Liquidation', 'Dig', 'Surf']",[],[],"['Water Gun', 'Mud Slap']",Normal,Wugtrio
+"['Payback', 'Aerial Ace', 'Fly']",[],[],"['Wing Attack', 'Rock Throw']",Normal,Bombirdier
+"['Aqua Jet', 'Water Pulse', 'Icy Wind']",[],[],"['Waterfall', 'Charm']",Normal,Finizen
+"['Aqua Jet', 'Water Pulse', 'Icy Wind', 'Drain Punch', 'Acrobatics']",[],[],"['Waterfall', 'Charm', 'Counter']",Hero,Palafin
+"['Aqua Jet', 'Water Pulse', 'Icy Wind', 'Drain Punch', 'Acrobatics']",[],[],"['Waterfall', 'Charm', 'Counter']",Zero,Palafin
+"['Acid Spray', 'Gunk Shot', 'Gyro Ball']",[],[],"['Lick', 'Poison Jab']",Normal,Varoom
+"['Acid Spray', 'Gunk Shot', 'Gyro Ball', 'Overheat']",[],[],"['Lick', 'Poison Jab']",Normal,Revavroom
+"['Dragon Claw', 'Body Slam', 'Trailblaze']",[],[],"['Dragon Tail', 'Take Down']",Normal,Cyclizar
+"['Rock Tomb', 'Earthquake', 'Iron Head']",[],[],"['Iron Tail', 'Mud Slap']",Normal,Orthworm
+"['Dazzling Gleam', 'Rock Slide', 'Sludge Wave']",[],[],"['Rock Throw', 'Smack Down']",Normal,Glimmet
+"['Dazzling Gleam', 'Rock Slide', 'Sludge Wave']",[],[],"['Rock Throw', 'Smack Down']",Normal,Glimmora
+"['Shadow Ball', 'Dig', 'Psychic Fangs']",[],[],"['Lick', 'Bite']",Normal,Greavard
+"['Shadow Ball', 'Dig', 'Psychic Fangs']",[],[],"['Lick', 'Bite']",Normal,Houndstone
+"['Aerial Ace', 'Brave Bird', 'Close Combat']",[],[],"['Wing Attack', 'Double Kick']",Normal,Flamigo
+"['Body Slam', 'Avalanche', 'Heavy Slam']",[],[],"['Ice Shard', 'Tackle', 'Powder Snow']",Normal,Cetoddle
+"['Body Slam', 'Avalanche', 'Heavy Slam']",[],[],"['Ice Shard', 'Tackle', 'Powder Snow']",Normal,Cetitan
+"['Water Pulse', 'Psychic Fangs', 'Drill Run', 'Crunch']",[],[],"['Ice Fang', 'Zen Headbutt']",Normal,Veluza
+"['Outrage', 'Surf', 'Hydro Pump', 'Liquidation']",[],[],"['Waterfall', 'Water Gun']",Normal,Dondozo
+"['Outrage', 'Surf', 'Hydro Pump', 'Muddy Water']",[],[],"['Take Down', 'Water Gun']",Curly,Tatsugiri
+"['Outrage', 'Surf', 'Hydro Pump', 'Muddy Water']",[],[],"['Take Down', 'Water Gun']",Droopy,Tatsugiri
+"['Outrage', 'Surf', 'Hydro Pump', 'Muddy Water']",[],[],"['Take Down', 'Water Gun']",Stretchy,Tatsugiri
+"['Close Combat', 'Low Sweep', 'Night Slash', 'Ice Punch', 'Shadow Ball']",[],[],"['Low Kick', 'Counter']",Normal,Annihilape
+"['Sludge Bomb', 'Earthquake', 'Stone Edge', 'Acid Spray', 'Water Pulse']",['Megahorn'],[],"['Poison Sting', 'Mud Shot']",Normal,Clodsire
+"['Psychic', 'Thunderbolt', 'Mirror Coat', 'Psychic Fangs']",[],[],"['Tackle', 'Confusion', 'Double Kick']",Normal,Farigiraf
+"['Dig', 'Rock Slide', 'Drill Run']",[],[],"['Bite', 'Astonish', 'Rollout']",Three,Dudunsparce
+"['Dig', 'Rock Slide', 'Drill Run']",[],[],"['Bite', 'Astonish', 'Rollout']",Two,Dudunsparce
+"['Dark Pulse', 'Iron Head', 'X Scissor', 'Focus Blast']",[],[],"['Snarl', 'Metal Claw']",Normal,Kingambit
+['Struggle'],[],[],['Splash'],Normal,Great Tusk
+['Struggle'],[],[],['Splash'],Normal,Scream Tail
+['Struggle'],[],[],['Splash'],Normal,Brute Bonnet
+['Struggle'],[],[],['Splash'],Normal,Flutter Mane
+['Struggle'],[],[],['Splash'],Normal,Slither Wing
+['Struggle'],[],[],['Splash'],Normal,Sandy Shocks
+['Struggle'],[],[],['Splash'],Normal,Iron Treads
+['Struggle'],[],[],['Splash'],Normal,Iron Bundle
+['Struggle'],[],[],['Splash'],Normal,Iron Hands
+['Struggle'],[],[],['Splash'],Normal,Iron Jugulis
+['Struggle'],[],[],['Splash'],Normal,Iron Moth
+['Struggle'],[],[],['Splash'],Normal,Iron Thorns
+"['Dragon Claw', 'Avalanche', 'Outrage', 'Icy Wind']",[],[],"['Dragon Breath', 'Ice Fang']",Normal,Frigibax
+"['Dragon Claw', 'Avalanche', 'Outrage', 'Icy Wind']",[],[],"['Dragon Breath', 'Ice Fang']",Normal,Arctibax
+"['Dragon Claw', 'Avalanche', 'Outrage', 'Blizzard', 'Icy Wind']",[],[],"['Dragon Breath', 'Ice Fang']",Normal,Baxcalibur
+['Shadow Ball'],[],[],['Astonish'],Normal,Gimmighoul
+"['Shadow Ball', 'Dazzling Gleam', 'Focus Blast']",[],[],"['Astonish', 'Hex']",Normal,Gholdengo
+"['Dark Pulse', 'Grass Knot', 'Leaf Storm']",[],[],"['Magical Leaf', 'Snarl']",Normal,Wo-Chien
+"['Dark Pulse', 'Avalanche', 'Blizzard']",[],[],"['Powder Snow', 'Snarl']",Normal,Chien-Pao
+"['Dark Pulse', 'Bulldoze', 'Earthquake']",[],[],"['Mud Shot', 'Snarl']",Normal,Ting-Lu
+"['Dark Pulse', 'Flame Charge', 'Flame Wheel']",[],[],"['Incinerate', 'Snarl']",Normal,Chi-Yu
+['Struggle'],[],[],['Splash'],Normal,Roaring Moon
+['Struggle'],[],[],['Splash'],Normal,Iron Valiant
+"['Giga Impact', 'Dragon Claw', 'Close Combat', 'Outrage']",[],[],"['Rock Smash', 'Dragon Tail']",Apex,Koraidon
+"['Hyper Beam', 'Dragon Pulse', 'Thunder', 'Outrage']",[],[],"['Thunder Shock', 'Dragon Breath']",Ultimate,Miraidon

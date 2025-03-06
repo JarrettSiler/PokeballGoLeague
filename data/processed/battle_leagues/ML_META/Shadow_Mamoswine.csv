@@ -1,0 +1,2 @@
+is_shadow,form,pokemon_name,level,IV_atk,IV_def,IV_sta,CP,HP,TDO,DPT,DPE,fast_move,first_charged_move,second_charged_move
+True,Normal,Mamoswine,50,15,15,15,3763,215,152.94,13.35,2.14,Mud Slap,Avalanche,Bulldoze

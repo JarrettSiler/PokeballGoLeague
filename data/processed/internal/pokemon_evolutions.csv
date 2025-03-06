@@ -1,0 +1,527 @@
+evolutions,form,pokemon_id,pokemon_name
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 2, 'pokemon_name': 'Ivysaur'}]",Normal,1,Bulbasaur
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 3, 'pokemon_name': 'Venusaur'}]",Normal,2,Ivysaur
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 5, 'pokemon_name': 'Charmeleon'}]",Normal,4,Charmander
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 6, 'pokemon_name': 'Charizard'}]",Normal,5,Charmeleon
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 8, 'pokemon_name': 'Wartortle'}]",Normal,7,Squirtle
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 9, 'pokemon_name': 'Blastoise'}]",Normal,8,Wartortle
+"[{'candy_required': 12, 'form': 'Normal', 'pokemon_id': 11, 'pokemon_name': 'Metapod'}]",Normal,10,Caterpie
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 12, 'pokemon_name': 'Butterfree'}]",Normal,11,Metapod
+"[{'candy_required': 12, 'form': 'Normal', 'pokemon_id': 14, 'pokemon_name': 'Kakuna'}]",Normal,13,Weedle
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 15, 'pokemon_name': 'Beedrill'}]",Normal,14,Kakuna
+"[{'candy_required': 12, 'form': 'Normal', 'pokemon_id': 17, 'pokemon_name': 'Pidgeotto'}]",Normal,16,Pidgey
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 18, 'pokemon_name': 'Pidgeot'}]",Normal,17,Pidgeotto
+"[{'candy_required': 25, 'form': 'Alola', 'pokemon_id': 20, 'pokemon_name': 'Raticate'}]",Alola,19,Rattata
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 20, 'pokemon_name': 'Raticate'}]",Normal,19,Rattata
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 22, 'pokemon_name': 'Fearow'}]",Normal,21,Spearow
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 24, 'pokemon_name': 'Arbok'}]",Normal,23,Ekans
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 26, 'pokemon_name': 'Raichu'}]",Normal,25,Pikachu
+"[{'candy_required': 50, 'form': 'Alola', 'pokemon_id': 28, 'pokemon_name': 'Sandslash'}]",Alola,27,Sandshrew
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 28, 'pokemon_name': 'Sandslash'}]",Normal,27,Sandshrew
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 30, 'pokemon_name': 'Nidorina'}]",Normal,29,Nidoran♀
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 31, 'pokemon_name': 'Nidoqueen'}]",Normal,30,Nidorina
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 33, 'pokemon_name': 'Nidorino'}]",Normal,32,Nidoran♂
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 34, 'pokemon_name': 'Nidoking'}]",Normal,33,Nidorino
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 36, 'pokemon_name': 'Clefable'}]",Normal,35,Clefairy
+"[{'candy_required': 50, 'form': 'Alola', 'pokemon_id': 38, 'pokemon_name': 'Ninetales'}]",Alola,37,Vulpix
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 38, 'pokemon_name': 'Ninetales'}]",Normal,37,Vulpix
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 40, 'pokemon_name': 'Wigglytuff'}]",Normal,39,Jigglypuff
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 42, 'pokemon_name': 'Golbat'}]",Normal,41,Zubat
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 169, 'pokemon_name': 'Crobat'}]",Normal,42,Golbat
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 44, 'pokemon_name': 'Gloom'}]",Normal,43,Oddish
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 45, 'pokemon_name': 'Vileplume'}, {'candy_required': 100, 'form': 'Normal', 'item_required': 'Sun Stone', 'pokemon_id': 182, 'pokemon_name': 'Bellossom'}]",Normal,44,Gloom
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 47, 'pokemon_name': 'Parasect'}]",Normal,46,Paras
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 49, 'pokemon_name': 'Venomoth'}]",Normal,48,Venonat
+"[{'candy_required': 50, 'form': 'Alola', 'pokemon_id': 51, 'pokemon_name': 'Dugtrio'}]",Alola,50,Diglett
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 51, 'pokemon_name': 'Dugtrio'}]",Normal,50,Diglett
+"[{'candy_required': 50, 'form': 'Alola', 'pokemon_id': 53, 'pokemon_name': 'Persian'}]",Alola,52,Meowth
+"[{'candy_required': 50, 'form': 'Galarian', 'pokemon_id': 863, 'pokemon_name': 'Perrserker'}]",Galarian,52,Meowth
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 53, 'pokemon_name': 'Persian'}]",Normal,52,Meowth
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 55, 'pokemon_name': 'Golduck'}]",Normal,54,Psyduck
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 57, 'pokemon_name': 'Primeape'}]",Normal,56,Mankey
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 979, 'pokemon_name': 'Annihilape', 'priority': 1}]",Normal,57,Primeape
+"[{'candy_required': 50, 'form': 'Hisuian', 'pokemon_id': 59, 'pokemon_name': 'Arcanine'}]",Hisuian,58,Growlithe
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 59, 'pokemon_name': 'Arcanine'}]",Normal,58,Growlithe
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 61, 'pokemon_name': 'Poliwhirl'}]",Normal,60,Poliwag
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 62, 'pokemon_name': 'Poliwrath'}, {'candy_required': 100, 'form': 'Normal', 'item_required': ""King's Rock"", 'pokemon_id': 186, 'pokemon_name': 'Politoed'}]",Normal,61,Poliwhirl
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 64, 'pokemon_name': 'Kadabra'}]",Normal,63,Abra
+"[{'candy_required': 100, 'form': 'Normal', 'no_candy_cost_if_traded': True, 'pokemon_id': 65, 'pokemon_name': 'Alakazam'}]",Normal,64,Kadabra
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 67, 'pokemon_name': 'Machoke'}]",Normal,66,Machop
+"[{'candy_required': 100, 'form': 'Normal', 'no_candy_cost_if_traded': True, 'pokemon_id': 68, 'pokemon_name': 'Machamp'}]",Normal,67,Machoke
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 70, 'pokemon_name': 'Weepinbell'}]",Normal,69,Bellsprout
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 71, 'pokemon_name': 'Victreebel'}]",Normal,70,Weepinbell
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 73, 'pokemon_name': 'Tentacruel'}]",Normal,72,Tentacool
+"[{'candy_required': 25, 'form': 'Alola', 'pokemon_id': 75, 'pokemon_name': 'Graveler'}]",Alola,74,Geodude
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 75, 'pokemon_name': 'Graveler'}]",Normal,74,Geodude
+"[{'candy_required': 100, 'form': 'Alola', 'no_candy_cost_if_traded': True, 'pokemon_id': 76, 'pokemon_name': 'Golem'}]",Alola,75,Graveler
+"[{'candy_required': 100, 'form': 'Normal', 'no_candy_cost_if_traded': True, 'pokemon_id': 76, 'pokemon_name': 'Golem'}]",Normal,75,Graveler
+"[{'candy_required': 50, 'form': 'Galarian', 'pokemon_id': 78, 'pokemon_name': 'Rapidash'}]",Galarian,77,Ponyta
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 78, 'pokemon_name': 'Rapidash'}]",Normal,77,Ponyta
+"[{'candy_required': 50, 'form': '2021', 'pokemon_id': 80, 'pokemon_name': 'Slowbro'}, {'candy_required': 50, 'form': '2022', 'item_required': ""King's Rock"", 'pokemon_id': 199, 'pokemon_name': 'Slowking'}]",2020,79,Slowpoke
+"[{'candy_required': 50, 'form': 'Galarian', 'pokemon_id': 80, 'pokemon_name': 'Slowbro', 'priority': 1}, {'candy_required': 50, 'form': 'Galarian', 'pokemon_id': 199, 'pokemon_name': 'Slowking', 'priority': 1}]",Galarian,79,Slowpoke
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 80, 'pokemon_name': 'Slowbro'}, {'candy_required': 50, 'form': 'Normal', 'item_required': ""King's Rock"", 'pokemon_id': 199, 'pokemon_name': 'Slowking'}]",Normal,79,Slowpoke
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 82, 'pokemon_name': 'Magneton'}]",Normal,81,Magnemite
+"[{'candy_required': 100, 'form': 'Normal', 'lure_required': 'Magnetic Lure Module', 'pokemon_id': 462, 'pokemon_name': 'Magnezone'}]",Normal,82,Magneton
+"[{'candy_required': 50, 'form': 'Galarian', 'pokemon_id': 865, 'pokemon_name': 'Sirfetch’d'}]",Galarian,83,Farfetch’d
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 85, 'pokemon_name': 'Dodrio'}]",Normal,84,Doduo
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 87, 'pokemon_name': 'Dewgong'}]",Normal,86,Seel
+"[{'candy_required': 50, 'form': 'Alola', 'pokemon_id': 89, 'pokemon_name': 'Muk'}]",Alola,88,Grimer
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 89, 'pokemon_name': 'Muk'}]",Normal,88,Grimer
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 91, 'pokemon_name': 'Cloyster'}]",Normal,90,Shellder
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 93, 'pokemon_name': 'Haunter'}]",Normal,92,Gastly
+"[{'candy_required': 100, 'form': 'Normal', 'no_candy_cost_if_traded': True, 'pokemon_id': 94, 'pokemon_name': 'Gengar'}]",Normal,93,Haunter
+"[{'candy_required': 50, 'form': 'Normal', 'item_required': 'Metal Coat', 'pokemon_id': 208, 'pokemon_name': 'Steelix'}]",Normal,95,Onix
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 97, 'pokemon_name': 'Hypno'}]",Normal,96,Drowzee
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 99, 'pokemon_name': 'Kingler'}]",Normal,98,Krabby
+"[{'candy_required': 50, 'form': 'Hisuian', 'pokemon_id': 101, 'pokemon_name': 'Electrode'}]",Hisuian,100,Voltorb
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 101, 'pokemon_name': 'Electrode'}]",Normal,100,Voltorb
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 103, 'pokemon_name': 'Exeggutor'}]",Normal,102,Exeggcute
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 105, 'pokemon_name': 'Marowak'}]",Normal,104,Cubone
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 463, 'pokemon_name': 'Lickilicky'}]",Normal,108,Lickitung
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 110, 'pokemon_name': 'Weezing'}]",Normal,109,Koffing
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 112, 'pokemon_name': 'Rhydon'}]",Normal,111,Rhyhorn
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 464, 'pokemon_name': 'Rhyperior'}]",Normal,112,Rhydon
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 242, 'pokemon_name': 'Blissey'}]",Normal,113,Chansey
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 465, 'pokemon_name': 'Tangrowth'}]",Normal,114,Tangela
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 117, 'pokemon_name': 'Seadra'}]",Normal,116,Horsea
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Dragon Scale', 'pokemon_id': 230, 'pokemon_name': 'Kingdra'}]",Normal,117,Seadra
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 119, 'pokemon_name': 'Seaking'}]",Normal,118,Goldeen
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 121, 'pokemon_name': 'Starmie'}]",Normal,120,Staryu
+"[{'candy_required': 50, 'form': 'Rime_normal', 'pokemon_id': 866, 'pokemon_name': 'Mr. Rime'}]",Galarian,122,Mr. Mime
+"[{'candy_required': 50, 'form': 'Normal', 'item_required': 'Metal Coat', 'pokemon_id': 212, 'pokemon_name': 'Scizor'}]",Normal,123,Scyther
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 466, 'pokemon_name': 'Electivire'}]",Normal,125,Electabuzz
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 467, 'pokemon_name': 'Magmortar'}]",Normal,126,Magmar
+"[{'candy_required': 400, 'form': 'Normal', 'pokemon_id': 130, 'pokemon_name': 'Gyarados'}]",Normal,129,Magikarp
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 134, 'pokemon_name': 'Vaporeon'}, {'candy_required': 25, 'form': 'Normal', 'pokemon_id': 135, 'pokemon_name': 'Jolteon'}, {'candy_required': 25, 'form': 'Normal', 'pokemon_id': 136, 'pokemon_name': 'Flareon'}, {'buddy_distance_required': 10.0, 'candy_required': 25, 'form': 'Normal', 'must_be_buddy_to_evolve': True, 'only_evolves_in_daytime': True, 'pokemon_id': 196, 'pokemon_name': 'Espeon', 'priority': 100}, {'buddy_distance_required': 10.0, 'candy_required': 25, 'form': 'Normal', 'must_be_buddy_to_evolve': True, 'only_evolves_in_nighttime': True, 'pokemon_id': 197, 'pokemon_name': 'Umbreon', 'priority': 100}, {'candy_required': 25, 'form': 'Normal', 'lure_required': 'Mossy Lure Module', 'pokemon_id': 470, 'pokemon_name': 'Leafeon', 'priority': 200}, {'candy_required': 25, 'form': 'Normal', 'lure_required': 'Glacial Lure Module', 'pokemon_id': 471, 'pokemon_name': 'Glaceon', 'priority': 200}, {'candy_required': 25, 'form': 'Normal', 'pokemon_id': 700, 'pokemon_name': 'Sylveon', 'priority': 100}]",Normal,133,Eevee
+"[{'candy_required': 25, 'form': 'Normal', 'item_required': 'Upgrade', 'pokemon_id': 233, 'pokemon_name': 'Porygon2'}]",Normal,137,Porygon
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 139, 'pokemon_name': 'Omastar'}]",Normal,138,Omanyte
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 141, 'pokemon_name': 'Kabutops'}]",Normal,140,Kabuto
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 148, 'pokemon_name': 'Dragonair'}]",Normal,147,Dratini
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 149, 'pokemon_name': 'Dragonite'}]",Normal,148,Dragonair
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 153, 'pokemon_name': 'Bayleef'}]",Normal,152,Chikorita
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 154, 'pokemon_name': 'Meganium'}]",Normal,153,Bayleef
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 156, 'pokemon_name': 'Quilava'}]",Normal,155,Cyndaquil
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 157, 'pokemon_name': 'Typhlosion'}]",Normal,156,Quilava
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 159, 'pokemon_name': 'Croconaw'}]",Normal,158,Totodile
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 160, 'pokemon_name': 'Feraligatr'}]",Normal,159,Croconaw
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 162, 'pokemon_name': 'Furret'}]",Normal,161,Sentret
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 164, 'pokemon_name': 'Noctowl'}]",Normal,163,Hoothoot
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 166, 'pokemon_name': 'Ledian'}]",Normal,165,Ledyba
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 168, 'pokemon_name': 'Ariados'}]",Normal,167,Spinarak
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 171, 'pokemon_name': 'Lanturn'}]",Normal,170,Chinchou
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 25, 'pokemon_name': 'Pikachu'}]",Normal,172,Pichu
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 35, 'pokemon_name': 'Clefairy'}]",Normal,173,Cleffa
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 39, 'pokemon_name': 'Jigglypuff'}]",Normal,174,Igglybuff
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 176, 'pokemon_name': 'Togetic'}]",Normal,175,Togepi
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 468, 'pokemon_name': 'Togekiss'}]",Normal,176,Togetic
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 178, 'pokemon_name': 'Xatu'}]",Normal,177,Natu
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 180, 'pokemon_name': 'Flaaffy'}]",Normal,179,Mareep
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 181, 'pokemon_name': 'Ampharos'}]",Normal,180,Flaaffy
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 184, 'pokemon_name': 'Azumarill'}]",Normal,183,Marill
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 188, 'pokemon_name': 'Skiploom'}]",Normal,187,Hoppip
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 189, 'pokemon_name': 'Jumpluff'}]",Normal,188,Skiploom
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 424, 'pokemon_name': 'Ambipom'}]",Normal,190,Aipom
+"[{'candy_required': 50, 'form': 'Normal', 'item_required': 'Sun Stone', 'pokemon_id': 192, 'pokemon_name': 'Sunflora'}]",Normal,191,Sunkern
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 469, 'pokemon_name': 'Yanmega'}]",Normal,193,Yanma
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 195, 'pokemon_name': 'Quagsire'}]",Normal,194,Wooper
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 980, 'pokemon_name': 'Clodsire'}]",Paldea,194,Wooper
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 430, 'pokemon_name': 'Honchkrow'}]",Normal,198,Murkrow
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 429, 'pokemon_name': 'Mismagius'}]",Normal,200,Misdreavus
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 205, 'pokemon_name': 'Forretress'}]",Normal,204,Pineco
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 472, 'pokemon_name': 'Gliscor'}]",Normal,207,Gligar
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 210, 'pokemon_name': 'Granbull'}]",Normal,209,Snubbull
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 904, 'pokemon_name': 'Overqwil'}]",Hisuian,211,Qwilfish
+"[{'candy_required': 100, 'form': 'Normal', 'only_evolves_in_daytime': True, 'pokemon_id': 903, 'pokemon_name': 'Sneasler'}]",Hisuian,215,Sneasel
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 461, 'pokemon_name': 'Weavile'}]",Normal,215,Sneasel
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 217, 'pokemon_name': 'Ursaring'}]",Normal,216,Teddiursa
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 901, 'pokemon_name': 'Ursaluna'}]",Normal,217,Ursaring
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 219, 'pokemon_name': 'Magcargo'}]",Normal,218,Slugma
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 221, 'pokemon_name': 'Piloswine'}]",Normal,220,Swinub
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 473, 'pokemon_name': 'Mamoswine'}]",Normal,221,Piloswine
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 864, 'pokemon_name': 'Cursola'}]",Galarian,222,Corsola
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 224, 'pokemon_name': 'Octillery'}]",Normal,223,Remoraid
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 229, 'pokemon_name': 'Houndoom'}]",Normal,228,Houndour
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 232, 'pokemon_name': 'Donphan'}]",Normal,231,Phanpy
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 474, 'pokemon_name': 'Porygon-Z'}]",Normal,233,Porygon2
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 106, 'pokemon_name': 'Hitmonlee'}, {'candy_required': 25, 'form': 'Normal', 'pokemon_id': 107, 'pokemon_name': 'Hitmonchan'}, {'candy_required': 25, 'form': 'Normal', 'pokemon_id': 237, 'pokemon_name': 'Hitmontop'}]",Normal,236,Tyrogue
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 124, 'pokemon_name': 'Jynx'}]",Normal,238,Smoochum
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 125, 'pokemon_name': 'Electabuzz'}]",Normal,239,Elekid
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 126, 'pokemon_name': 'Magmar'}]",Normal,240,Magby
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 247, 'pokemon_name': 'Pupitar'}]",Normal,246,Larvitar
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 248, 'pokemon_name': 'Tyranitar'}]",Normal,247,Pupitar
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 253, 'pokemon_name': 'Grovyle'}]",Normal,252,Treecko
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 254, 'pokemon_name': 'Sceptile'}]",Normal,253,Grovyle
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 256, 'pokemon_name': 'Combusken'}]",Normal,255,Torchic
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 257, 'pokemon_name': 'Blaziken'}]",Normal,256,Combusken
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 259, 'pokemon_name': 'Marshtomp'}]",Normal,258,Mudkip
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 260, 'pokemon_name': 'Swampert'}]",Normal,259,Marshtomp
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 262, 'pokemon_name': 'Mightyena'}]",Normal,261,Poochyena
+"[{'candy_required': 25, 'form': 'Galarian', 'pokemon_id': 264, 'pokemon_name': 'Linoone'}]",Galarian,263,Zigzagoon
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 264, 'pokemon_name': 'Linoone'}]",Normal,263,Zigzagoon
+"[{'candy_required': 100, 'form': 'Galarian', 'pokemon_id': 862, 'pokemon_name': 'Obstagoon'}]",Galarian,264,Linoone
+"[{'candy_required': 12, 'form': 'Normal', 'pokemon_id': 266, 'pokemon_name': 'Silcoon'}, {'candy_required': 12, 'form': 'Normal', 'pokemon_id': 268, 'pokemon_name': 'Cascoon'}]",Normal,265,Wurmple
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 267, 'pokemon_name': 'Beautifly'}]",Normal,266,Silcoon
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 269, 'pokemon_name': 'Dustox'}]",Normal,268,Cascoon
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 271, 'pokemon_name': 'Lombre'}]",Normal,270,Lotad
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 272, 'pokemon_name': 'Ludicolo'}]",Normal,271,Lombre
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 274, 'pokemon_name': 'Nuzleaf'}]",Normal,273,Seedot
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 275, 'pokemon_name': 'Shiftry'}]",Normal,274,Nuzleaf
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 277, 'pokemon_name': 'Swellow'}]",Normal,276,Taillow
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 279, 'pokemon_name': 'Pelipper'}]",Normal,278,Wingull
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 281, 'pokemon_name': 'Kirlia'}]",Normal,280,Ralts
+"[{'candy_required': 100, 'form': 'Normal', 'gender_required': 'Male', 'item_required': 'Sinnoh Stone', 'pokemon_id': 475, 'pokemon_name': 'Gallade'}, {'candy_required': 100, 'form': 'Normal', 'pokemon_id': 282, 'pokemon_name': 'Gardevoir'}]",Normal,281,Kirlia
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 284, 'pokemon_name': 'Masquerain'}]",Normal,283,Surskit
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 286, 'pokemon_name': 'Breloom'}]",Normal,285,Shroomish
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 288, 'pokemon_name': 'Vigoroth'}]",Normal,287,Slakoth
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 289, 'pokemon_name': 'Slaking'}]",Normal,288,Vigoroth
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 291, 'pokemon_name': 'Ninjask'}]",Normal,290,Nincada
+"[{'candy_required': 12, 'form': 'Normal', 'pokemon_id': 294, 'pokemon_name': 'Loudred'}]",Normal,293,Whismur
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 295, 'pokemon_name': 'Exploud'}]",Normal,294,Loudred
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 297, 'pokemon_name': 'Hariyama'}]",Normal,296,Makuhita
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 183, 'pokemon_name': 'Marill'}]",Normal,298,Azurill
+"[{'candy_required': 50, 'form': 'Normal', 'lure_required': 'Magnetic Lure Module', 'pokemon_id': 476, 'pokemon_name': 'Probopass'}]",Normal,299,Nosepass
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 301, 'pokemon_name': 'Delcatty'}]",Normal,300,Skitty
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 305, 'pokemon_name': 'Lairon'}]",Normal,304,Aron
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 306, 'pokemon_name': 'Aggron'}]",Normal,305,Lairon
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 308, 'pokemon_name': 'Medicham'}]",Normal,307,Meditite
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 310, 'pokemon_name': 'Manectric'}]",Normal,309,Electrike
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 407, 'pokemon_name': 'Roserade'}]",Normal,315,Roselia
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 317, 'pokemon_name': 'Swalot'}]",Normal,316,Gulpin
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 319, 'pokemon_name': 'Sharpedo'}]",Normal,318,Carvanha
+"[{'candy_required': 400, 'form': 'Normal', 'pokemon_id': 321, 'pokemon_name': 'Wailord'}]",Normal,320,Wailmer
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 323, 'pokemon_name': 'Camerupt'}]",Normal,322,Numel
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 326, 'pokemon_name': 'Grumpig'}]",Normal,325,Spoink
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 329, 'pokemon_name': 'Vibrava'}]",Normal,328,Trapinch
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 330, 'pokemon_name': 'Flygon'}]",Normal,329,Vibrava
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 332, 'pokemon_name': 'Cacturne'}]",Normal,331,Cacnea
+"[{'candy_required': 400, 'form': 'Normal', 'pokemon_id': 334, 'pokemon_name': 'Altaria'}]",Normal,333,Swablu
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 340, 'pokemon_name': 'Whiscash'}]",Normal,339,Barboach
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 342, 'pokemon_name': 'Crawdaunt'}]",Normal,341,Corphish
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 344, 'pokemon_name': 'Claydol'}]",Normal,343,Baltoy
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 346, 'pokemon_name': 'Cradily'}]",Normal,345,Lileep
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 348, 'pokemon_name': 'Armaldo'}]",Normal,347,Anorith
+"[{'buddy_distance_required': 20.0, 'candy_required': 100, 'form': 'Normal', 'pokemon_id': 350, 'pokemon_name': 'Milotic'}]",Normal,349,Feebas
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 354, 'pokemon_name': 'Banette'}]",Normal,353,Shuppet
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 356, 'pokemon_name': 'Dusclops'}]",Normal,355,Duskull
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Sinnoh Stone', 'pokemon_id': 477, 'pokemon_name': 'Dusknoir'}]",Normal,356,Dusclops
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 202, 'pokemon_name': 'Wobbuffet'}]",Normal,360,Wynaut
+"[{'candy_required': 100, 'form': 'Normal', 'gender_required': 'Female', 'item_required': 'Sinnoh Stone', 'pokemon_id': 478, 'pokemon_name': 'Froslass'}, {'candy_required': 100, 'form': 'Normal', 'pokemon_id': 362, 'pokemon_name': 'Glalie'}]",Normal,361,Snorunt
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 364, 'pokemon_name': 'Sealeo'}]",Normal,363,Spheal
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 365, 'pokemon_name': 'Walrein'}]",Normal,364,Sealeo
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 367, 'pokemon_name': 'Huntail'}, {'candy_required': 50, 'form': 'Normal', 'pokemon_id': 368, 'pokemon_name': 'Gorebyss'}]",Normal,366,Clamperl
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 372, 'pokemon_name': 'Shelgon'}]",Normal,371,Bagon
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 373, 'pokemon_name': 'Salamence'}]",Normal,372,Shelgon
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 375, 'pokemon_name': 'Metang'}]",Normal,374,Beldum
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 376, 'pokemon_name': 'Metagross'}]",Normal,375,Metang
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 388, 'pokemon_name': 'Grotle'}]",Normal,387,Turtwig
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 389, 'pokemon_name': 'Torterra'}]",Normal,388,Grotle
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 391, 'pokemon_name': 'Monferno'}]",Normal,390,Chimchar
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 392, 'pokemon_name': 'Infernape'}]",Normal,391,Monferno
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 394, 'pokemon_name': 'Prinplup'}]",Normal,393,Piplup
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 395, 'pokemon_name': 'Empoleon'}]",Normal,394,Prinplup
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 397, 'pokemon_name': 'Staravia'}]",Normal,396,Starly
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 398, 'pokemon_name': 'Staraptor'}]",Normal,397,Staravia
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 400, 'pokemon_name': 'Bibarel'}]",Normal,399,Bidoof
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 402, 'pokemon_name': 'Kricketune'}]",Normal,401,Kricketot
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 404, 'pokemon_name': 'Luxio'}]",Normal,403,Shinx
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 405, 'pokemon_name': 'Luxray'}]",Normal,404,Luxio
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 315, 'pokemon_name': 'Roselia'}]",Normal,406,Budew
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 409, 'pokemon_name': 'Rampardos'}]",Normal,408,Cranidos
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 411, 'pokemon_name': 'Bastiodon'}]",Normal,410,Shieldon
+"[{'candy_required': 50, 'form': 'Plant', 'gender_required': 'Female', 'pokemon_id': 413, 'pokemon_name': 'Wormadam'}, {'candy_required': 50, 'form': 'Normal', 'gender_required': 'Male', 'pokemon_id': 414, 'pokemon_name': 'Mothim'}]",Plant,412,Burmy
+"[{'candy_required': 50, 'form': 'Sandy', 'gender_required': 'Female', 'pokemon_id': 413, 'pokemon_name': 'Wormadam'}, {'candy_required': 50, 'form': 'Normal', 'gender_required': 'Male', 'pokemon_id': 414, 'pokemon_name': 'Mothim'}]",Sandy,412,Burmy
+"[{'candy_required': 50, 'form': 'Trash', 'gender_required': 'Female', 'pokemon_id': 413, 'pokemon_name': 'Wormadam'}, {'candy_required': 50, 'form': 'Normal', 'gender_required': 'Male', 'pokemon_id': 414, 'pokemon_name': 'Mothim'}]",Trash,412,Burmy
+"[{'candy_required': 50, 'form': 'Normal', 'gender_required': 'Female', 'pokemon_id': 416, 'pokemon_name': 'Vespiquen'}]",Normal,415,Combee
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 419, 'pokemon_name': 'Floatzel'}]",Normal,418,Buizel
+"[{'candy_required': 50, 'form': 'Overcast', 'pokemon_id': 421, 'pokemon_name': 'Cherrim'}, {'candy_required': 50, 'form': 'Sunny', 'pokemon_id': 421, 'pokemon_name': 'Cherrim'}]",Normal,420,Cherubi
+"[{'candy_required': 50, 'form': 'East_sea', 'pokemon_id': 423, 'pokemon_name': 'Gastrodon'}]",East_sea,422,Shellos
+"[{'candy_required': 50, 'form': 'West_sea', 'pokemon_id': 423, 'pokemon_name': 'Gastrodon'}]",West_sea,422,Shellos
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 426, 'pokemon_name': 'Drifblim'}]",Normal,425,Drifloon
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 428, 'pokemon_name': 'Lopunny'}]",Normal,427,Buneary
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 432, 'pokemon_name': 'Purugly'}]",Normal,431,Glameow
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 358, 'pokemon_name': 'Chimecho'}]",Normal,433,Chingling
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 435, 'pokemon_name': 'Skuntank'}]",Normal,434,Stunky
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 437, 'pokemon_name': 'Bronzong'}]",Normal,436,Bronzor
+"[{'buddy_distance_required': 15.0, 'candy_required': 50, 'form': 'Normal', 'pokemon_id': 185, 'pokemon_name': 'Sudowoodo'}]",Normal,438,Bonsly
+"[{'buddy_distance_required': 15.0, 'candy_required': 50, 'form': 'Normal', 'pokemon_id': 122, 'pokemon_name': 'Mr. Mime'}]",Normal,439,Mime Jr.
+"[{'buddy_distance_required': 15.0, 'candy_required': 25, 'form': 'Normal', 'pokemon_id': 113, 'pokemon_name': 'Chansey'}]",Normal,440,Happiny
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 444, 'pokemon_name': 'Gabite'}]",Normal,443,Gible
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 445, 'pokemon_name': 'Garchomp'}]",Normal,444,Gabite
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 143, 'pokemon_name': 'Snorlax'}]",Normal,446,Munchlax
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 448, 'pokemon_name': 'Lucario'}]",Normal,447,Riolu
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 450, 'pokemon_name': 'Hippowdon'}]",Normal,449,Hippopotas
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 452, 'pokemon_name': 'Drapion'}]",Normal,451,Skorupi
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 454, 'pokemon_name': 'Toxicroak'}]",Normal,453,Croagunk
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 457, 'pokemon_name': 'Lumineon'}]",Normal,456,Finneon
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 226, 'pokemon_name': 'Mantine'}]",Normal,458,Mantyke
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 460, 'pokemon_name': 'Abomasnow'}]",Normal,459,Snover
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 496, 'pokemon_name': 'Servine'}]",Normal,495,Snivy
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 497, 'pokemon_name': 'Serperior'}]",Normal,496,Servine
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 499, 'pokemon_name': 'Pignite'}]",Normal,498,Tepig
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 500, 'pokemon_name': 'Emboar'}]",Normal,499,Pignite
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 502, 'pokemon_name': 'Dewott'}]",Normal,501,Oshawott
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 503, 'pokemon_name': 'Samurott'}]",Normal,502,Dewott
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 505, 'pokemon_name': 'Watchog'}]",Normal,504,Patrat
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 507, 'pokemon_name': 'Herdier'}]",Normal,506,Lillipup
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 508, 'pokemon_name': 'Stoutland'}]",Normal,507,Herdier
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 510, 'pokemon_name': 'Liepard'}]",Normal,509,Purrloin
+"[{'candy_required': 50, 'form': 'Normal', 'item_required': 'Unova Stone', 'pokemon_id': 512, 'pokemon_name': 'Simisage'}]",Normal,511,Pansage
+"[{'candy_required': 50, 'form': 'Normal', 'item_required': 'Unova Stone', 'pokemon_id': 514, 'pokemon_name': 'Simisear'}]",Normal,513,Pansear
+"[{'candy_required': 50, 'form': 'Normal', 'item_required': 'Unova Stone', 'pokemon_id': 516, 'pokemon_name': 'Simipour'}]",Normal,515,Panpour
+"[{'candy_required': 50, 'form': 'Normal', 'item_required': 'Unova Stone', 'pokemon_id': 518, 'pokemon_name': 'Musharna'}]",Normal,517,Munna
+"[{'candy_required': 12, 'form': 'Normal', 'pokemon_id': 520, 'pokemon_name': 'Tranquill'}]",Normal,519,Pidove
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 521, 'pokemon_name': 'Unfezant'}]",Normal,520,Tranquill
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 523, 'pokemon_name': 'Zebstrika'}]",Normal,522,Blitzle
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 525, 'pokemon_name': 'Boldore'}]",Normal,524,Roggenrola
+"[{'candy_required': 200, 'form': 'Normal', 'no_candy_cost_if_traded': True, 'pokemon_id': 526, 'pokemon_name': 'Gigalith'}]",Normal,525,Boldore
+"[{'buddy_distance_required': 1.0, 'candy_required': 50, 'form': 'Normal', 'pokemon_id': 528, 'pokemon_name': 'Swoobat'}]",Normal,527,Woobat
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 530, 'pokemon_name': 'Excadrill'}]",Normal,529,Drilbur
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 533, 'pokemon_name': 'Gurdurr'}]",Normal,532,Timburr
+"[{'candy_required': 200, 'form': 'Normal', 'no_candy_cost_if_traded': True, 'pokemon_id': 534, 'pokemon_name': 'Conkeldurr'}]",Normal,533,Gurdurr
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 536, 'pokemon_name': 'Palpitoad'}]",Normal,535,Tympole
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 537, 'pokemon_name': 'Seismitoad'}]",Normal,536,Palpitoad
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 541, 'pokemon_name': 'Swadloon'}]",Normal,540,Sewaddle
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 542, 'pokemon_name': 'Leavanny'}]",Normal,541,Swadloon
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 544, 'pokemon_name': 'Whirlipede'}]",Normal,543,Venipede
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 545, 'pokemon_name': 'Scolipede'}]",Normal,544,Whirlipede
+"[{'candy_required': 50, 'form': 'Normal', 'item_required': 'Sun Stone', 'pokemon_id': 547, 'pokemon_name': 'Whimsicott'}]",Normal,546,Cottonee
+"[{'candy_required': 50, 'form': 'Normal', 'item_required': 'Sun Stone', 'pokemon_id': 549, 'pokemon_name': 'Lilligant'}]",Normal,548,Petilil
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 552, 'pokemon_name': 'Krokorok'}]",Normal,551,Sandile
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 553, 'pokemon_name': 'Krookodile'}]",Normal,552,Krokorok
+"[{'candy_required': 50, 'form': 'Galarian_standard', 'pokemon_id': 555, 'pokemon_name': 'Darmanitan'}]",Galarian,554,Darumaka
+"[{'candy_required': 50, 'form': 'Standard', 'pokemon_id': 555, 'pokemon_name': 'Darmanitan'}]",Normal,554,Darumaka
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 558, 'pokemon_name': 'Crustle'}]",Normal,557,Dwebble
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 560, 'pokemon_name': 'Scrafty'}]",Normal,559,Scraggy
+"[{'candy_required': 50, 'form': 'Galarian', 'pokemon_id': 867, 'pokemon_name': 'Runerigus'}]",Galarian,562,Yamask
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 563, 'pokemon_name': 'Cofagrigus'}]",Normal,562,Yamask
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 565, 'pokemon_name': 'Carracosta'}]",Normal,564,Tirtouga
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 567, 'pokemon_name': 'Archeops'}]",Normal,566,Archen
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 569, 'pokemon_name': 'Garbodor'}]",Normal,568,Trubbish
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 571, 'pokemon_name': 'Zoroark'}]",Normal,570,Zorua
+"[{'candy_required': 50, 'form': 'Normal', 'item_required': 'Unova Stone', 'pokemon_id': 573, 'pokemon_name': 'Cinccino'}]",Normal,572,Minccino
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 575, 'pokemon_name': 'Gothorita'}]",Normal,574,Gothita
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 576, 'pokemon_name': 'Gothitelle'}]",Normal,575,Gothorita
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 578, 'pokemon_name': 'Duosion'}]",Normal,577,Solosis
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 579, 'pokemon_name': 'Reuniclus'}]",Normal,578,Duosion
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 581, 'pokemon_name': 'Swanna'}]",Normal,580,Ducklett
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 583, 'pokemon_name': 'Vanillish'}]",Normal,582,Vanillite
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 584, 'pokemon_name': 'Vanilluxe'}]",Normal,583,Vanillish
+"[{'candy_required': 50, 'form': 'Autumn', 'pokemon_id': 586, 'pokemon_name': 'Sawsbuck'}]",Autumn,585,Deerling
+"[{'candy_required': 50, 'form': 'Spring', 'pokemon_id': 586, 'pokemon_name': 'Sawsbuck'}]",Spring,585,Deerling
+"[{'candy_required': 50, 'form': 'Summer', 'pokemon_id': 586, 'pokemon_name': 'Sawsbuck'}]",Summer,585,Deerling
+"[{'candy_required': 50, 'form': 'Winter', 'pokemon_id': 586, 'pokemon_name': 'Sawsbuck'}]",Winter,585,Deerling
+"[{'candy_required': 200, 'form': 'Normal', 'no_candy_cost_if_traded': True, 'pokemon_id': 589, 'pokemon_name': 'Escavalier'}]",Normal,588,Karrablast
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 591, 'pokemon_name': 'Amoonguss'}]",Normal,590,Foongus
+"[{'candy_required': 50, 'form': 'Female', 'pokemon_id': 593, 'pokemon_name': 'Jellicent'}]",Female,592,Frillish
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 593, 'pokemon_name': 'Jellicent'}]",Normal,592,Frillish
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 596, 'pokemon_name': 'Galvantula'}]",Normal,595,Joltik
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 598, 'pokemon_name': 'Ferrothorn'}]",Normal,597,Ferroseed
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 600, 'pokemon_name': 'Klang'}]",Normal,599,Klink
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 601, 'pokemon_name': 'Klinklang'}]",Normal,600,Klang
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 603, 'pokemon_name': 'Eelektrik'}]",Normal,602,Tynamo
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Unova Stone', 'pokemon_id': 604, 'pokemon_name': 'Eelektross'}]",Normal,603,Eelektrik
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 606, 'pokemon_name': 'Beheeyem'}]",Normal,605,Elgyem
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 608, 'pokemon_name': 'Lampent'}]",Normal,607,Litwick
+"[{'candy_required': 100, 'form': 'Normal', 'item_required': 'Unova Stone', 'pokemon_id': 609, 'pokemon_name': 'Chandelure'}]",Normal,608,Lampent
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 611, 'pokemon_name': 'Fraxure'}]",Normal,610,Axew
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 612, 'pokemon_name': 'Haxorus'}]",Normal,611,Fraxure
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 614, 'pokemon_name': 'Beartic'}]",Normal,613,Cubchoo
+"[{'candy_required': 50, 'form': 'Winter_2020', 'pokemon_id': 614, 'pokemon_name': 'Beartic'}]",Winter_2020,613,Cubchoo
+"[{'candy_required': 200, 'form': 'Normal', 'no_candy_cost_if_traded': True, 'pokemon_id': 617, 'pokemon_name': 'Accelgor'}]",Normal,616,Shelmet
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 620, 'pokemon_name': 'Mienshao'}]",Normal,619,Mienfoo
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 623, 'pokemon_name': 'Golurk'}]",Normal,622,Golett
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 625, 'pokemon_name': 'Bisharp'}]",Normal,624,Pawniard
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 628, 'pokemon_name': 'Braviary'}]",Normal,627,Rufflet
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 630, 'pokemon_name': 'Mandibuzz'}]",Normal,629,Vullaby
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 634, 'pokemon_name': 'Zweilous'}]",Normal,633,Deino
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 635, 'pokemon_name': 'Hydreigon'}]",Normal,634,Zweilous
+"[{'candy_required': 400, 'form': 'Normal', 'pokemon_id': 637, 'pokemon_name': 'Volcarona'}]",Normal,636,Larvesta
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 651, 'pokemon_name': 'Quilladin'}]",Normal,650,Chespin
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 652, 'pokemon_name': 'Chesnaught'}]",Normal,651,Quilladin
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 654, 'pokemon_name': 'Braixen'}]",Normal,653,Fennekin
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 655, 'pokemon_name': 'Delphox'}]",Normal,654,Braixen
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 657, 'pokemon_name': 'Frogadier'}]",Normal,656,Froakie
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 658, 'pokemon_name': 'Greninja'}]",Normal,657,Frogadier
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 660, 'pokemon_name': 'Diggersby'}]",Normal,659,Bunnelby
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 662, 'pokemon_name': 'Fletchinder'}]",Normal,661,Fletchling
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 663, 'pokemon_name': 'Talonflame'}]",Normal,662,Fletchinder
+"[{'candy_required': 25, 'form': 'Archipelago', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Archipelago,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Continental', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Continental,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Elegant', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Elegant,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Fancy', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Fancy,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Garden', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Garden,664,Scatterbug
+"[{'candy_required': 25, 'form': 'High_plains', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",High_plains,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Icy_snow', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Icy_snow,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Jungle', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Jungle,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Marine', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Marine,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Meadow', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Meadow,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Modern', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Modern,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Monsoon', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Monsoon,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Ocean', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Ocean,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Pokeball', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Pokeball,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Polar', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Polar,664,Scatterbug
+"[{'candy_required': 25, 'form': 'River', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",River,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Sandstorm', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Sandstorm,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Savanna', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Savanna,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Sun', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Sun,664,Scatterbug
+"[{'candy_required': 25, 'form': 'Tundra', 'pokemon_id': 665, 'pokemon_name': 'Spewpa'}]",Tundra,664,Scatterbug
+"[{'candy_required': 100, 'form': 'Archipelago', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Archipelago,665,Spewpa
+"[{'candy_required': 100, 'form': 'Continental', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Continental,665,Spewpa
+"[{'candy_required': 100, 'form': 'Elegant', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Elegant,665,Spewpa
+"[{'candy_required': 100, 'form': 'Fancy', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Fancy,665,Spewpa
+"[{'candy_required': 100, 'form': 'Garden', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Garden,665,Spewpa
+"[{'candy_required': 100, 'form': 'High_plains', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",High_plains,665,Spewpa
+"[{'candy_required': 100, 'form': 'Icy_snow', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Icy_snow,665,Spewpa
+"[{'candy_required': 100, 'form': 'Jungle', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Jungle,665,Spewpa
+"[{'candy_required': 100, 'form': 'Marine', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Marine,665,Spewpa
+"[{'candy_required': 100, 'form': 'Meadow', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Meadow,665,Spewpa
+"[{'candy_required': 100, 'form': 'Modern', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Modern,665,Spewpa
+"[{'candy_required': 100, 'form': 'Monsoon', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Monsoon,665,Spewpa
+"[{'candy_required': 100, 'form': 'Ocean', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Ocean,665,Spewpa
+"[{'candy_required': 100, 'form': 'Pokeball', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Pokeball,665,Spewpa
+"[{'candy_required': 100, 'form': 'Polar', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Polar,665,Spewpa
+"[{'candy_required': 100, 'form': 'River', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",River,665,Spewpa
+"[{'candy_required': 100, 'form': 'Sandstorm', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Sandstorm,665,Spewpa
+"[{'candy_required': 100, 'form': 'Savanna', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Savanna,665,Spewpa
+"[{'candy_required': 100, 'form': 'Sun', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Sun,665,Spewpa
+"[{'candy_required': 100, 'form': 'Tundra', 'pokemon_id': 666, 'pokemon_name': 'Vivillon'}]",Tundra,665,Spewpa
+"[{'candy_required': 50, 'form': 'Normal', 'gender_required': 'Male', 'pokemon_id': 668, 'pokemon_name': 'Pyroar'}, {'candy_required': 50, 'form': 'Female', 'gender_required': 'Female', 'pokemon_id': 668, 'pokemon_name': 'Pyroar'}]",Normal,667,Litleo
+"[{'candy_required': 25, 'form': 'Blue', 'pokemon_id': 670, 'pokemon_name': 'Floette'}]",Blue,669,Flabebe
+"[{'candy_required': 25, 'form': 'Orange', 'pokemon_id': 670, 'pokemon_name': 'Floette'}]",Orange,669,Flabebe
+"[{'candy_required': 25, 'form': 'Red', 'pokemon_id': 670, 'pokemon_name': 'Floette'}]",Red,669,Flabebe
+"[{'candy_required': 25, 'form': 'White', 'pokemon_id': 670, 'pokemon_name': 'Floette'}]",White,669,Flabebe
+"[{'candy_required': 25, 'form': 'Yellow', 'pokemon_id': 670, 'pokemon_name': 'Floette'}]",Yellow,669,Flabebe
+"[{'candy_required': 100, 'form': 'Blue', 'pokemon_id': 671, 'pokemon_name': 'Florges'}]",Blue,670,Floette
+"[{'candy_required': 100, 'form': 'Orange', 'pokemon_id': 671, 'pokemon_name': 'Florges'}]",Orange,670,Floette
+"[{'candy_required': 100, 'form': 'Red', 'pokemon_id': 671, 'pokemon_name': 'Florges'}]",Red,670,Floette
+"[{'candy_required': 100, 'form': 'White', 'pokemon_id': 671, 'pokemon_name': 'Florges'}]",White,670,Floette
+"[{'candy_required': 100, 'form': 'Yellow', 'pokemon_id': 671, 'pokemon_name': 'Florges'}]",Yellow,670,Floette
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 673, 'pokemon_name': 'Gogoat'}]",Normal,672,Skiddo
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 675, 'pokemon_name': 'Pangoro'}]",Normal,674,Pancham
+"[{'candy_required': 50, 'form': 'Normal', 'gender_required': 'Male', 'pokemon_id': 678, 'pokemon_name': 'Meowstic'}, {'candy_required': 50, 'form': 'Female', 'gender_required': 'Female', 'pokemon_id': 678, 'pokemon_name': 'Meowstic'}]",Normal,677,Espurr
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 680, 'pokemon_name': 'Doublade'}]",Normal,679,Honedge
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 681, 'pokemon_name': 'Aegislash'}]",Normal,680,Doublade
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 683, 'pokemon_name': 'Aromatisse'}]",Normal,682,Spritzee
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 685, 'pokemon_name': 'Slurpuff'}]",Normal,684,Swirlix
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 687, 'pokemon_name': 'Malamar', 'upside_down': True}]",Normal,686,Inkay
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 689, 'pokemon_name': 'Barbaracle'}]",Normal,688,Binacle
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 691, 'pokemon_name': 'Dragalge'}]",Normal,690,Skrelp
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 693, 'pokemon_name': 'Clawitzer'}]",Normal,692,Clauncher
+"[{'candy_required': 50, 'form': 'Normal', 'item_required': 'Sun Stone', 'pokemon_id': 695, 'pokemon_name': 'Heliolisk'}]",Normal,694,Helioptile
+"[{'candy_required': 50, 'form': 'Normal', 'only_evolves_in_daytime': True, 'pokemon_id': 697, 'pokemon_name': 'Tyrantrum'}]",Normal,696,Tyrunt
+"[{'candy_required': 50, 'form': 'Normal', 'only_evolves_in_nighttime': True, 'pokemon_id': 699, 'pokemon_name': 'Aurorus'}]",Normal,698,Amaura
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 705, 'pokemon_name': 'Sliggoo'}]",Normal,704,Goomy
+"[{'candy_required': 100, 'form': 'Normal', 'lure_required': 'Rainy Lure Module', 'pokemon_id': 706, 'pokemon_name': 'Goodra'}]",Normal,705,Sliggoo
+"[{'candy_required': 200, 'form': 'Normal', 'no_candy_cost_if_traded': True, 'pokemon_id': 709, 'pokemon_name': 'Trevenant'}]",Normal,708,Phantump
+"[{'candy_required': 200, 'form': 'Average', 'no_candy_cost_if_traded': True, 'pokemon_id': 711, 'pokemon_name': 'Gourgeist'}]",Average,710,Pumpkaboo
+"[{'candy_required': 200, 'form': 'Large', 'no_candy_cost_if_traded': True, 'pokemon_id': 711, 'pokemon_name': 'Gourgeist'}]",Large,710,Pumpkaboo
+"[{'candy_required': 200, 'form': 'Small', 'no_candy_cost_if_traded': True, 'pokemon_id': 711, 'pokemon_name': 'Gourgeist'}]",Small,710,Pumpkaboo
+"[{'candy_required': 200, 'form': 'Super', 'no_candy_cost_if_traded': True, 'pokemon_id': 711, 'pokemon_name': 'Gourgeist'}]",Super,710,Pumpkaboo
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 713, 'pokemon_name': 'Avalugg'}]",Normal,712,Bergmite
+"[{'candy_required': 400, 'form': 'Normal', 'pokemon_id': 715, 'pokemon_name': 'Noivern'}]",Normal,714,Noibat
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 723, 'pokemon_name': 'Dartrix'}]",Normal,722,Rowlet
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 724, 'pokemon_name': 'Decidueye'}]",Normal,723,Dartrix
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 726, 'pokemon_name': 'Torracat'}]",Normal,725,Litten
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 727, 'pokemon_name': 'Incineroar'}]",Normal,726,Torracat
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 729, 'pokemon_name': 'Brionne'}]",Normal,728,Popplio
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 730, 'pokemon_name': 'Primarina'}]",Normal,729,Brionne
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 732, 'pokemon_name': 'Trumbeak'}]",Normal,731,Pikipek
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 733, 'pokemon_name': 'Toucannon'}]",Normal,732,Trumbeak
+"[{'candy_required': 50, 'form': 'Normal', 'only_evolves_in_daytime': True, 'pokemon_id': 735, 'pokemon_name': 'Gumshoos'}]",Normal,734,Yungoos
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 737, 'pokemon_name': 'Charjabug'}]",Normal,736,Grubbin
+"[{'candy_required': 100, 'form': 'Normal', 'lure_required': 'Magnetic Lure Module', 'pokemon_id': 738, 'pokemon_name': 'Vikavolt'}]",Normal,737,Charjabug
+"[{'candy_required': 50, 'form': 'Normal', 'lure_required': 'Glacial Lure Module', 'pokemon_id': 740, 'pokemon_name': 'Crabominable'}]",Normal,739,Crabrawler
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 743, 'pokemon_name': 'Ribombee'}]",Normal,742,Cutiefly
+"[{'candy_required': 50, 'form': 'Dusk', 'pokemon_id': 745, 'pokemon_name': 'Lycanroc', 'priority': 10}]",Dusk,744,Rockruff
+"[{'candy_required': 50, 'form': 'Midday', 'only_evolves_in_daytime': True, 'pokemon_id': 745, 'pokemon_name': 'Lycanroc', 'priority': 10}, {'candy_required': 50, 'form': 'Midnight', 'only_evolves_in_nighttime': True, 'pokemon_id': 745, 'pokemon_name': 'Lycanroc', 'priority': 10}]",Normal,744,Rockruff
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 748, 'pokemon_name': 'Toxapex'}]",Normal,747,Mareanie
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 750, 'pokemon_name': 'Mudsdale'}]",Normal,749,Mudbray
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 752, 'pokemon_name': 'Araquanid'}]",Normal,751,Dewpider
+"[{'candy_required': 50, 'form': 'Normal', 'only_evolves_in_daytime': True, 'pokemon_id': 754, 'pokemon_name': 'Lurantis'}]",Normal,753,Fomantis
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 756, 'pokemon_name': 'Shiinotic'}]",Normal,755,Morelull
+"[{'candy_required': 50, 'form': 'Normal', 'gender_required': 'Female', 'pokemon_id': 758, 'pokemon_name': 'Salazzle'}]",Normal,757,Salandit
+"[{'candy_required': 400, 'form': 'Normal', 'pokemon_id': 760, 'pokemon_name': 'Bewear'}]",Normal,759,Stufful
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 762, 'pokemon_name': 'Steenee'}]",Normal,761,Bounsweet
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 763, 'pokemon_name': 'Tsareena'}]",Normal,762,Steenee
+"[{'candy_required': 400, 'form': 'Normal', 'pokemon_id': 768, 'pokemon_name': 'Golisopod'}]",Normal,767,Wimpod
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 770, 'pokemon_name': 'Palossand'}]",Normal,769,Sandygast
+"[{'candy_required': 200, 'form': 'Normal', 'pokemon_id': 773, 'pokemon_name': 'Silvally'}]",Normal,772,Type: Null
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 783, 'pokemon_name': 'Hakamo-o'}]",Normal,782,Jangmo-o
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 784, 'pokemon_name': 'Kommo-o'}]",Normal,783,Hakamo-o
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 790, 'pokemon_name': 'Cosmoem'}]",Normal,789,Cosmog
+"[{'candy_required': 100, 'form': 'Normal', 'only_evolves_in_daytime': True, 'pokemon_id': 791, 'pokemon_name': 'Solgaleo', 'priority': 10}, {'candy_required': 100, 'form': 'Normal', 'only_evolves_in_nighttime': True, 'pokemon_id': 792, 'pokemon_name': 'Lunala', 'priority': 10}]",Normal,790,Cosmoem
+"[{'candy_required': 200, 'form': 'Normal', 'pokemon_id': 804, 'pokemon_name': 'Naganadel'}]",Normal,803,Poipole
+"[{'candy_required': 400, 'form': 'Normal', 'pokemon_id': 809, 'pokemon_name': 'Melmetal'}]",Normal,808,Meltan
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 811, 'pokemon_name': 'Thwackey'}]",Normal,810,Grookey
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 812, 'pokemon_name': 'Rillaboom'}]",Normal,811,Thwackey
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 814, 'pokemon_name': 'Raboot'}]",Normal,813,Scorbunny
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 815, 'pokemon_name': 'Cinderace'}]",Normal,814,Raboot
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 817, 'pokemon_name': 'Drizzile'}]",Normal,816,Sobble
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 818, 'pokemon_name': 'Inteleon'}]",Normal,817,Drizzile
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 820, 'pokemon_name': 'Greedent'}]",Normal,819,Skwovet
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 822, 'pokemon_name': 'Corvisquire'}]",Normal,821,Rookidee
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 823, 'pokemon_name': 'Corviknight'}]",Normal,822,Corvisquire
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 825, 'pokemon_name': 'Dottler'}]",Normal,824,Blipbug
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 826, 'pokemon_name': 'Orbeetle'}]",Normal,825,Dottler
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 828, 'pokemon_name': 'Thievul'}]",Normal,827,Nickit
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 830, 'pokemon_name': 'Eldegoss'}]",Normal,829,Gossifleur
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 832, 'pokemon_name': 'Dubwool'}]",Normal,831,Wooloo
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 834, 'pokemon_name': 'Drednaw'}]",Normal,833,Chewtle
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 836, 'pokemon_name': 'Boltund'}]",Normal,835,Yamper
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 838, 'pokemon_name': 'Carkol'}]",Normal,837,Rolycoly
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 839, 'pokemon_name': 'Coalossal'}]",Normal,838,Carkol
+"[{'candy_required': 400, 'form': 'Normal', 'pokemon_id': 841, 'pokemon_name': 'Flapple'}, {'candy_required': 400, 'form': 'Normal', 'pokemon_id': 842, 'pokemon_name': 'Appletun'}]",Normal,840,Applin
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 844, 'pokemon_name': 'Sandaconda'}]",Normal,843,Silicobra
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 847, 'pokemon_name': 'Barraskewda'}]",Normal,846,Arrokuda
+"[{'candy_required': 50, 'form': 'Low_key', 'pokemon_id': 849, 'pokemon_name': 'Toxtricity'}, {'candy_required': 50, 'form': 'Amped', 'pokemon_id': 849, 'pokemon_name': 'Toxtricity'}]",Normal,848,Toxel
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 851, 'pokemon_name': 'Centiskorch'}]",Normal,850,Sizzlipede
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 853, 'pokemon_name': 'Grapploct'}]",Normal,852,Clobbopus
+"[{'candy_required': 50, 'form': 'Antique', 'pokemon_id': 855, 'pokemon_name': 'Polteageist'}]",Antique,854,Sinistea
+"[{'candy_required': 50, 'form': 'Phony', 'pokemon_id': 855, 'pokemon_name': 'Polteageist'}]",Phony,854,Sinistea
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 857, 'pokemon_name': 'Hattrem'}]",Normal,856,Hatenna
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 858, 'pokemon_name': 'Hatterene'}]",Normal,857,Hattrem
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 860, 'pokemon_name': 'Morgrem'}]",Normal,859,Impidimp
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 861, 'pokemon_name': 'Grimmsnarl'}]",Normal,860,Morgrem
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 869, 'pokemon_name': 'Alcremie'}]",Normal,868,Milcery
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 873, 'pokemon_name': 'Frosmoth'}]",Normal,872,Snom
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 879, 'pokemon_name': 'Copperajah'}]",Normal,878,Cufant
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 886, 'pokemon_name': 'Drakloak'}]",Normal,885,Dreepy
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 887, 'pokemon_name': 'Dragapult'}]",Normal,886,Drakloak
+"[{'candy_required': 400, 'form': 'Single_strike', 'pokemon_id': 892, 'pokemon_name': 'Urshifu'}, {'candy_required': 400, 'form': 'Rapid_strike', 'pokemon_id': 892, 'pokemon_name': 'Urshifu'}]",Normal,891,Kubfu
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 907, 'pokemon_name': 'Floragato'}]",Normal,906,Sprigatito
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 908, 'pokemon_name': 'Meowscarada'}]",Normal,907,Floragato
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 910, 'pokemon_name': 'Crocalor'}]",Normal,909,Fuecoco
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 911, 'pokemon_name': 'Skeledirge'}]",Normal,910,Crocalor
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 913, 'pokemon_name': 'Quaxwell'}]",Normal,912,Quaxly
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 914, 'pokemon_name': 'Quaquaval'}]",Normal,913,Quaxwell
+"[{'candy_required': 50, 'form': 'Normal', 'gender_required': 'Male', 'pokemon_id': 916, 'pokemon_name': 'Oinkologne'}, {'candy_required': 50, 'form': 'Female', 'gender_required': 'Female', 'pokemon_id': 916, 'pokemon_name': 'Oinkologne'}]",Normal,915,Lechonk
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 918, 'pokemon_name': 'Spidops'}]",Normal,917,Tarountula
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 920, 'pokemon_name': 'Lokix'}]",Normal,919,Nymble
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 922, 'pokemon_name': 'Pawmo'}]",Normal,921,Pawmi
+"[{'buddy_distance_required': 25.0, 'candy_required': 100, 'form': 'Normal', 'pokemon_id': 923, 'pokemon_name': 'Pawmot'}]",Normal,922,Pawmo
+"[{'candy_required': 50, 'form': 'Family_of_four', 'pokemon_id': 925, 'pokemon_name': 'Maushold'}, {'candy_required': 50, 'form': 'Family_of_three', 'pokemon_id': 925, 'pokemon_name': 'Maushold'}]",Normal,924,Tandemaus
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 927, 'pokemon_name': 'Dachsbun'}]",Normal,926,Fidough
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 929, 'pokemon_name': 'Dolliv'}]",Normal,928,Smoliv
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 930, 'pokemon_name': 'Arboliva'}]",Normal,929,Dolliv
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 933, 'pokemon_name': 'Naclstack'}]",Normal,932,Nacli
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 934, 'pokemon_name': 'Garganacl'}]",Normal,933,Naclstack
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 936, 'pokemon_name': 'Armarouge', 'priority': 1}, {'candy_required': 50, 'form': 'Normal', 'pokemon_id': 937, 'pokemon_name': 'Ceruledge', 'priority': 1}]",Normal,935,Charcadet
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 939, 'pokemon_name': 'Bellibolt'}]",Normal,938,Tadbulb
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 941, 'pokemon_name': 'Kilowattrel'}]",Normal,940,Wattrel
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 943, 'pokemon_name': 'Mabosstiff'}]",Normal,942,Maschiff
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 945, 'pokemon_name': 'Grafaiai'}]",Normal,944,Shroodle
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 947, 'pokemon_name': 'Brambleghast'}]",Normal,946,Bramblin
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 949, 'pokemon_name': 'Toedscruel'}]",Normal,948,Toedscool
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 952, 'pokemon_name': 'Scovillain'}]",Normal,951,Capsakid
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 954, 'pokemon_name': 'Rabsca'}]",Normal,953,Rellor
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 956, 'pokemon_name': 'Espathra'}]",Normal,955,Flittle
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 958, 'pokemon_name': 'Tinkatuff'}]",Normal,957,Tinkatink
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 959, 'pokemon_name': 'Tinkaton'}]",Normal,958,Tinkatuff
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 961, 'pokemon_name': 'Wugtrio'}]",Normal,960,Wiglett
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 964, 'pokemon_name': 'Palafin'}]",Normal,963,Finizen
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 966, 'pokemon_name': 'Revavroom'}]",Normal,965,Varoom
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 970, 'pokemon_name': 'Glimmora'}]",Normal,969,Glimmet
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 972, 'pokemon_name': 'Houndstone'}]",Normal,971,Greavard
+"[{'candy_required': 50, 'form': 'Normal', 'pokemon_id': 975, 'pokemon_name': 'Cetitan'}]",Normal,974,Cetoddle
+"[{'candy_required': 25, 'form': 'Normal', 'pokemon_id': 997, 'pokemon_name': 'Arctibax'}]",Normal,996,Frigibax
+"[{'candy_required': 100, 'form': 'Normal', 'pokemon_id': 998, 'pokemon_name': 'Baxcalibur'}]",Normal,997,Arctibax
