@@ -133,8 +133,8 @@ def linear_regression_analysis_of_IVs(df, target):
 
 def main(pokemon_form,pokemon_name):
 
-    pkm_data_dir = f'data/processed/app_calcs/{pokemon_form}_{pokemon_name}.csv'
-    pkm_data_dir2 = f'data/processed/app_calcs/{pokemon_name}.csv'
+    pkm_data_dir = f'data/cache/{pokemon_form}_{pokemon_name}.csv'
+    pkm_data_dir2 = f'data/cache/{pokemon_name}.csv'
 
     try:
         df = pd.read_csv(pkm_data_dir)
@@ -148,7 +148,9 @@ def main(pokemon_form,pokemon_name):
     #add analysis of combined IVs
     df['IV_tot'] = df['IV_atk'] + df['IV_def'] + df['IV_sta']
     specified_levels = [10,20,30,40,50]
-    
+    df.drop(columns=['is_shadow','form','pokemon_name',
+                     'fast_move','first_charged_move','second_charged_move'], inplace=True)
+
     correlation_matrix(df)
     plot_pair_plot(df, specified_levels)
     feature_importance(df)

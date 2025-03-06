@@ -11,33 +11,35 @@ from scripts.train_model import main as train_models
 #from scripts.train_model import main as train_model
 #from scripts.predict import main as predict
 
-fetch_new_data = False
-recalculate_pokemon_data_files = False
-rewrite_internal_data = False
-EDA = False
+#---------------------------------------------------------------------------------
+fetch_new_data = False #retrieves new data from the pokemon go database api
+recalculate_pokemon_data_files = False #will remove datafiles from the masterleague dataset
+rewrite_internal_data = False #rewrites all csv files in /internal from scraped data
+EDA = False #runs the EDA on pokemon specified and stored in /data/cache
 
-GEN_BATTLE_DB = False #only do this when the meta changes (for each new MasterLeague_Threats.csv)
-TRAIN_MODELS = False #only run if a model does not exist
+GEN_BATTLE_DB = False #only do this when the meta changes (for each new MasterLeague_Threats.csv) - updates database for model training
+TRAIN_MODELS = False # make new classification and regression models- only run if a model does not exist or parameters are changed
 model_dir = 'data/models/'
-threshold = 0.25 #has a threshold*100% chance of winning in the current ML meta
+threshold = 0.25 #has a threshold*100% chance of winning in the current ML meta (keep below 0.35)
 
-#------------------------BATTLE TEST, for testing the battle_simulation.py script
-BATTLE_TEST = False
+#------------------------
 PREDICT_USING_MODEL = True
 pokemon_name = 'Melmetal'
 form_pokemon = 'Normal'
-moveset = 'best' #['Psycho Cut','Shadow Ball','Psystrike']#['Shadow Claw','Ominous Wind',"Shadow Ball"]
+moveset = 'best' #or specific moveset ['Psystrike','Shadow Claw','Ominous Wind'] (not optimized)
 is_shadow = False
 IVs = [14,14,14]
 LEVEL = 40
 #------------------------
 
+BATTLE_TEST = False #for testing the battle_simulation.py script (DEBUGGING)
 data_dirs = [Path(os.getcwd()) / 'data' / 'processed' / 'raw', 
              Path(os.getcwd()) / 'data' / 'processed' / 'internal',
              Path(os.getcwd()) / 'data' / 'processing'
              ]
 poke_dir = Path(os.getcwd()) / 'data' / 'processed' / 'battle_leagues' / 'ML_META'
 calc_dir = Path(os.getcwd()) / 'data' / 'processed' / 'app_calcs'
+cache_dir = Path(os.getcwd()) / 'data' / 'cache'
 
 #1,0,0,0,45,24,0.31,1.04,0.2
 #1,15,15,15,51,26,0.37,1.11,0.21
@@ -64,12 +66,20 @@ if recalculate_pokemon_data_files:
             file.unlink()
 
 if EDA:
-    pokemon_info = ["Normal","Melmetal",False] #for testing purposes (bool is shadow)
-    IVS = [range(1, 16), range(1, 16), range(1, 16)]
+
+    pokemon_info = ["Melmetal","Normal",False] #for testing purposes (bool is shadow)
+    CLEAR = False #If you clear it will take a long time to generate the pokemon file again
+    if CLEAR:
+        for file in cache_dir.iterdir():
+            if file.is_file():
+                file.unlink()
+    IVS = [range(0, 16), range(0, 16), range(0, 16)]
     LEVELS = range(1, 51)
-    get_pokemon_data(pokemon_info[0],pokemon_info[1],False,IVS=IVS,LEVELS=LEVELS,print_out=True)
+    if CLEAR:
+        get_pokemon_data(pokemon_info[0],pokemon_info[1],pokemon_info[2],
+                        IVS=IVS,LEVELS=LEVELS,print_dir=cache_dir,print_out=True)
     #TIME ESTIMATES: unknown
-    run_EDA(pokemon_info[0],pokemon_info[1])
+    run_EDA(pokemon_info[1],pokemon_info[0])
 
 if BATTLE_TEST:
     for file in list(calc_dir.iterdir()):
@@ -207,6 +217,7 @@ if PREDICT_USING_MODEL:
     viable = viability_model.predict(pokemon_data_df1)
     viable_lvl = math.ceil(minlvl_regressor_model.predict(pokemon_data_df2)[0]*2)/2
     if LEVEL >= viable_lvl: viable = 1 #bridge the gap between the two models
+    if (LEVEL < viable_lvl) and viable == 0: viable = 2
     evolved_pokemon = pokemon_data.pokemon_name
     if is_shadow:
         evolved_pokemon = "Shadow " + evolved_pokemon
@@ -214,7 +225,7 @@ if PREDICT_USING_MODEL:
 
     
     print('--------------------------------------RESULTS--------------------------------------')
-    if viable_lvl > 50:
+    if viable_lvl > 49:
         print(f"      A {pokemon_name} if fully evolved and powered up with these stats will most")
         print(f"  likely fail to hold its weight in Master League battles... Maybe your {pokemon_name}")
         print(f"          could be used to take on Rocket Grunts if trained well...")
@@ -227,7 +238,7 @@ if PREDICT_USING_MODEL:
                 print("")
                 print(f"        Acording to my calculations a {evolved_pokemon} at or above level {viable_lvl}")
                 print( "             with these IVs should stand a chance in the Master League")
-            else: 
+            if viable == 0:
                 print("")
                 print(f"  ... it might be best not to use a {pokemon_name} at this level ")
                 print(f"    in the Master League until it is powered up to level {viable_lvl}!")
@@ -239,8 +250,11 @@ if PREDICT_USING_MODEL:
                 print("")
                 print(f"       Acording to my calculations a {pokemon_name} at or above level {viable_lvl}")
                 print("                 should stand a chance in the Master League")
-            else: 
+            if viable == 0:
                 print(f"     ... it might be best not to use this {pokemon_name} in the Master League until it")
                 print(f"  is powered up around level {viable_lvl}! A higher IV pokemon may be viable, however...")
+    if viable == 2: 
+        print(f" ...this {pokemon_name} could hold potential at it's current power if it is fully evolved")
+        print(f"          but it will do better as it gets closer to {viable_lvl}")
     print('-----------------------------------------------------------------------------------')
 
