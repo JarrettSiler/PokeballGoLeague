@@ -21,7 +21,7 @@ def correlation_matrix(pkm):
 
 def feature_importance(pkm):
 
-    y = ["DPT","DPE","TDO"]
+    y = ["TDO"] #"DPT","DPE",
     for entry in y:
         #we see in the correlation matrix that level is extremely important,
         #lets analyze the other variables

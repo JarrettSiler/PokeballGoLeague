@@ -4,9 +4,11 @@ from sklearn.model_selection import train_test_split, RandomizedSearchCV
 from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, mean_squared_error, r2_score
+from sklearn.metrics import accuracy_score, mean_squared_error, r2_score, precision_score, recall_score, auc
 from scipy.interpolate import interp1d
 from xgboost import XGBRegressor
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 CALC_DIR = "data/processed/app_calcs"
 MODEL_DIR = "data/models/"
@@ -91,6 +93,15 @@ def train_minimum_level(df,threshold): #regression
     print(f"r^2 Score: {r2}")
     print("Saving XGBRegressor model as data/models/minlvl_regressor_model.pkl...")
     print('')
+
+    plt.figure(figsize=(8,6))
+    plt.scatter(y_test, y_pred, alpha=0.5, color='red')
+    plt.plot([min(y_test), max(y_test)], [min(y_test), max(y_test)], '--', color='green')  # Diagonal line
+    plt.xlabel('Actual Minimum Viable Levels')
+    plt.ylabel('Predicted Minimum Viable Level')
+    plt.title('Actual vs Predicted Level Scatter Plot')
+    plt.show()
+
     joblib.dump(model, MODEL_DIR+'minlvl_regressor_model.pkl')
     
 def train_viability(threshold):
@@ -131,20 +142,31 @@ def train_viability(threshold):
     modelRF.fit(X_train, y_train)
     y_pred = modelRF.predict(X_test)
     RF_acc = accuracy_score(y_test, y_pred)
+    RF_precision = precision_score(y_test, y_pred, average='binary')
+    RF_recall = recall_score(y_test, y_pred, average='binary')
     print("Accuracy of Random Forest Classifier:", RF_acc)
+    print("Precision of Random Forest Classifier:", RF_precision)
+    print("Recall of Random Forest Classifier:", RF_recall)
+    print("")
     #print(classification_report(y_test, y_pred))
 
     #second model- Logistic Regression
     modelLR = LogisticRegression(max_iter=5000) #increase iterations because this is a complex model
     modelLR.fit(X_train, y_train)
-    y_pred = modelLR.predict(X_test)
-    LR_acc = accuracy_score(y_test, y_pred)
+    y_pred2 = modelLR.predict(X_test)
+    LR_acc = accuracy_score(y_test, y_pred2)
+    LR_precision = precision_score(y_test, y_pred2, average='binary')
+    LR_recall = recall_score(y_test, y_pred2, average='binary')
     print("Accuracy of Logistic Regression:", LR_acc)
+    print("Precision of Logistic Regression:", LR_precision)
+    print("Recall of Logistic Regression:", LR_recall)
+    print("")
     #print(classification_report(y_test, y_pred))
 
     if LR_acc > RF_acc:
         print("Logistic Regression had highest accuracy, saving as data/models/viability_model.pkl...")
         best_model = modelLR
+        y_pred = y_pred2
     else:
         print("Random Forest Classifier had highest accuracy, saving as data/models/viability_model.pkl...")
         best_model = modelRF
